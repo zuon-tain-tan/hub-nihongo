@@ -1,0 +1,132 @@
+[
+  {
+    "phan_nhom": "Giao tiếp chung",
+    "tu_vung": "あう (会います)",
+    "y_nghia": "Gặp"
+  },
+  {
+    "phan_nhom": "Giao tiếp chung",
+    "tu_vung": "よぶ (呼びます)",
+    "y_nghia": "Gọi"
+  },
+  {
+    "phan_nhom": "Giao tiếp chung",
+    "tu_vung": "はなす (話します)",
+    "y_nghia": "Nói chuyện"
+  },
+  {
+    "phan_nhom": "Giao tiếp chung",
+    "tu_vung": "いう (言います)",
+    "y_nghia": "Nói"
+  },
+  {
+    "phan_nhom": "Giao tiếp chung",
+    "tu_vung": "でんわする (電話します)",
+    "y_nghia": "Gọi điện"
+  },
+  {
+    "phan_nhom": "Giao tiếp chung",
+    "tu_vung": "かける",
+    "y_nghia": "Gọi [điện thoại]"
+  },
+  {
+    "phan_nhom": "Giao tiếp chung",
+    "tu_vung": "みせる (見せます)",
+    "y_nghia": "Cho xem"
+  },
+  {
+    "phan_nhom": "Giao tiếp chung",
+    "tu_vung": "おしえる (教えます)",
+    "y_nghia": "Dạy/Cho biết"
+  },
+  {
+    "phan_nhom": "Giao tiếp chung",
+    "tu_vung": "ならう (習います)",
+    "y_nghia": "Học (từ ai đó)"
+  },
+  {
+    "phan_nhom": "Giao tiếp chung",
+    "tu_vung": "きく (聞きます)",
+    "y_nghia": "Hỏi (giáo viên)"
+  },
+  {
+    "phan_nhom": "Giao tiếp chung",
+    "tu_vung": "しょうかいする (紹介します)",
+    "y_nghia": "Giới thiệu"
+  },
+  {
+    "phan_nhom": "Giao tiếp chung",
+    "tu_vung": "あんないする (案内します)",
+    "y_nghia": "Hướng dẫn"
+  },
+  {
+    "phan_nhom": "Giao tiếp chung",
+    "tu_vung": "せつめいする (説明します)",
+    "y_nghia": "Giải thích"
+  },
+  {
+    "phan_nhom": "Giao tiếp chung",
+    "tu_vung": "かくにんする (確認します)",
+    "y_nghia": "Xác nhận"
+  },
+  {
+    "phan_nhom": "Giao tiếp chung",
+    "tu_vung": "よやくする (予約します)",
+    "y_nghia": "Đặt chỗ trước"
+  },
+  {
+    "phan_nhom": "Trao & Nhận & Nhờ vả",
+    "tu_vung": "くれる",
+    "y_nghia": "Cho/tặng (tôi)"
+  },
+  {
+    "phan_nhom": "Trao & Nhận & Nhờ vả",
+    "tu_vung": "あげる",
+    "y_nghia": "Tặng/Cho"
+  },
+  {
+    "phan_nhom": "Trao & Nhận & Nhờ vả",
+    "tu_vung": "もらう",
+    "y_nghia": "Nhận"
+  },
+  {
+    "phan_nhom": "Trao & Nhận & Nhờ vả",
+    "tu_vung": "かす (貸す)",
+    "y_nghia": "Cho mượn"
+  },
+  {
+    "phan_nhom": "Trao & Nhận & Nhờ vả",
+    "tu_vung": "かりる (借りる)",
+    "y_nghia": "Mượn"
+  },
+  {
+    "phan_nhom": "Trao & Nhận & Nhờ vả",
+    "tu_vung": "おくる (送る)",
+    "y_nghia": "Gửi (hàng/thư)"
+  },
+  {
+    "phan_nhom": "Trao & Nhận & Nhờ vả",
+    "tu_vung": "だす (出します)",
+    "y_nghia": "Gửi [thư] / Nộp [báo cáo]"
+  },
+  {
+    "phan_nhom": "Trao & Nhận & Nhờ vả",
+    "tu_vung": "てつだう (手伝います)",
+    "y_nghia": "Giúp"
+  },
+  {
+    "phan_nhom": "Trao & Nhận & Nhờ vả",
+    "tu_vung": "かえす (返します)",
+    "y_nghia": "Trả lại"
+  },
+  {
+    "phan_nhom": "Trao & Nhận & Nhờ vả",
+    "tu_vung": "かえる (替えます)",
+    "y_nghia": "Đổi"
+  },
+  {
+    "phan_nhom": "Trao & Nhận & Nhờ vả",
+    "tu_vung": "いる (要ります)",
+    "y_nghia": "Cần (VD: cần visa)"
+  }
+]

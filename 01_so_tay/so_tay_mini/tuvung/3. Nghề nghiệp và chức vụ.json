@@ -1,0 +1,97 @@
+[
+  {
+    "phan_nhom": "Nghề nghiệp chung",
+    "tu_vung": "せんせい (先生)",
+    "y_nghia": "Giáo viên/Bác sĩ"
+  },
+  {
+    "phan_nhom": "Nghề nghiệp chung",
+    "tu_vung": "きょうし (教師)",
+    "y_nghia": "Nghề nghiệp giáo viên"
+  },
+  {
+    "phan_nhom": "Nghề nghiệp chung",
+    "tu_vung": "がくせい (学生)",
+    "y_nghia": "Học sinh/Sinh viên"
+  },
+  {
+    "phan_nhom": "Nghề nghiệp chung",
+    "tu_vung": "りゅうがくせい (留学生)",
+    "y_nghia": "Lưu/Du học sinh"
+  },
+  {
+    "phan_nhom": "Nghề nghiệp chung",
+    "tu_vung": "かいしゃいん (会社員)",
+    "y_nghia": "Nhân viên công ty"
+  },
+  {
+    "phan_nhom": "Nghề nghiệp chung",
+    "tu_vung": "サラリーマン",
+    "y_nghia": "Người làm việc cho công ty"
+  },
+  {
+    "phan_nhom": "Nghề nghiệp chung",
+    "tu_vung": "～しゃいん (社員)",
+    "y_nghia": "Nhân viên công ty ~"
+  },
+  {
+    "phan_nhom": "Nghề nghiệp chung",
+    "tu_vung": "ぎんこういん (銀行員)",
+    "y_nghia": "Nhân viên ngân hàng"
+  },
+  {
+    "phan_nhom": "Nghề nghiệp chung",
+    "tu_vung": "いしゃ (医者)",
+    "y_nghia": "Bác sĩ"
+  },
+  {
+    "phan_nhom": "Nghề nghiệp chung",
+    "tu_vung": "はいしゃ (歯医者)",
+    "y_nghia": "Nha sĩ"
+  },
+  {
+    "phan_nhom": "Nghề nghiệp chung",
+    "tu_vung": "とこや (床屋)",
+    "y_nghia": "Hiệu cắt tóc"
+  },
+  {
+    "phan_nhom": "Nghề nghiệp chung",
+    "tu_vung": "けんきゅうしゃ (研究者)",
+    "y_nghia": "Nhà nghiên cứu"
+  },
+  {
+    "phan_nhom": "Nghề nghiệp chung",
+    "tu_vung": "エンジニア",
+    "y_nghia": "Kỹ sư"
+  },
+  {
+    "phan_nhom": "Nghề nghiệp chung",
+    "tu_vung": "せんもん (専門)",
+    "y_nghia": "Chuyên môn"
+  },
+  {
+    "phan_nhom": "Chức vụ lãnh đạo",
+    "tu_vung": "かちょう (課長)",
+    "y_nghia": "Tổ trưởng"
+  },
+  {
+    "phan_nhom": "Chức vụ lãnh đạo",
+    "tu_vung": "ぶちょう (部長)",
+    "y_nghia": "Trưởng phòng"
+  },
+  {
+    "phan_nhom": "Chức vụ lãnh đạo",
+    "tu_vung": "しゃちょう (社長)",
+    "y_nghia": "Giám đốc"
+  },
+  {
+    "phan_nhom": "Chức vụ lãnh đạo",
+    "tu_vung": "しゅしょう (首相)",
+    "y_nghia": "Thủ tướng"
+  },
+  {
+    "phan_nhom": "Chức vụ lãnh đạo",
+    "tu_vung": "だいとうりょう (大統領)",
+    "y_nghia": "Tổng thống"
+  }
+]

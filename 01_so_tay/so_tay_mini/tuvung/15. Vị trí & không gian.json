@@ -1,0 +1,97 @@
+[
+  {
+    "phan_nhom": "Không gian chung",
+    "tu_vung": "うえ (上)",
+    "y_nghia": "Trên"
+  },
+  {
+    "phan_nhom": "Không gian chung",
+    "tu_vung": "した (下)",
+    "y_nghia": "Dưới"
+  },
+  {
+    "phan_nhom": "Không gian chung",
+    "tu_vung": "まえ (前)",
+    "y_nghia": "Trước"
+  },
+  {
+    "phan_nhom": "Không gian chung",
+    "tu_vung": "うしろ (後ろ)",
+    "y_nghia": "Sau"
+  },
+  {
+    "phan_nhom": "Không gian chung",
+    "tu_vung": "みぎ (右)",
+    "y_nghia": "Phải"
+  },
+  {
+    "phan_nhom": "Không gian chung",
+    "tu_vung": "ひだり (左)",
+    "y_nghia": "Trái"
+  },
+  {
+    "phan_nhom": "Không gian chung",
+    "tu_vung": "なか (中)",
+    "y_nghia": "Trong/Ở giữa"
+  },
+  {
+    "phan_nhom": "Không gian chung",
+    "tu_vung": "そと (外)",
+    "y_nghia": "Ngoài"
+  },
+  {
+    "phan_nhom": "Khoảng cách & Cấp độ",
+    "tu_vung": "となり (隣)",
+    "y_nghia": "Bên cạnh"
+  },
+  {
+    "phan_nhom": "Khoảng cách & Cấp độ",
+    "tu_vung": "ちかく (近く)",
+    "y_nghia": "Gần"
+  },
+  {
+    "phan_nhom": "Khoảng cách & Cấp độ",
+    "tu_vung": "あいだ (間)",
+    "y_nghia": "Ở giữa"
+  },
+  {
+    "phan_nhom": "Khoảng cách & Cấp độ",
+    "tu_vung": "いちばん (一番)",
+    "y_nghia": "Nhất (vị trí/Số 1)"
+  },
+  {
+    "phan_nhom": "Khoảng cách & Cấp độ",
+    "tu_vung": "ちか (地下)",
+    "y_nghia": "Tầng hầm"
+  },
+  {
+    "phan_nhom": "Khoảng cách & Cấp độ",
+    "tu_vung": "～かい (～階)",
+    "y_nghia": "Tầng thứ ~"
+  },
+  {
+    "phan_nhom": "Khoảng cách & Cấp độ",
+    "tu_vung": "なんがい (何階)",
+    "y_nghia": "Tầng mấy"
+  },
+  {
+    "phan_nhom": "Khoảng cách & Cấp độ",
+    "tu_vung": "だんめ (段目)",
+    "y_nghia": "Tầng thứ ~ (của kệ)"
+  },
+  {
+    "phan_nhom": "Trạng thái Tồn tại",
+    "tu_vung": "ある (あります)",
+    "y_nghia": "Có/Ở (vật/địa điểm) / Được tổ chức"
+  },
+  {
+    "phan_nhom": "Trạng thái Tồn tại",
+    "tu_vung": "いる (います)",
+    "y_nghia": "Có/Ở (người/động vật)"
+  },
+  {
+    "phan_nhom": "Trạng thái Tồn tại",
+    "tu_vung": "いらっしゃいます",
+    "y_nghia": "Kính ngữ của いる"
+  }
+]

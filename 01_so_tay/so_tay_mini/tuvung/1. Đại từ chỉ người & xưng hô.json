@@ -1,0 +1,92 @@
+[
+  {
+    "phan_nhom": "Đại từ nhân xưng",
+    "tu_vung": "わたし (私)",
+    "y_nghia": "Tôi"
+  },
+  {
+    "phan_nhom": "Đại từ nhân xưng",
+    "tu_vung": "ぼく (僕)",
+    "y_nghia": "Tớ (Nam giới hay dùng)"
+  },
+  {
+    "phan_nhom": "Đại từ nhân xưng",
+    "tu_vung": "わたしたち (私たち)",
+    "y_nghia": "Chúng tôi"
+  },
+  {
+    "phan_nhom": "Đại từ nhân xưng",
+    "tu_vung": "あなた",
+    "y_nghia": "Anh/Chị/Bạn"
+  },
+  {
+    "phan_nhom": "Đại từ nhân xưng",
+    "tu_vung": "きみ (君)",
+    "y_nghia": "Cậu/Bạn"
+  },
+  {
+    "phan_nhom": "Đại từ nhân xưng",
+    "tu_vung": "あのひと (あの人)",
+    "y_nghia": "Người kia"
+  },
+  {
+    "phan_nhom": "Đại từ nhân xưng",
+    "tu_vung": "あのかた (あの方)",
+    "y_nghia": "Vị kia (Lịch sự)"
+  },
+  {
+    "phan_nhom": "Đại từ nhân xưng",
+    "tu_vung": "みなさん (皆さん)",
+    "y_nghia": "Mọi người"
+  },
+  {
+    "phan_nhom": "Đại từ nhân xưng",
+    "tu_vung": "かれ (彼)",
+    "y_nghia": "Anh ấy/Bạn trai"
+  },
+  {
+    "phan_nhom": "Đại từ nhân xưng",
+    "tu_vung": "かのじょ (彼女)",
+    "y_nghia": "Chị ấy/Bạn gái"
+  },
+  {
+    "phan_nhom": "Đại từ nhân xưng",
+    "tu_vung": "みんなで",
+    "y_nghia": "Mọi người (cùng làm gì đó)"
+  },
+  {
+    "phan_nhom": "Hậu tố tên & Tuổi",
+    "tu_vung": "～さん",
+    "y_nghia": "Hậu tố lịch sự sau tên"
+  },
+  {
+    "phan_nhom": "Hậu tố tên & Tuổi",
+    "tu_vung": "～ちゃん",
+    "y_nghia": "Hậu tố thân mật cho trẻ em/con gái"
+  },
+  {
+    "phan_nhom": "Hậu tố tên & Tuổi",
+    "tu_vung": "～くん (～君)",
+    "y_nghia": "Hậu tố thân mật cho bé trai/em trai"
+  },
+  {
+    "phan_nhom": "Hậu tố tên & Tuổi",
+    "tu_vung": "～じん (～人)",
+    "y_nghia": "Người nước ~"
+  },
+  {
+    "phan_nhom": "Hậu tố tên & Tuổi",
+    "tu_vung": "～さい (～歳)",
+    "y_nghia": "Tuổi"
+  },
+  {
+    "phan_nhom": "Hậu tố tên & Tuổi",
+    "tu_vung": "なんさい (何歳)",
+    "y_nghia": "Mấy tuổi"
+  },
+  {
+    "phan_nhom": "Hậu tố tên & Tuổi",
+    "tu_vung": "おいくつ",
+    "y_nghia": "Bao nhiêu tuổi (Lịch sự)"
+  }
+]

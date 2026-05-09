@@ -1,0 +1,127 @@
+[
+  {
+    "phan_nhom": "Hạ tầng giao thông",
+    "tu_vung": "みち (道)",
+    "y_nghia": "Đường"
+  },
+  {
+    "phan_nhom": "Hạ tầng giao thông",
+    "tu_vung": "こうさてん (交差点)",
+    "y_nghia": "Ngã tư"
+  },
+  {
+    "phan_nhom": "Hạ tầng giao thông",
+    "tu_vung": "しんごう (信号)",
+    "y_nghia": "Đèn tín hiệu"
+  },
+  {
+    "phan_nhom": "Hạ tầng giao thông",
+    "tu_vung": "かど (角)",
+    "y_nghia": "Góc"
+  },
+  {
+    "phan_nhom": "Hạ tầng giao thông",
+    "tu_vung": "はし (橋)",
+    "y_nghia": "Cầu"
+  },
+  {
+    "phan_nhom": "Hạ tầng giao thông",
+    "tu_vung": "えき (駅)",
+    "y_nghia": "Nhà ga"
+  },
+  {
+    "phan_nhom": "Hạ tầng giao thông",
+    "tu_vung": "くうこう (空港)",
+    "y_nghia": "Sân bay"
+  },
+  {
+    "phan_nhom": "Hạ tầng giao thông",
+    "tu_vung": "のりば (乗り場)",
+    "y_nghia": "Bến xe"
+  },
+  {
+    "phan_nhom": "Hạ tầng giao thông",
+    "tu_vung": "まっすぐ",
+    "y_nghia": "Thẳng"
+  },
+  {
+    "phan_nhom": "Phương tiện di chuyển",
+    "tu_vung": "こうつう (交通)",
+    "y_nghia": "Giao thông"
+  },
+  {
+    "phan_nhom": "Phương tiện di chuyển",
+    "tu_vung": "ひこうき (飛行機)",
+    "y_nghia": "Máy bay"
+  },
+  {
+    "phan_nhom": "Phương tiện di chuyển",
+    "tu_vung": "ふね (船)",
+    "y_nghia": "Thuyền/Tàu thủy"
+  },
+  {
+    "phan_nhom": "Phương tiện di chuyển",
+    "tu_vung": "でんしゃ (電車)",
+    "y_nghia": "Tàu điện"
+  },
+  {
+    "phan_nhom": "Phương tiện di chuyển",
+    "tu_vung": "ちかてつ (地下鉄)",
+    "y_nghia": "Tàu điện ngầm"
+  },
+  {
+    "phan_nhom": "Phương tiện di chuyển",
+    "tu_vung": "しんかんせん (新幹線)",
+    "y_nghia": "Tàu siêu tốc"
+  },
+  {
+    "phan_nhom": "Phương tiện di chuyển",
+    "tu_vung": "バス",
+    "y_nghia": "Xe buýt"
+  },
+  {
+    "phan_nhom": "Phương tiện di chuyển",
+    "tu_vung": "タクシー",
+    "y_nghia": "Xe taxi"
+  },
+  {
+    "phan_nhom": "Phương tiện di chuyển",
+    "tu_vung": "じてんしゃ (自転車)",
+    "y_nghia": "Xe đạp"
+  },
+  {
+    "phan_nhom": "Phương tiện di chuyển",
+    "tu_vung": "じどうしゃ (自動車)",
+    "y_nghia": "Ô tô"
+  },
+  {
+    "phan_nhom": "Phương tiện di chuyển",
+    "tu_vung": "あるいて (歩いて)",
+    "y_nghia": "Đi bộ"
+  },
+  {
+    "phan_nhom": "Thuật ngữ Đường sắt",
+    "tu_vung": "ばんせん (～番線)",
+    "y_nghia": "Sân ga số ~"
+  },
+  {
+    "phan_nhom": "Thuật ngữ Đường sắt",
+    "tu_vung": "ふつう (普通)",
+    "y_nghia": "Tàu thường"
+  },
+  {
+    "phan_nhom": "Thuật ngữ Đường sắt",
+    "tu_vung": "きゅうこう (急行)",
+    "y_nghia": "Tàu tốc hành"
+  },
+  {
+    "phan_nhom": "Thuật ngữ Đường sắt",
+    "tu_vung": "とっきゅう (特急)",
+    "y_nghia": "Tàu siêu tốc"
+  },
+  {
+    "phan_nhom": "Thuật ngữ Đường sắt",
+    "tu_vung": "つぎの (次の)",
+    "y_nghia": "Kế tiếp / Tiếp theo"
+  }
+]

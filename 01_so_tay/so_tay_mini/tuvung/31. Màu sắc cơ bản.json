@@ -1,0 +1,27 @@
+[
+  {
+    "phan_nhom": "Màu sắc cơ bản",
+    "tu_vung": "しろい (白い)",
+    "y_nghia": "Trắng"
+  },
+  {
+    "phan_nhom": "Màu sắc cơ bản",
+    "tu_vung": "くろい (黒い)",
+    "y_nghia": "Đen"
+  },
+  {
+    "phan_nhom": "Màu sắc cơ bản",
+    "tu_vung": "あかい (赤い)",
+    "y_nghia": "Đỏ"
+  },
+  {
+    "phan_nhom": "Màu sắc cơ bản",
+    "tu_vung": "あおい (青い)",
+    "y_nghia": "Xanh da trời"
+  },
+  {
+    "phan_nhom": "Màu sắc cơ bản",
+    "tu_vung": "みどり (緑)",
+    "y_nghia": "Màu xanh lá cây"
+  }
+]

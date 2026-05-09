@@ -1,0 +1,142 @@
+[
+  {
+    "phan_nhom": "Khái niệm Tiền bạc",
+    "tu_vung": "おかね (お金)",
+    "y_nghia": "Tiền"
+  },
+  {
+    "phan_nhom": "Khái niệm Tiền bạc",
+    "tu_vung": "こまかいおかね (細かいお金)",
+    "y_nghia": "Tiền lẻ"
+  },
+  {
+    "phan_nhom": "Khái niệm Tiền bạc",
+    "tu_vung": "おつり (お釣り)",
+    "y_nghia": "Tiền lẻ (thối lại)"
+  },
+  {
+    "phan_nhom": "Khái niệm Tiền bạc",
+    "tu_vung": "げんきん (現金)",
+    "y_nghia": "Tiền mặt"
+  },
+  {
+    "phan_nhom": "Khái niệm Tiền bạc",
+    "tu_vung": "ぶっか (物価)",
+    "y_nghia": "Giá cả/Vật giá"
+  },
+  {
+    "phan_nhom": "Khái niệm Tiền bạc",
+    "tu_vung": "やちん (家賃)",
+    "y_nghia": "Tiền nhà"
+  },
+  {
+    "phan_nhom": "Khái niệm Tiền bạc",
+    "tu_vung": "きんがく (金額)",
+    "y_nghia": "Số tiền"
+  },
+  {
+    "phan_nhom": "Khái niệm Tiền bạc",
+    "tu_vung": "～えん (～円)",
+    "y_nghia": "~ Yên"
+  },
+  {
+    "phan_nhom": "Khái niệm Tiền bạc",
+    "tu_vung": "いくら",
+    "y_nghia": "Bao nhiêu tiền"
+  },
+  {
+    "phan_nhom": "Đơn vị đếm tiền",
+    "tu_vung": "ひゃく (百)",
+    "y_nghia": "Trăm"
+  },
+  {
+    "phan_nhom": "Đơn vị đếm tiền",
+    "tu_vung": "せん (千)",
+    "y_nghia": "Nghìn"
+  },
+  {
+    "phan_nhom": "Đơn vị đếm tiền",
+    "tu_vung": "まん (万)",
+    "y_nghia": "Mười nghìn/vạn"
+  },
+  {
+    "phan_nhom": "Đơn vị đếm tiền",
+    "tu_vung": "おく (億)",
+    "y_nghia": "Một trăm triệu"
+  },
+  {
+    "phan_nhom": "Thẻ & Mật khẩu",
+    "tu_vung": "カード",
+    "y_nghia": "Thẻ/Card"
+  },
+  {
+    "phan_nhom": "Thẻ & Mật khẩu",
+    "tu_vung": "テレホンカード",
+    "y_nghia": "Thẻ điện thoại"
+  },
+  {
+    "phan_nhom": "Thẻ & Mật khẩu",
+    "tu_vung": "キャッシュカード",
+    "y_nghia": "Thẻ ATM"
+  },
+  {
+    "phan_nhom": "Thẻ & Mật khẩu",
+    "tu_vung": "あんしょうばんごう (暗証番号)",
+    "y_nghia": "Mật khẩu"
+  },
+  {
+    "phan_nhom": "Đồ vật mua sắm",
+    "tu_vung": "うりば (売り場)",
+    "y_nghia": "Quầy bán hàng"
+  },
+  {
+    "phan_nhom": "Đồ vật mua sắm",
+    "tu_vung": "サイズ",
+    "y_nghia": "Cỡ/kích thước"
+  },
+  {
+    "phan_nhom": "Đồ vật mua sắm",
+    "tu_vung": "プレゼント",
+    "y_nghia": "Quà tặng"
+  },
+  {
+    "phan_nhom": "Đồ vật mua sắm",
+    "tu_vung": "にもつ (荷物)",
+    "y_nghia": "Hành lý/Bưu phẩm"
+  },
+  {
+    "phan_nhom": "Đồ vật mua sắm",
+    "tu_vung": "きっぷ (切符)",
+    "y_nghia": "Vé (tàu/xe)"
+  },
+  {
+    "phan_nhom": "Đồ vật mua sắm",
+    "tu_vung": "チケット",
+    "y_nghia": "Vé (xem phim/nhạc)"
+  },
+  {
+    "phan_nhom": "Đồ vật mua sắm",
+    "tu_vung": "プレイガイド",
+    "y_nghia": "Quầy bán vé"
+  },
+  {
+    "phan_nhom": "Đồ vật mua sắm",
+    "tu_vung": "たばこ",
+    "y_nghia": "Thuốc lá"
+  },
+  {
+    "phan_nhom": "Động từ mua sắm",
+    "tu_vung": "かう (買います)",
+    "y_nghia": "Mua"
+  },
+  {
+    "phan_nhom": "Động từ mua sắm",
+    "tu_vung": "はらう (払います)",
+    "y_nghia": "Trả tiền"
+  },
+  {
+    "phan_nhom": "Động từ mua sắm",
+    "tu_vung": "～をください",
+    "y_nghia": "Cho tôi (lấy) cái ~"
+  }
+]

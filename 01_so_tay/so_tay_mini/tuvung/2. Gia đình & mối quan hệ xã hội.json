@@ -1,0 +1,117 @@
+[
+  {
+    "phan_nhom": "Gia đình mình",
+    "tu_vung": "かぞく (家族)",
+    "y_nghia": "Gia đình"
+  },
+  {
+    "phan_nhom": "Gia đình mình",
+    "tu_vung": "ちち (父)",
+    "y_nghia": "Bố"
+  },
+  {
+    "phan_nhom": "Gia đình mình",
+    "tu_vung": "はは (母)",
+    "y_nghia": "Mẹ"
+  },
+  {
+    "phan_nhom": "Gia đình mình",
+    "tu_vung": "おっと/しゅじん (夫/主人)",
+    "y_nghia": "Chồng"
+  },
+  {
+    "phan_nhom": "Gia đình mình",
+    "tu_vung": "つま/かない (妻/家内)",
+    "y_nghia": "Vợ"
+  },
+  {
+    "phan_nhom": "Gia đình mình",
+    "tu_vung": "こども (子ども)",
+    "y_nghia": "Con cái"
+  },
+  {
+    "phan_nhom": "Gia đình người khác",
+    "tu_vung": "ごかぞく (ご家族)",
+    "y_nghia": "Gia đình (người khác)"
+  },
+  {
+    "phan_nhom": "Gia đình người khác",
+    "tu_vung": "おとうさん (お父さん)",
+    "y_nghia": "Bố"
+  },
+  {
+    "phan_nhom": "Gia đình người khác",
+    "tu_vung": "おかあさん (お母さん)",
+    "y_nghia": "Mẹ"
+  },
+  {
+    "phan_nhom": "Gia đình người khác",
+    "tu_vung": "ごしゅじん (ご主人)",
+    "y_nghia": "Chồng"
+  },
+  {
+    "phan_nhom": "Gia đình người khác",
+    "tu_vung": "おくさん (奥さん)",
+    "y_nghia": "Vợ"
+  },
+  {
+    "phan_nhom": "Gia đình người khác",
+    "tu_vung": "おじいさん/おじいちゃん",
+    "y_nghia": "Ông nội/ngoại/ông"
+  },
+  {
+    "phan_nhom": "Gia đình người khác",
+    "tu_vung": "おばあさん/おばあちゃん",
+    "y_nghia": "Bà nội/ngoại/bà"
+  },
+  {
+    "phan_nhom": "Mối quan hệ xã hội",
+    "tu_vung": "ひと (人)",
+    "y_nghia": "Người"
+  },
+  {
+    "phan_nhom": "Mối quan hệ xã hội",
+    "tu_vung": "ともだち (友達)",
+    "y_nghia": "Bạn bè"
+  },
+  {
+    "phan_nhom": "Mối quan hệ xã hội",
+    "tu_vung": "きんじょ (近所)",
+    "y_nghia": "Hàng xóm / Láng giềng"
+  },
+  {
+    "phan_nhom": "Mối quan hệ xã hội",
+    "tu_vung": "となりのひと (隣の人)",
+    "y_nghia": "Người hàng xóm (sát vách)"
+  },
+  {
+    "phan_nhom": "Mối quan hệ xã hội",
+    "tu_vung": "おとこのひと (男の人)",
+    "y_nghia": "Người đàn ông"
+  },
+  {
+    "phan_nhom": "Mối quan hệ xã hội",
+    "tu_vung": "おんなのひと (女の人)",
+    "y_nghia": "Người phụ nữ"
+  },
+  {
+    "phan_nhom": "Mối quan hệ xã hội",
+    "tu_vung": "おとこのこ (男の子)",
+    "y_nghia": "Cậu bé/Bé trai"
+  },
+  {
+    "phan_nhom": "Mối quan hệ xã hội",
+    "tu_vung": "おんなのこ (女の子)",
+    "y_nghia": "Cô bé/Bé gái"
+  },
+  {
+    "phan_nhom": "Mối quan hệ xã hội",
+    "tu_vung": "どくしん (独身)",
+    "y_nghia": "Độc thân"
+  },
+  {
+    "phan_nhom": "Mối quan hệ xã hội",
+    "tu_vung": "グループ",
+    "y_nghia": "Nhóm/bạn bè"
+  }
+]

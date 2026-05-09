@@ -1,0 +1,107 @@
+[
+  {
+    "phan_nhom": "Sinh hoạt hàng ngày",
+    "tu_vung": "おきる (起きます)",
+    "y_nghia": "Thức dậy"
+  },
+  {
+    "phan_nhom": "Sinh hoạt hàng ngày",
+    "tu_vung": "ねる (寝ます)",
+    "y_nghia": "Ngủ"
+  },
+  {
+    "phan_nhom": "Sinh hoạt hàng ngày",
+    "tu_vung": "やすむ (休みます)",
+    "y_nghia": "Nghỉ ngơi"
+  },
+  {
+    "phan_nhom": "Sinh hoạt hàng ngày",
+    "tu_vung": "あびる (浴びます)",
+    "y_nghia": "Tắm [vòi sen]"
+  },
+  {
+    "phan_nhom": "Sinh hoạt hàng ngày",
+    "tu_vung": "はいる (入ります)",
+    "y_nghia": "Tắm bồn (おふろに～)"
+  },
+  {
+    "phan_nhom": "Sinh hoạt hàng ngày",
+    "tu_vung": "する",
+    "y_nghia": "Làm/Chơi"
+  },
+  {
+    "phan_nhom": "Sinh hoạt hàng ngày",
+    "tu_vung": "つかれる (疲れます)",
+    "y_nghia": "Mệt"
+  },
+  {
+    "phan_nhom": "Sinh hoạt hàng ngày",
+    "tu_vung": "けっこんする (結婚します)",
+    "y_nghia": "Kết hôn"
+  },
+  {
+    "phan_nhom": "Sinh hoạt hàng ngày",
+    "tu_vung": "かいものする (買い物します)",
+    "y_nghia": "Mua hàng"
+  },
+  {
+    "phan_nhom": "Sinh hoạt hàng ngày",
+    "tu_vung": "しょくじする (食事します)",
+    "y_nghia": "Ăn cơm"
+  },
+  {
+    "phan_nhom": "Sinh hoạt hàng ngày",
+    "tu_vung": "うまれる (生まれます)",
+    "y_nghia": "Sinh ra"
+  },
+  {
+    "phan_nhom": "Sinh hoạt hàng ngày",
+    "tu_vung": "とる (取ります)",
+    "y_nghia": "Thêm (tuổi)"
+  },
+  {
+    "phan_nhom": "Việc nhà",
+    "tu_vung": "あらう (洗います)",
+    "y_nghia": "Rửa"
+  },
+  {
+    "phan_nhom": "Việc nhà",
+    "tu_vung": "そうじする (掃除します)",
+    "y_nghia": "Dọn dẹp"
+  },
+  {
+    "phan_nhom": "Việc nhà",
+    "tu_vung": "せんたくする (洗濯します)",
+    "y_nghia": "Giặt giũ"
+  },
+  {
+    "phan_nhom": "Việc nhà",
+    "tu_vung": "ひっこしする (引越しします)",
+    "y_nghia": "Chuyển nhà"
+  },
+  {
+    "phan_nhom": "Trang phục",
+    "tu_vung": "きる (着ます)",
+    "y_nghia": "Mặc (áo sơ mi/...)"
+  },
+  {
+    "phan_nhom": "Trang phục",
+    "tu_vung": "はく (履きます)",
+    "y_nghia": "Mang (giày/…)"
+  },
+  {
+    "phan_nhom": "Trang phục",
+    "tu_vung": "かぶる (被ります)",
+    "y_nghia": "Đội (nón/…)"
+  },
+  {
+    "phan_nhom": "Trang phục",
+    "tu_vung": "かける (掛けます)",
+    "y_nghia": "Đeo (kính)"
+  },
+  {
+    "phan_nhom": "Trang phục",
+    "tu_vung": "ぬぐ (脱ぎます)",
+    "y_nghia": "Cởi (quần áo/giày)"
+  }
+]

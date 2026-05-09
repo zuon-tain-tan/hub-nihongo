@@ -1,0 +1,282 @@
+[
+  {
+    "phan_nhom": "Ngày",
+    "tu_vung": "きょう (今日)",
+    "y_nghia": "Hôm nay"
+  },
+  {
+    "phan_nhom": "Ngày",
+    "tu_vung": "あした (明日)",
+    "y_nghia": "Ngày mai"
+  },
+  {
+    "phan_nhom": "Ngày",
+    "tu_vung": "あさって",
+    "y_nghia": "Ngày kia/Ngày mốt"
+  },
+  {
+    "phan_nhom": "Ngày",
+    "tu_vung": "きのう",
+    "y_nghia": "Hôm qua"
+  },
+  {
+    "phan_nhom": "Ngày",
+    "tu_vung": "おととい",
+    "y_nghia": "Hôm kia"
+  },
+  {
+    "phan_nhom": "Ngày",
+    "tu_vung": "ひ (日)",
+    "y_nghia": "Ngày"
+  },
+  {
+    "phan_nhom": "Ngày",
+    "tu_vung": "2、3にち (2、3日)",
+    "y_nghia": "Vài ngày"
+  },
+  {
+    "phan_nhom": "Tuần, Tháng, Năm",
+    "tu_vung": "しゅうまつ (週末)",
+    "y_nghia": "Cuối tuần"
+  },
+  {
+    "phan_nhom": "Tuần, Tháng, Năm",
+    "tu_vung": "せんしゅう (先週)",
+    "y_nghia": "Tuần trước"
+  },
+  {
+    "phan_nhom": "Tuần, Tháng, Năm",
+    "tu_vung": "こんしゅう (今週)",
+    "y_nghia": "Tuần này"
+  },
+  {
+    "phan_nhom": "Tuần, Tháng, Năm",
+    "tu_vung": "らいしゅう (来週)",
+    "y_nghia": "Tuần sau"
+  },
+  {
+    "phan_nhom": "Tuần, Tháng, Năm",
+    "tu_vung": "せんげつ (先月)",
+    "y_nghia": "Tháng trước"
+  },
+  {
+    "phan_nhom": "Tuần, Tháng, Năm",
+    "tu_vung": "こんげつ (今月)",
+    "y_nghia": "Tháng này"
+  },
+  {
+    "phan_nhom": "Tuần, Tháng, Năm",
+    "tu_vung": "らいげつ (来月)",
+    "y_nghia": "Tháng sau"
+  },
+  {
+    "phan_nhom": "Tuần, Tháng, Năm",
+    "tu_vung": "きょねん (去年)",
+    "y_nghia": "Năm ngoái"
+  },
+  {
+    "phan_nhom": "Tuần, Tháng, Năm",
+    "tu_vung": "ことし (今年)",
+    "y_nghia": "Năm nay"
+  },
+  {
+    "phan_nhom": "Tuần, Tháng, Năm",
+    "tu_vung": "らいねん (来年)",
+    "y_nghia": "Năm sau"
+  },
+  {
+    "phan_nhom": "Ngày trong tháng",
+    "tu_vung": "ついたち (１日)",
+    "y_nghia": "Mùng 1"
+  },
+  {
+    "phan_nhom": "Ngày trong tháng",
+    "tu_vung": "ふつか (２日)",
+    "y_nghia": "Mùng 2"
+  },
+  {
+    "phan_nhom": "Ngày trong tháng",
+    "tu_vung": "みっか (３日)",
+    "y_nghia": "Mùng 3"
+  },
+  {
+    "phan_nhom": "Ngày trong tháng",
+    "tu_vung": "よっか (４日)",
+    "y_nghia": "Mùng 4"
+  },
+  {
+    "phan_nhom": "Ngày trong tháng",
+    "tu_vung": "いつか (５日)",
+    "y_nghia": "Mùng 5"
+  },
+  {
+    "phan_nhom": "Ngày trong tháng",
+    "tu_vung": "むいか (６日)",
+    "y_nghia": "Mùng 6"
+  },
+  {
+    "phan_nhom": "Ngày trong tháng",
+    "tu_vung": "なのか (７日)",
+    "y_nghia": "Mùng 7"
+  },
+  {
+    "phan_nhom": "Ngày trong tháng",
+    "tu_vung": "ようか (８日)",
+    "y_nghia": "Mùng 8"
+  },
+  {
+    "phan_nhom": "Ngày trong tháng",
+    "tu_vung": "ここのか (９日)",
+    "y_nghia": "Mùng 9"
+  },
+  {
+    "phan_nhom": "Ngày trong tháng",
+    "tu_vung": "とおか (１０日)",
+    "y_nghia": "Mùng 10"
+  },
+  {
+    "phan_nhom": "Ngày trong tháng",
+    "tu_vung": "じゅうよっか (１４日)",
+    "y_nghia": "Ngày 14"
+  },
+  {
+    "phan_nhom": "Ngày trong tháng",
+    "tu_vung": "はつか (２０日)",
+    "y_nghia": "Ngày 20"
+  },
+  {
+    "phan_nhom": "Ngày trong tháng",
+    "tu_vung": "にじゅうよっか (２４日)",
+    "y_nghia": "Ngày 24"
+  },
+  {
+    "phan_nhom": "Ngày trong tháng",
+    "tu_vung": "～にち (～日)",
+    "y_nghia": "Ngày ~ / ~ ngày"
+  },
+  {
+    "phan_nhom": "Ngày trong tháng",
+    "tu_vung": "～がつ (～月)",
+    "y_nghia": "Tháng ~"
+  },
+  {
+    "phan_nhom": "Khoảng thời gian & Mốc",
+    "tu_vung": "はじめ (始め)",
+    "y_nghia": "Bắt đầu"
+  },
+  {
+    "phan_nhom": "Khoảng thời gian & Mốc",
+    "tu_vung": "おわり (終わり)",
+    "y_nghia": "Kết thúc"
+  },
+  {
+    "phan_nhom": "Khoảng thời gian & Mốc",
+    "tu_vung": "このあいだ (この間)",
+    "y_nghia": "Hôm nọ"
+  },
+  {
+    "phan_nhom": "Khoảng thời gian & Mốc",
+    "tu_vung": "さいきん (最近)",
+    "y_nghia": "Gần đây"
+  },
+  {
+    "phan_nhom": "Khoảng thời gian & Mốc",
+    "tu_vung": "かかる (かかります)",
+    "y_nghia": "Mất/Tốn (thời gian)"
+  },
+  {
+    "phan_nhom": "Khoảng thời gian & Mốc",
+    "tu_vung": "～かい (～回)",
+    "y_nghia": "~ lần"
+  },
+  {
+    "phan_nhom": "Khoảng thời gian & Mốc",
+    "tu_vung": "～じかん (～時間)",
+    "y_nghia": "~ tiếng/giờ"
+  },
+  {
+    "phan_nhom": "Khoảng thời gian & Mốc",
+    "tu_vung": "～しゅうかん (～週間)",
+    "y_nghia": "~ tuần"
+  },
+  {
+    "phan_nhom": "Khoảng thời gian & Mốc",
+    "tu_vung": "～かげつ (～か月)",
+    "y_nghia": "~ tháng"
+  },
+  {
+    "phan_nhom": "Khoảng thời gian & Mốc",
+    "tu_vung": "～ねん (～年)",
+    "y_nghia": "~ năm"
+  },
+  {
+    "phan_nhom": "Khoảng thời gian & Mốc",
+    "tu_vung": "～ぐらい",
+    "y_nghia": "Khoảng ~ (lượng thời gian)"
+  },
+  {
+    "phan_nhom": "Khoảng thời gian & Mốc",
+    "tu_vung": "～までに",
+    "y_nghia": "Trước ~ (thời hạn)"
+  },
+  {
+    "phan_nhom": "Sự kiện & Dịp lễ",
+    "tu_vung": "やすみ (休み)",
+    "y_nghia": "Nghỉ/Ngày nghỉ"
+  },
+  {
+    "phan_nhom": "Sự kiện & Dịp lễ",
+    "tu_vung": "ひるやすみ (昼休み)",
+    "y_nghia": "Nghỉ trưa"
+  },
+  {
+    "phan_nhom": "Sự kiện & Dịp lễ",
+    "tu_vung": "たんじょうび (誕生日)",
+    "y_nghia": "Sinh nhật"
+  },
+  {
+    "phan_nhom": "Sự kiện & Dịp lễ",
+    "tu_vung": "クリスマス",
+    "y_nghia": "Lễ Giáng Sinh"
+  },
+  {
+    "phan_nhom": "Sự kiện & Dịp lễ",
+    "tu_vung": "おしょうがつ (お正月)",
+    "y_nghia": "Tết dương lịch"
+  },
+  {
+    "phan_nhom": "Sự kiện & Dịp lễ",
+    "tu_vung": "じかん (時間)",
+    "y_nghia": "Thời gian"
+  },
+  {
+    "phan_nhom": "Sự kiện & Dịp lễ",
+    "tu_vung": "ようじ (用事)",
+    "y_nghia": "Việc bận"
+  },
+  {
+    "phan_nhom": "Sự kiện & Dịp lễ",
+    "tu_vung": "やくそく (約束)",
+    "y_nghia": "Cuộc hẹn"
+  },
+  {
+    "phan_nhom": "Sự kiện & Dịp lễ",
+    "tu_vung": "パーティー",
+    "y_nghia": "Bữa tiệc"
+  },
+  {
+    "phan_nhom": "Sự kiện & Dịp lễ",
+    "tu_vung": "おまつり (お祭り)",
+    "y_nghia": "Lễ hội"
+  },
+  {
+    "phan_nhom": "Sự kiện & Dịp lễ",
+    "tu_vung": "しけん (試験)",
+    "y_nghia": "Kỳ thi"
+  },
+  {
+    "phan_nhom": "Sự kiện & Dịp lễ",
+    "tu_vung": "かいぎ (会議)",
+    "y_nghia": "Cuộc họp"
+  }
+]

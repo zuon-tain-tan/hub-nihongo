@@ -1,0 +1,162 @@
+[
+  {
+    "phan_nhom": "Quốc gia & Châu lục",
+    "tu_vung": "アメリカ",
+    "y_nghia": "Mỹ"
+  },
+  {
+    "phan_nhom": "Quốc gia & Châu lục",
+    "tu_vung": "イギリス",
+    "y_nghia": "Anh"
+  },
+  {
+    "phan_nhom": "Quốc gia & Châu lục",
+    "tu_vung": "インド",
+    "y_nghia": "Ấn Độ"
+  },
+  {
+    "phan_nhom": "Quốc gia & Châu lục",
+    "tu_vung": "インドネシア",
+    "y_nghia": "Indonesia"
+  },
+  {
+    "phan_nhom": "Quốc gia & Châu lục",
+    "tu_vung": "かんこく (韓国)",
+    "y_nghia": "Hàn Quốc"
+  },
+  {
+    "phan_nhom": "Quốc gia & Châu lục",
+    "tu_vung": "タイ",
+    "y_nghia": "Thái Lan"
+  },
+  {
+    "phan_nhom": "Quốc gia & Châu lục",
+    "tu_vung": "ちゅうごく (中国)",
+    "y_nghia": "Trung Quốc"
+  },
+  {
+    "phan_nhom": "Quốc gia & Châu lục",
+    "tu_vung": "ドイツ",
+    "y_nghia": "Đức"
+  },
+  {
+    "phan_nhom": "Quốc gia & Châu lục",
+    "tu_vung": "にほん (日本)",
+    "y_nghia": "Nhật Bản"
+  },
+  {
+    "phan_nhom": "Quốc gia & Châu lục",
+    "tu_vung": "フランス",
+    "y_nghia": "Pháp"
+  },
+  {
+    "phan_nhom": "Quốc gia & Châu lục",
+    "tu_vung": "ブラジル",
+    "y_nghia": "Brazil"
+  },
+  {
+    "phan_nhom": "Quốc gia & Châu lục",
+    "tu_vung": "イタリア",
+    "y_nghia": "Ý"
+  },
+  {
+    "phan_nhom": "Quốc gia & Châu lục",
+    "tu_vung": "スイス",
+    "y_nghia": "Thụy Sĩ"
+  },
+  {
+    "phan_nhom": "Quốc gia & Châu lục",
+    "tu_vung": "ロシア",
+    "y_nghia": "Nga"
+  },
+  {
+    "phan_nhom": "Quốc gia & Châu lục",
+    "tu_vung": "メキシコ",
+    "y_nghia": "Mexico"
+  },
+  {
+    "phan_nhom": "Quốc gia & Châu lục",
+    "tu_vung": "ヨーロッパ",
+    "y_nghia": "Châu Âu"
+  },
+  {
+    "phan_nhom": "Quốc gia & Châu lục",
+    "tu_vung": "アジア",
+    "y_nghia": "Châu Á"
+  },
+  {
+    "phan_nhom": "Quốc gia & Châu lục",
+    "tu_vung": "ベトナム",
+    "y_nghia": "Việt Nam"
+  },
+  {
+    "phan_nhom": "Thành phố nổi tiếng",
+    "tu_vung": "ペキン",
+    "y_nghia": "Bắc Kinh"
+  },
+  {
+    "phan_nhom": "Thành phố nổi tiếng",
+    "tu_vung": "バンコク",
+    "y_nghia": "Bangkok"
+  },
+  {
+    "phan_nhom": "Thành phố nổi tiếng",
+    "tu_vung": "ロンドン",
+    "y_nghia": "Luân Đôn"
+  },
+  {
+    "phan_nhom": "Thành phố nổi tiếng",
+    "tu_vung": "ロサンゼルス",
+    "y_nghia": "Los Angeles"
+  },
+  {
+    "phan_nhom": "Thành phố nổi tiếng",
+    "tu_vung": "パリ",
+    "y_nghia": "Pa-ri"
+  },
+  {
+    "phan_nhom": "Ngôn ngữ & Chữ viết",
+    "tu_vung": "えいご (英語)",
+    "y_nghia": "Tiếng Anh"
+  },
+  {
+    "phan_nhom": "Ngôn ngữ & Chữ viết",
+    "tu_vung": "にほんご (日本語)",
+    "y_nghia": "Tiếng Nhật"
+  },
+  {
+    "phan_nhom": "Ngôn ngữ & Chữ viết",
+    "tu_vung": "～ご (～語)",
+    "y_nghia": "Tiếng ~"
+  },
+  {
+    "phan_nhom": "Ngôn ngữ & Chữ viết",
+    "tu_vung": "ことば (言葉)",
+    "y_nghia": "Từ/Tiếng"
+  },
+  {
+    "phan_nhom": "Ngôn ngữ & Chữ viết",
+    "tu_vung": "かんじ (漢字)",
+    "y_nghia": "Chữ Hán"
+  },
+  {
+    "phan_nhom": "Ngôn ngữ & Chữ viết",
+    "tu_vung": "ひらがな",
+    "y_nghia": "Hiragana"
+  },
+  {
+    "phan_nhom": "Ngôn ngữ & Chữ viết",
+    "tu_vung": "かたかな",
+    "y_nghia": "Katakana"
+  },
+  {
+    "phan_nhom": "Ngôn ngữ & Chữ viết",
+    "tu_vung": "ローマじ (ローマ字)",
+    "y_nghia": "Chữ La Mã"
+  },
+  {
+    "phan_nhom": "Ngôn ngữ & Chữ viết",
+    "tu_vung": "じ (字)",
+    "y_nghia": "Chữ"
+  }
+]

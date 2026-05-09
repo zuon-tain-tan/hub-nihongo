@@ -1,0 +1,72 @@
+[
+  {
+    "phan_nhom": "Động từ ăn uống",
+    "tu_vung": "たべる (食べます)",
+    "y_nghia": "Ăn"
+  },
+  {
+    "phan_nhom": "Động từ ăn uống",
+    "tu_vung": "のむ (飲みます)",
+    "y_nghia": "Uống"
+  },
+  {
+    "phan_nhom": "Động từ ăn uống",
+    "tu_vung": "すう (吸います)",
+    "y_nghia": "Hút (thuốc lá)"
+  },
+  {
+    "phan_nhom": "Động từ ăn uống",
+    "tu_vung": "いれる (入れます)",
+    "y_nghia": "Pha (cà phê)"
+  },
+  {
+    "phan_nhom": "Mẫu câu gọi món & Phục vụ",
+    "tu_vung": "おなかが すきました",
+    "y_nghia": "đói rồi"
+  },
+  {
+    "phan_nhom": "Mẫu câu gọi món & Phục vụ",
+    "tu_vung": "おなかが いっぱいです",
+    "y_nghia": "no rồi"
+  },
+  {
+    "phan_nhom": "Mẫu câu gọi món & Phục vụ",
+    "tu_vung": "のど가 かわきました",
+    "y_nghia": "khát"
+  },
+  {
+    "phan_nhom": "Mẫu câu gọi món & Phục vụ",
+    "tu_vung": "ごちゅうもんは (ご注文は)",
+    "y_nghia": "Mời gọi món"
+  },
+  {
+    "phan_nhom": "Mẫu câu gọi món & Phục vụ",
+    "tu_vung": "しょうしょう おまちください",
+    "y_nghia": "Vui lòng đợi 1 chút"
+  },
+  {
+    "phan_nhom": "Mẫu câu gọi món & Phục vụ",
+    "tu_vung": "べつべつに (別々に)",
+    "y_nghia": "Để riêng ra (tính tiền)"
+  },
+  {
+    "phan_nhom": "Mẫu câu gọi món & Phục vụ",
+    "tu_vung": "これでおねがいします",
+    "y_nghia": "Gửi anh tiền này"
+  },
+  {
+    "phan_nhom": "Giao tiếp trên bàn tiệc",
+    "tu_vung": "かんぱい (乾杯)",
+    "y_nghia": "Nâng cốc"
+  },
+  {
+    "phan_nhom": "Giao tiếp trên bàn tiệc",
+    "tu_vung": "ごちそうさまでした",
+    "y_nghia": "Xin cảm ơn đã đãi bữa cơm"
+  },
+  {
+    "phan_nhom": "Giao tiếp trên bàn tiệc",
+    "tu_vung": "いっぱいのみましょう",
+    "y_nghia": "Chúng ta cùng uống nhé"
+  }
+]

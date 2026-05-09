@@ -1,0 +1,112 @@
+[
+  {
+    "phan_nhom": "Thời tiết & Mùa",
+    "tu_vung": "てんき (天気)",
+    "y_nghia": "Thời tiết"
+  },
+  {
+    "phan_nhom": "Thời tiết & Mùa",
+    "tu_vung": "あめ (雨)",
+    "y_nghia": "Mưa"
+  },
+  {
+    "phan_nhom": "Thời tiết & Mùa",
+    "tu_vung": "ゆき (雪)",
+    "y_nghia": "Tuyết"
+  },
+  {
+    "phan_nhom": "Thời tiết & Mùa",
+    "tu_vung": "くもり (曇り)",
+    "y_nghia": "Có mây/U ám"
+  },
+  {
+    "phan_nhom": "Thời tiết & Mùa",
+    "tu_vung": "きせつ (季節)",
+    "y_nghia": "Mùa"
+  },
+  {
+    "phan_nhom": "Thời tiết & Mùa",
+    "tu_vung": "はる (春)",
+    "y_nghia": "Mùa xuân"
+  },
+  {
+    "phan_nhom": "Thời tiết & Mùa",
+    "tu_vung": "なつ (夏)",
+    "y_nghia": "Mùa hè"
+  },
+  {
+    "phan_nhom": "Thời tiết & Mùa",
+    "tu_vung": "あき (秋)",
+    "y_nghia": "Mùa thu"
+  },
+  {
+    "phan_nhom": "Thời tiết & Mùa",
+    "tu_vung": "ふゆ (冬)",
+    "y_nghia": "Mùa đông"
+  },
+  {
+    "phan_nhom": "Thời tiết & Mùa",
+    "tu_vung": "ふる (降ります)",
+    "y_nghia": "Rơi (mưa/tuyết)"
+  },
+  {
+    "phan_nhom": "Môi trường Tự nhiên",
+    "tu_vung": "せかい (世界)",
+    "y_nghia": "Thế giới"
+  },
+  {
+    "phan_nhom": "Môi trường Tự nhiên",
+    "tu_vung": "くに (国)",
+    "y_nghia": "Đất nước"
+  },
+  {
+    "phan_nhom": "Môi trường Tự nhiên",
+    "tu_vung": "けん (県)",
+    "y_nghia": "Tỉnh"
+  },
+  {
+    "phan_nhom": "Môi trường Tự nhiên",
+    "tu_vung": "まち (町)",
+    "y_nghia": "Thành phố/Thị trấn"
+  },
+  {
+    "phan_nhom": "Môi trường Tự nhiên",
+    "tu_vung": "いなか (田舎)",
+    "y_nghia": "Quê/nông thôn"
+  },
+  {
+    "phan_nhom": "Môi trường Tự nhiên",
+    "tu_vung": "やま (山)",
+    "y_nghia": "Núi"
+  },
+  {
+    "phan_nhom": "Môi trường Tự nhiên",
+    "tu_vung": "かわ (川)",
+    "y_nghia": "Sông"
+  },
+  {
+    "phan_nhom": "Môi trường Tự nhiên",
+    "tu_vung": "うみ (海)",
+    "y_nghia": "Biển"
+  },
+  {
+    "phan_nhom": "Môi trường Tự nhiên",
+    "tu_vung": "き (木)",
+    "y_nghia": "Cây/Gỗ"
+  },
+  {
+    "phan_nhom": "Môi trường Tự nhiên",
+    "tu_vung": "はな (花)",
+    "y_nghia": "Hoa"
+  },
+  {
+    "phan_nhom": "Môi trường Tự nhiên",
+    "tu_vung": "さくら (桜)",
+    "y_nghia": "Hoa anh đào"
+  },
+  {
+    "phan_nhom": "Môi trường Tự nhiên",
+    "tu_vung": "もみじ (紅葉)",
+    "y_nghia": "Lá đỏ/Cây phong"
+  }
+]

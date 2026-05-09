@@ -1,0 +1,62 @@
+[
+  {
+    "phan_nhom": "Bệnh tật & Y tế",
+    "tu_vung": "けんこうほけんしょう (健康保険証)",
+    "y_nghia": "Thẻ bảo hiểm y tế"
+  },
+  {
+    "phan_nhom": "Bệnh tật & Y tế",
+    "tu_vung": "かぜ (風邪)",
+    "y_nghia": "Cảm/Cúm"
+  },
+  {
+    "phan_nhom": "Bệnh tật & Y tế",
+    "tu_vung": "ねつ (熱)",
+    "y_nghia": "Sốt"
+  },
+  {
+    "phan_nhom": "Bệnh tật & Y tế",
+    "tu_vung": "びょうき (病気)",
+    "y_nghia": "Ốm/Bệnh"
+  },
+  {
+    "phan_nhom": "Bệnh tật & Y tế",
+    "tu_vung": "くすり (薬)",
+    "y_nghia": "Thuốc"
+  },
+  {
+    "phan_nhom": "Bệnh tật & Y tế",
+    "tu_vung": "きんえん (禁煙)",
+    "y_nghia": "Cấm hút thuốc"
+  },
+  {
+    "phan_nhom": "Bệnh tật & Y tế",
+    "tu_vung": "からだにいい (体にいい)",
+    "y_nghia": "Tốt cho sức khỏe"
+  },
+  {
+    "phan_nhom": "Bệnh tật & Y tế",
+    "tu_vung": "ダイエット",
+    "y_nghia": "Ăn kiêng"
+  },
+  {
+    "phan_nhom": "Giao tiếp khi khám bệnh",
+    "tu_vung": "どうしましたか",
+    "y_nghia": "Có vấn đề gì?/Bị làm sao vậy?"
+  },
+  {
+    "phan_nhom": "Giao tiếp khi khám bệnh",
+    "tu_vung": "いたいです [～が]",
+    "y_nghia": "Tôi bị đau [~]"
+  },
+  {
+    "phan_nhom": "Giao tiếp khi khám bệnh",
+    "tu_vung": "おだいじに",
+    "y_nghia": "Anh/Chị nhớ giữ gìn sức khỏe"
+  },
+  {
+    "phan_nhom": "Giao tiếp khi khám bệnh",
+    "tu_vung": "せんせい (先生)",
+    "y_nghia": "Bác sĩ (cách gọi)"
+  }
+]

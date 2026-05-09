@@ -1,0 +1,267 @@
+[
+  {
+    "phan_nhom": "Động từ giải trí",
+    "tu_vung": "みる (見ます)",
+    "y_nghia": "Xem/Nhìn"
+  },
+  {
+    "phan_nhom": "Động từ giải trí",
+    "tu_vung": "きく (聞きます)",
+    "y_nghia": "Nghe"
+  },
+  {
+    "phan_nhom": "Động từ giải trí",
+    "tu_vung": "よむ (読みます)",
+    "y_nghia": "Đọc"
+  },
+  {
+    "phan_nhom": "Động từ giải trí",
+    "tu_vung": "かく (書きます)",
+    "y_nghia": "Viết/Vẽ"
+  },
+  {
+    "phan_nhom": "Động từ giải trí",
+    "tu_vung": "とる (撮ります)",
+    "y_nghia": "Chụp (ảnh)"
+  },
+  {
+    "phan_nhom": "Động từ giải trí",
+    "tu_vung": "ひく (弾きます)",
+    "y_nghia": "Chơi (đàn)"
+  },
+  {
+    "phan_nhom": "Động từ giải trí",
+    "tu_vung": "うたう (歌います)",
+    "y_nghia": "Hát"
+  },
+  {
+    "phan_nhom": "Động từ giải trí",
+    "tu_vung": "あつめる (集めます)",
+    "y_nghia": "Sưu tập"
+  },
+  {
+    "phan_nhom": "Động từ giải trí",
+    "tu_vung": "れんしゅうする (練習します)",
+    "y_nghia": "Luyện tập"
+  },
+  {
+    "phan_nhom": "Động từ giải trí",
+    "tu_vung": "かつ (勝ちます)",
+    "y_nghia": "Thắng"
+  },
+  {
+    "phan_nhom": "Động từ giải trí",
+    "tu_vung": "まける (負けます)",
+    "y_nghia": "Thua"
+  },
+  {
+    "phan_nhom": "Động từ giải trí",
+    "tu_vung": "あそぶ (遊びます)",
+    "y_nghia": "Chơi"
+  },
+  {
+    "phan_nhom": "Động từ giải trí",
+    "tu_vung": "およぐ (泳ぎます)",
+    "y_nghia": "Bơi"
+  },
+  {
+    "phan_nhom": "Động từ giải trí",
+    "tu_vung": "けんがくする (見学します)",
+    "y_nghia": "Tham quan học tập"
+  },
+  {
+    "phan_nhom": "Nghệ thuật & Truyền thông",
+    "tu_vung": "しゅみ (趣味)",
+    "y_nghia": "Sở thích"
+  },
+  {
+    "phan_nhom": "Nghệ thuật & Truyền thông",
+    "tu_vung": "にっき (日記)",
+    "y_nghia": "Nhật ký"
+  },
+  {
+    "phan_nhom": "Nghệ thuật & Truyền thông",
+    "tu_vung": "ピアノ",
+    "y_nghia": "Đàn Piano"
+  },
+  {
+    "phan_nhom": "Nghệ thuật & Truyền thông",
+    "tu_vung": "ビデオ",
+    "y_nghia": "Video"
+  },
+  {
+    "phan_nhom": "Nghệ thuật & Truyền thông",
+    "tu_vung": "えいが (映画)",
+    "y_nghia": "Phim"
+  },
+  {
+    "phan_nhom": "Nghệ thuật & Truyền thông",
+    "tu_vung": "シーディー",
+    "y_nghia": "Đĩa CD"
+  },
+  {
+    "phan_nhom": "Nghệ thuật & Truyền thông",
+    "tu_vung": "てがみ (手紙)",
+    "y_nghia": "Thư"
+  },
+  {
+    "phan_nhom": "Nghệ thuật & Truyền thông",
+    "tu_vung": "レポート",
+    "y_nghia": "Báo cáo"
+  },
+  {
+    "phan_nhom": "Nghệ thuật & Truyền thông",
+    "tu_vung": "しゃしん (写真)",
+    "y_nghia": "Ảnh"
+  },
+  {
+    "phan_nhom": "Nghệ thuật & Truyền thông",
+    "tu_vung": "しゅくだい (宿題)",
+    "y_nghia": "Bài tập"
+  },
+  {
+    "phan_nhom": "Nghệ thuật & Truyền thông",
+    "tu_vung": "おんがく (音楽)",
+    "y_nghia": "Âm nhạc"
+  },
+  {
+    "phan_nhom": "Nghệ thuật & Truyền thông",
+    "tu_vung": "うた (歌)",
+    "y_nghia": "Bài hát"
+  },
+  {
+    "phan_nhom": "Nghệ thuật & Truyền thông",
+    "tu_vung": "クラシック",
+    "y_nghia": "Nhạc cổ điển"
+  },
+  {
+    "phan_nhom": "Nghệ thuật & Truyền thông",
+    "tu_vung": "ジャズ",
+    "y_nghia": "Nhạc Jazz"
+  },
+  {
+    "phan_nhom": "Nghệ thuật & Truyền thông",
+    "tu_vung": "コンサート",
+    "y_nghia": "Buổi hòa nhạc"
+  },
+  {
+    "phan_nhom": "Nghệ thuật & Truyền thông",
+    "tu_vung": "カラオケ",
+    "y_nghia": "Karaoke"
+  },
+  {
+    "phan_nhom": "Nghệ thuật & Truyền thông",
+    "tu_vung": "かぶき (歌舞伎)",
+    "y_nghia": "Kịch Kabuki"
+  },
+  {
+    "phan_nhom": "Nghệ thuật & Truyền thông",
+    "tu_vung": "え (絵)",
+    "y_nghia": "Tranh/Hội họa"
+  },
+  {
+    "phan_nhom": "Nghệ thuật & Truyền thông",
+    "tu_vung": "いけばな (生け花)",
+    "y_nghia": "Nghệ thuật cắm hoa"
+  },
+  {
+    "phan_nhom": "Nghệ thuật & Truyền thông",
+    "tu_vung": "おちゃ (お茶)",
+    "y_nghia": "Trà đạo"
+  },
+  {
+    "phan_nhom": "Nghệ thuật & Truyền thông",
+    "tu_vung": "びじゅつ (美術)",
+    "y_nghia": "Mỹ thuật"
+  },
+  {
+    "phan_nhom": "Thể thao & Dã ngoại",
+    "tu_vung": "テニス",
+    "y_nghia": "Quần vợt"
+  },
+  {
+    "phan_nhom": "Thể thao & Dã ngoại",
+    "tu_vung": "サッカー",
+    "y_nghia": "Bóng đá"
+  },
+  {
+    "phan_nhom": "Thể thao & Dã ngoại",
+    "tu_vung": "ゴルフ",
+    "y_nghia": "Gôn"
+  },
+  {
+    "phan_nhom": "Thể thao & Dã ngoại",
+    "tu_vung": "すもう (相撲)",
+    "y_nghia": "Vật sumo"
+  },
+  {
+    "phan_nhom": "Thể thao & Dã ngoại",
+    "tu_vung": "パチンコ",
+    "y_nghia": "Trò chơi pachinko"
+  },
+  {
+    "phan_nhom": "Thể thao & Dã ngoại",
+    "tu_vung": "しあい (試合)",
+    "y_nghia": "Trận đấu"
+  },
+  {
+    "phan_nhom": "Thể thao & Dã ngoại",
+    "tu_vung": "ジョギング",
+    "y_nghia": "Việc chạy bộ"
+  },
+  {
+    "phan_nhom": "Thể thao & Dã ngoại",
+    "tu_vung": "おはなみ (お花見)",
+    "y_nghia": "Ngắm hoa anh đào"
+  },
+  {
+    "phan_nhom": "Thể thao & Dã ngoại",
+    "tu_vung": "りょこう (旅行)",
+    "y_nghia": "Du học"
+  },
+  {
+    "phan_nhom": "Thể thao & Dã ngoại",
+    "tu_vung": "とまる (泊まります)",
+    "y_nghia": "Trọ"
+  },
+  {
+    "phan_nhom": "Thể thao & Dã ngoại",
+    "tu_vung": "おみやげ (お土産)",
+    "y_nghia": "Quà lưu niệm"
+  },
+  {
+    "phan_nhom": "Thể thao & Dã ngoại",
+    "tu_vung": "スポーツ",
+    "y_nghia": "Thể thao"
+  },
+  {
+    "phan_nhom": "Thể thao & Dã ngoại",
+    "tu_vung": "やきゅう (野球)",
+    "y_nghia": "Bóng chày"
+  },
+  {
+    "phan_nhom": "Thể thao & Dã ngoại",
+    "tu_vung": "ダンス",
+    "y_nghia": "Nhảy/Khiêu vũ"
+  },
+  {
+    "phan_nhom": "Thể thao & Dã ngoại",
+    "tu_vung": "つり (釣り)",
+    "y_nghia": "Việc câu cá"
+  },
+  {
+    "phan_nhom": "Thể thao & Dã ngoại",
+    "tu_vung": "スキー",
+    "y_nghia": "Việc trượt tuyết"
+  },
+  {
+    "phan_nhom": "Thể thao & Dã ngoại",
+    "tu_vung": "いのり (祈り)",
+    "y_nghia": "Cầu nguyện"
+  },
+  {
+    "phan_nhom": "Thể thao & Dã ngoại",
+    "tu_vung": "レジャーはくしょ",
+    "y_nghia": "Sách trắng giải trí"
+  }
+]

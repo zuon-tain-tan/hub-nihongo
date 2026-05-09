@@ -1,0 +1,152 @@
+[
+  {
+    "phan_nhom": "Tích cực",
+    "tu_vung": "ハンサム",
+    "y_nghia": "Đẹp trai"
+  },
+  {
+    "phan_nhom": "Tích cực",
+    "tu_vung": "きれい (綺麗)",
+    "y_nghia": "Đẹp/Sạch sẽ"
+  },
+  {
+    "phan_nhom": "Tích cực",
+    "tu_vung": "しずか (静か)",
+    "y_nghia": "Yên tĩnh"
+  },
+  {
+    "phan_nhom": "Tích cực",
+    "tu_vung": "にぎやか (賑やか)",
+    "y_nghia": "Náo nhiệt"
+  },
+  {
+    "phan_nhom": "Tích cực",
+    "tu_vung": "ゆうめい (有名)",
+    "y_nghia": "Nổi tiếng"
+  },
+  {
+    "phan_nhom": "Tích cực",
+    "tu_vung": "しんせつ (親切)",
+    "y_nghia": "Tốt bụng"
+  },
+  {
+    "phan_nhom": "Tích cực",
+    "tu_vung": "げんき (元気)",
+    "y_nghia": "Khỏe mạnh"
+  },
+  {
+    "phan_nhom": "Tích cực",
+    "tu_vung": "べんり (便利)",
+    "y_nghia": "Tiện lợi"
+  },
+  {
+    "phan_nhom": "Tích cực",
+    "tu_vung": "すてき",
+    "y_nghia": "Tuyệt vời"
+  },
+  {
+    "phan_nhom": "Tích cực",
+    "tu_vung": "すき (好き)",
+    "y_nghia": "Thích"
+  },
+  {
+    "phan_nhom": "Tích cực",
+    "tu_vung": "じょうず (上手)",
+    "y_nghia": "Giỏi"
+  },
+  {
+    "phan_nhom": "Tích cực",
+    "tu_vung": "かんたん (簡単)",
+    "y_nghia": "Đơn giản/Dễ"
+  },
+  {
+    "phan_nhom": "Tích cực",
+    "tu_vung": "たいせつ (大切)",
+    "y_nghia": "Quan trọng"
+  },
+  {
+    "phan_nhom": "Tích cực",
+    "tu_vung": "だいじょうぶ (大丈夫)",
+    "y_nghia": "Không sao"
+  },
+  {
+    "phan_nhom": "Tiêu cực & Khác",
+    "tu_vung": "ひま (暇)",
+    "y_nghia": "Rảnh rỗi"
+  },
+  {
+    "phan_nhom": "Tiêu cực & Khác",
+    "tu_vung": "ふべん (不便)",
+    "y_nghia": "Bất tiện"
+  },
+  {
+    "phan_nhom": "Tiêu cực & Khác",
+    "tu_vung": "きらい (嫌い)",
+    "y_nghia": "Ghét"
+  },
+  {
+    "phan_nhom": "Tiêu cực & Khác",
+    "tu_vung": "へた (下手)",
+    "y_nghia": "Kém"
+  },
+  {
+    "phan_nhom": "Tiêu cực & Khác",
+    "tu_vung": "いろいろ (色々)",
+    "y_nghia": "Nhiều thứ/Đa dạng"
+  },
+  {
+    "phan_nhom": "Tiêu cực & Khác",
+    "tu_vung": "たいへん (大変)",
+    "y_nghia": "Vất vả/Khó khăn"
+  },
+  {
+    "phan_nhom": "Tiêu cực & Khác",
+    "tu_vung": "むだ",
+    "y_nghia": "Vô ích"
+  },
+  {
+    "phan_nhom": "Tiêu cực & Khác",
+    "tu_vung": "むり (無理)",
+    "y_nghia": "Quá sức"
+  },
+  {
+    "phan_nhom": "Tiêu cực & Khác",
+    "tu_vung": "こしょう (故障)",
+    "y_nghia": "Hỏng"
+  },
+  {
+    "phan_nhom": "Tình trạng chung",
+    "tu_vung": "せいかつ (生活)",
+    "y_nghia": "Cuộc sống"
+  },
+  {
+    "phan_nhom": "Tình trạng chung",
+    "tu_vung": "おしごと (お仕事)",
+    "y_nghia": "Công việc"
+  },
+  {
+    "phan_nhom": "Tình trạng chung",
+    "tu_vung": "ちょうし (調子)",
+    "y_nghia": "Tình trạng/Trạng thái"
+  },
+  {
+    "phan_nhom": "Tình trạng chung",
+    "tu_vung": "ちょうしがわるい (調子が悪い)",
+    "y_nghia": "Tình trạng xấu"
+  },
+  {
+    "phan_nhom": "Tình trạng chung",
+    "tu_vung": "ちょうしがいい (調子がいい)",
+    "y_nghia": "Tình trạng tốt"
+  },
+  {
+    "phan_nhom": "Tình trạng chung",
+    "tu_vung": "おなじ (同じ)",
+    "y_nghia": "Giống"
+  },
+  {
+    "phan_nhom": "Tình trạng chung",
+    "tu_vung": "ユーモア",
+    "y_nghia": "Hài hước"
+  }
+]

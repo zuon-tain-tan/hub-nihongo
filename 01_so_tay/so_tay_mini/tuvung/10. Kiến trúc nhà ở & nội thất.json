@@ -1,0 +1,137 @@
+[
+  {
+    "phan_nhom": "Kiến trúc nhà ở",
+    "tu_vung": "うち",
+    "y_nghia": "Nhà"
+  },
+  {
+    "phan_nhom": "Kiến trúc nhà ở",
+    "tu_vung": "アパート",
+    "y_nghia": "Nhà chung cư"
+  },
+  {
+    "phan_nhom": "Kiến trúc nhà ở",
+    "tu_vung": "りょう (寮)",
+    "y_nghia": "Ký túc xá"
+  },
+  {
+    "phan_nhom": "Kiến trúc nhà ở",
+    "tu_vung": "ビル",
+    "y_nghia": "Tòa nhà"
+  },
+  {
+    "phan_nhom": "Kiến trúc nhà ở",
+    "tu_vung": "たてもの (建物)",
+    "y_nghia": "Tòa nhà"
+  },
+  {
+    "phan_nhom": "Phòng ốc & Không gian",
+    "tu_vung": "へや (部屋)",
+    "y_nghia": "Căn phòng"
+  },
+  {
+    "phan_nhom": "Phòng ốc & Không gian",
+    "tu_vung": "ダイニングキッチン",
+    "y_nghia": "Bếp kèm phòng ăn"
+  },
+  {
+    "phan_nhom": "Phòng ốc & Không gian",
+    "tu_vung": "わしつ (和室)",
+    "y_nghia": "Phòng kiểu Nhật"
+  },
+  {
+    "phan_nhom": "Phòng ốc & Không gian",
+    "tu_vung": "おしいれ (押し入れ)",
+    "y_nghia": "Chỗ để chăn gối"
+  },
+  {
+    "phan_nhom": "Phòng ốc & Không gian",
+    "tu_vung": "トイレ",
+    "y_nghia": "Nhà vệ sinh"
+  },
+  {
+    "phan_nhom": "Phòng ốc & Không gian",
+    "tu_vung": "おてあらい (お手洗い)",
+    "y_nghia": "Nhà vệ sinh (lịch sự)"
+  },
+  {
+    "phan_nhom": "Phòng ốc & Không gian",
+    "tu_vung": "かいだん (階段)",
+    "y_nghia": "Cầu thang"
+  },
+  {
+    "phan_nhom": "Phòng ốc & Không gian",
+    "tu_vung": "エレベーター",
+    "y_nghia": "Thang máy"
+  },
+  {
+    "phan_nhom": "Phòng ốc & Không gian",
+    "tu_vung": "エスカレーター",
+    "y_nghia": "Thang cuốn"
+  },
+  {
+    "phan_nhom": "Phòng ốc & Không gian",
+    "tu_vung": "ドア",
+    "y_nghia": "Cửa ra vào"
+  },
+  {
+    "phan_nhom": "Phòng ốc & Không gian",
+    "tu_vung": "まど (窓)",
+    "y_nghia": "Cửa sổ"
+  },
+  {
+    "phan_nhom": "Đồ nội thất & Tiện ích",
+    "tu_vung": "つくえ (机)",
+    "y_nghia": "Cái bàn"
+  },
+  {
+    "phan_nhom": "Đồ nội thất & Tiện ích",
+    "tu_vung": "いす",
+    "y_nghia": "Cái ghế"
+  },
+  {
+    "phan_nhom": "Đồ nội thất & Tiện ích",
+    "tu_vung": "れいぞうこ (冷蔵庫)",
+    "y_nghia": "Tủ lạnh"
+  },
+  {
+    "phan_nhom": "Đồ nội thất & Tiện ích",
+    "tu_vung": "テーブル",
+    "y_nghia": "Cái bàn"
+  },
+  {
+    "phan_nhom": "Đồ nội thất & Tiện ích",
+    "tu_vung": "ベッド",
+    "y_nghia": "Cái giường"
+  },
+  {
+    "phan_nhom": "Đồ nội thất & Tiện ích",
+    "tu_vung": "たな (棚)",
+    "y_nghia": "Cái giá/Kệ"
+  },
+  {
+    "phan_nhom": "Đồ nội thất & Tiện ích",
+    "tu_vung": "ふとん (布団)",
+    "y_nghia": "Chăn/đệm"
+  },
+  {
+    "phan_nhom": "Đồ nội thất & Tiện ích",
+    "tu_vung": "ポスト",
+    "y_nghia": "Hộp thư"
+  },
+  {
+    "phan_nhom": "Đồ nội thất & Tiện ích",
+    "tu_vung": "はこ (箱)",
+    "y_nghia": "Cái hộp"
+  },
+  {
+    "phan_nhom": "Đồ nội thất & Tiện ích",
+    "tu_vung": "シャワー",
+    "y_nghia": "Vòi hoa sen"
+  },
+  {
+    "phan_nhom": "Đồ nội thất & Tiện ích",
+    "tu_vung": "[お]ふろ",
+    "y_nghia": "Bồn tắm"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "phan_nhom": "Bộ phận cơ thể",
+    "tu_vung": "からだ (体)",
+    "y_nghia": "Cơ thể/Người"
+  },
+  {
+    "phan_nhom": "Bộ phận cơ thể",
+    "tu_vung": "あたま (頭)",
+    "y_nghia": "Đầu"
+  },
+  {
+    "phan_nhom": "Bộ phận cơ thể",
+    "tu_vung": "かみ (髪)",
+    "y_nghia": "Tóc"
+  },
+  {
+    "phan_nhom": "Bộ phận cơ thể",
+    "tu_vung": "かお (顔)",
+    "y_nghia": "Mặt"
+  },
+  {
+    "phan_nhom": "Bộ phận cơ thể",
+    "tu_vung": "め (目)",
+    "y_nghia": "Mắt"
+  },
+  {
+    "phan_nhom": "Bộ phận cơ thể",
+    "tu_vung": "みみ (耳)",
+    "y_nghia": "Tai"
+  },
+  {
+    "phan_nhom": "Bộ phận cơ thể",
+    "tu_vung": "は (歯)",
+    "y_nghia": "Răng"
+  },
+  {
+    "phan_nhom": "Bộ phận cơ thể",
+    "tu_vung": "おなか",
+    "y_nghia": "Bụng"
+  },
+  {
+    "phan_nhom": "Bộ phận cơ thể",
+    "tu_vung": "あし (足)",
+    "y_nghia": "Chân"
+  },
+  {
+    "phan_nhom": "Bộ phận cơ thể",
+    "tu_vung": "のど",
+    "y_nghia": "Họng"
+  },
+  {
+    "phan_nhom": "Đặc điểm cơ thể",
+    "tu_vung": "せが たかい (背が 高い)",
+    "y_nghia": "Cao (người)"
+  },
+  {
+    "phan_nhom": "Đặc điểm cơ thể",
+    "tu_vung": "あたまが いい (頭が いい)",
+    "y_nghia": "Thông minh"
+  }
+]

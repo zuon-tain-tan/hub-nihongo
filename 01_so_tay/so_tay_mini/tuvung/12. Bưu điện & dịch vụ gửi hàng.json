@@ -1,0 +1,42 @@
+[
+  {
+    "phan_nhom": "Đồ bưu điện",
+    "tu_vung": "ゆうびんきょく (郵便局)",
+    "y_nghia": "Bưu điện"
+  },
+  {
+    "phan_nhom": "Đồ bưu điện",
+    "tu_vung": "きって (切手)",
+    "y_nghia": "Tem"
+  },
+  {
+    "phan_nhom": "Đồ bưu điện",
+    "tu_vung": "はがき (葉書)",
+    "y_nghia": "Bưu thiếp"
+  },
+  {
+    "phan_nhom": "Đồ bưu điện",
+    "tu_vung": "ふうとう (封筒)",
+    "y_nghia": "Phong bì"
+  },
+  {
+    "phan_nhom": "Dịch vụ gửi hàng",
+    "tu_vung": "そくたつ (速達)",
+    "y_nghia": "Chuyển phát nhanh"
+  },
+  {
+    "phan_nhom": "Dịch vụ gửi hàng",
+    "tu_vung": "かきとめ (書留)",
+    "y_nghia": "Gửi bảo đảm"
+  },
+  {
+    "phan_nhom": "Dịch vụ gửi hàng",
+    "tu_vung": "こうくうびん (航空便)",
+    "y_nghia": "Gửi đường hàng không"
+  },
+  {
+    "phan_nhom": "Dịch vụ gửi hàng",
+    "tu_vung": "ふなびん (船便)",
+    "y_nghia": "Gửi đường biển"
+  }
+]

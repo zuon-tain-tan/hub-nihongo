@@ -1,0 +1,97 @@
+[
+  {
+    "phan_nhom": "Đếm cái/cục chung",
+    "tu_vung": "ひとつ",
+    "y_nghia": "1 cái"
+  },
+  {
+    "phan_nhom": "Đếm cái/cục chung",
+    "tu_vung": "ふたつ",
+    "y_nghia": "2 cái"
+  },
+  {
+    "phan_nhom": "Đếm cái/cục chung",
+    "tu_vung": "みっつ",
+    "y_nghia": "3 cái"
+  },
+  {
+    "phan_nhom": "Đếm cái/cục chung",
+    "tu_vung": "よっつ",
+    "y_nghia": "4 cái"
+  },
+  {
+    "phan_nhom": "Đếm cái/cục chung",
+    "tu_vung": "いつつ",
+    "y_nghia": "5 cái"
+  },
+  {
+    "phan_nhom": "Đếm cái/cục chung",
+    "tu_vung": "むっつ",
+    "y_nghia": "6 cái"
+  },
+  {
+    "phan_nhom": "Đếm cái/cục chung",
+    "tu_vung": "ななつ",
+    "y_nghia": "7 cái"
+  },
+  {
+    "phan_nhom": "Đếm cái/cục chung",
+    "tu_vung": "やっつ",
+    "y_nghia": "8 cái"
+  },
+  {
+    "phan_nhom": "Đếm cái/cục chung",
+    "tu_vung": "ここのつ",
+    "y_nghia": "9 cái"
+  },
+  {
+    "phan_nhom": "Đếm cái/cục chung",
+    "tu_vung": "とお",
+    "y_nghia": "10 cái"
+  },
+  {
+    "phan_nhom": "Đếm cái/cục chung",
+    "tu_vung": "いくつ",
+    "y_nghia": "Bao nhiêu cái"
+  },
+  {
+    "phan_nhom": "Đếm chuyên biệt",
+    "tu_vung": "ひとり",
+    "y_nghia": "1 người"
+  },
+  {
+    "phan_nhom": "Đếm chuyên biệt",
+    "tu_vung": "ふたり",
+    "y_nghia": "2 người"
+  },
+  {
+    "phan_nhom": "Đếm chuyên biệt",
+    "tu_vung": "～にん (～人)",
+    "y_nghia": "~ người"
+  },
+  {
+    "phan_nhom": "Đếm chuyên biệt",
+    "tu_vung": "～だい (～台)",
+    "y_nghia": "~ cái/chiếc (máy móc, xe)"
+  },
+  {
+    "phan_nhom": "Đếm chuyên biệt",
+    "tu_vung": "～まい (～枚)",
+    "y_nghia": "~ tờ/tấm (vật mỏng)"
+  },
+  {
+    "phan_nhom": "Đếm chuyên biệt",
+    "tu_vung": "2、3～",
+    "y_nghia": "Vài ~"
+  },
+  {
+    "phan_nhom": "Đếm chuyên biệt",
+    "tu_vung": "ーメートル",
+    "y_nghia": "... mét"
+  },
+  {
+    "phan_nhom": "Đếm chuyên biệt",
+    "tu_vung": "ーめ (ー目)",
+    "y_nghia": "Thứー/số ー (thứ tự)"
+  }
+]

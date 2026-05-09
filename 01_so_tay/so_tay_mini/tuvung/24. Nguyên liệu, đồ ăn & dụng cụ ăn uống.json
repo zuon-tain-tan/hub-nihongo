@@ -1,0 +1,152 @@
+[
+  {
+    "phan_nhom": "Nguyên liệu & Đồ ăn cơ bản",
+    "tu_vung": "パン",
+    "y_nghia": "Bánh mì"
+  },
+  {
+    "phan_nhom": "Nguyên liệu & Đồ ăn cơ bản",
+    "tu_vung": "たまご (卵)",
+    "y_nghia": "Trứng"
+  },
+  {
+    "phan_nhom": "Nguyên liệu & Đồ ăn cơ bản",
+    "tu_vung": "にく (肉)",
+    "y_nghia": "Thịt"
+  },
+  {
+    "phan_nhom": "Nguyên liệu & Đồ ăn cơ bản",
+    "tu_vung": "さかな (魚)",
+    "y_nghia": "Cá"
+  },
+  {
+    "phan_nhom": "Nguyên liệu & Đồ ăn cơ bản",
+    "tu_vung": "やさい (野菜)",
+    "y_nghia": "Rau"
+  },
+  {
+    "phan_nhom": "Nguyên liệu & Đồ ăn cơ bản",
+    "tu_vung": "くだもの (果物)",
+    "y_nghia": "Hoa quả"
+  },
+  {
+    "phan_nhom": "Nguyên liệu & Đồ ăn cơ bản",
+    "tu_vung": "たべもの (食べ物)",
+    "y_nghia": "Đồ ăn"
+  },
+  {
+    "phan_nhom": "Nguyên liệu & Đồ ăn cơ bản",
+    "tu_vung": "りょうり (料理)",
+    "y_nghia": "Món ăn/Việc nấu"
+  },
+  {
+    "phan_nhom": "Nguyên liệu & Đồ ăn cơ bản",
+    "tu_vung": "りんご",
+    "y_nghia": "Quả táo"
+  },
+  {
+    "phan_nhom": "Nguyên liệu & Đồ ăn cơ bản",
+    "tu_vung": "みかん",
+    "y_nghia": "Quýt"
+  },
+  {
+    "phan_nhom": "Món ăn đặc thù",
+    "tu_vung": "サンドイッチ",
+    "y_nghia": "Bánh Sandwich"
+  },
+  {
+    "phan_nhom": "Món ăn đặc thù",
+    "tu_vung": "ケーキ",
+    "y_nghia": "Bánh ga-tô"
+  },
+  {
+    "phan_nhom": "Món ăn đặc thù",
+    "tu_vung": "おかし (お菓子)",
+    "y_nghia": "Bánh kẹo"
+  },
+  {
+    "phan_nhom": "Món ăn đặc thù",
+    "tu_vung": "カレー",
+    "y_nghia": "Món Cà ri"
+  },
+  {
+    "phan_nhom": "Món ăn đặc thù",
+    "tu_vung": "アイスクリーム",
+    "y_nghia": "Kem"
+  },
+  {
+    "phan_nhom": "Món ăn đặc thù",
+    "tu_vung": "すきやき",
+    "y_nghia": "Món Sukiyaki"
+  },
+  {
+    "phan_nhom": "Món ăn đặc thù",
+    "tu_vung": "さしみ (刺身)",
+    "y_nghia": "Món Sashimi"
+  },
+  {
+    "phan_nhom": "Món ăn đặc thù",
+    "tu_vung": "すし",
+    "y_nghia": "Món Sushi"
+  },
+  {
+    "phan_nhom": "Món ăn đặc thù",
+    "tu_vung": "テンプラ",
+    "y_nghia": "Món Tempura"
+  },
+  {
+    "phan_nhom": "Món ăn đặc thù",
+    "tu_vung": "ていしょく",
+    "y_nghia": "Cơm suất/phần"
+  },
+  {
+    "phan_nhom": "Món ăn đặc thù",
+    "tu_vung": "ぎゅうどん (牛どん)",
+    "y_nghia": "Cơm thịt bò"
+  },
+  {
+    "phan_nhom": "Tên các bữa ăn",
+    "tu_vung": "ごはん",
+    "y_nghia": "Cơm/Bữa ăn"
+  },
+  {
+    "phan_nhom": "Tên các bữa ăn",
+    "tu_vung": "あさごはん (朝ごはん)",
+    "y_nghia": "Bữa sáng"
+  },
+  {
+    "phan_nhom": "Tên các bữa ăn",
+    "tu_vung": "ひるごはん (昼ごはん)",
+    "y_nghia": "Bữa trưa"
+  },
+  {
+    "phan_nhom": "Tên các bữa ăn",
+    "tu_vung": "ばんごはん (晩ごはん)",
+    "y_nghia": "Bữa tối"
+  },
+  {
+    "phan_nhom": "Dụng cụ ăn uống",
+    "tu_vung": "て (手)",
+    "y_nghia": "Tay"
+  },
+  {
+    "phan_nhom": "Dụng cụ ăn uống",
+    "tu_vung": "はし",
+    "y_nghia": "Đũa"
+  },
+  {
+    "phan_nhom": "Dụng cụ ăn uống",
+    "tu_vung": "スプーン",
+    "y_nghia": "Thìa/Muỗng"
+  },
+  {
+    "phan_nhom": "Dụng cụ ăn uống",
+    "tu_vung": "ナイフ",
+    "y_nghia": "Dao"
+  },
+  {
+    "phan_nhom": "Dụng cụ ăn uống",
+    "tu_vung": "フォーク",
+    "y_nghia": "Dĩa/Nĩa"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "phan_nhom": "Hỏi người & Vật",
+    "tu_vung": "なん/なに (何)",
+    "y_nghia": "Cái gì"
+  },
+  {
+    "phan_nhom": "Hỏi người & Vật",
+    "tu_vung": "だれ (誰)",
+    "y_nghia": "Ai"
+  },
+  {
+    "phan_nhom": "Hỏi người & Vật",
+    "tu_vung": "どなた",
+    "y_nghia": "Vị nào (Lịch sự)"
+  },
+  {
+    "phan_nhom": "Hỏi người & Vật",
+    "tu_vung": "どれ",
+    "y_nghia": "Cái nào (từ 3 thứ trở lên)"
+  },
+  {
+    "phan_nhom": "Hỏi người & Vật",
+    "tu_vung": "どの～",
+    "y_nghia": "~ nào"
+  },
+  {
+    "phan_nhom": "Hỏi người & Vật",
+    "tu_vung": "どちら",
+    "y_nghia": "Cái nào (giữa 2 thứ)"
+  },
+  {
+    "phan_nhom": "Hỏi địa điểm & Thời gian",
+    "tu_vung": "どこ",
+    "y_nghia": "Ở đâu"
+  },
+  {
+    "phan_nhom": "Hỏi địa điểm & Thời gian",
+    "tu_vung": "いつ",
+    "y_nghia": "Khi nào"
+  },
+  {
+    "phan_nhom": "Hỏi số lượng & Trạng thái",
+    "tu_vung": "どう",
+    "y_nghia": "Như thế nào"
+  },
+  {
+    "phan_nhom": "Hỏi số lượng & Trạng thái",
+    "tu_vung": "どんな",
+    "y_nghia": "~ như thế nào"
+  },
+  {
+    "phan_nhom": "Hỏi số lượng & Trạng thái",
+    "tu_vung": "どうして",
+    "y_nghia": "Tại sao"
+  },
+  {
+    "phan_nhom": "Hỏi số lượng & Trạng thái",
+    "tu_vung": "どうやって",
+    "y_nghia": "Làm thế nào"
+  },
+  {
+    "phan_nhom": "Hỏi số lượng & Trạng thái",
+    "tu_vung": "いくら",
+    "y_nghia": "Bao nhiêu tiền"
+  },
+  {
+    "phan_nhom": "Hỏi số lượng & Trạng thái",
+    "tu_vung": "どのぐらい",
+    "y_nghia": "Khoảng bao lâu/bao nhiêu"
+  },
+  {
+    "phan_nhom": "Hỏi số lượng & Trạng thái",
+    "tu_vung": "なんがい (何階)",
+    "y_nghia": "Tầng mấy"
+  },
+  {
+    "phan_nhom": "Hỏi số lượng & Trạng thái",
+    "tu_vung": "なんばん (何番)",
+    "y_nghia": "Số mấy"
+  },
+  {
+    "phan_nhom": "Hỏi số lượng & Trạng thái",
+    "tu_vung": "なんさい (何歳)",
+    "y_nghia": "Mấy tuổi"
+  },
+  {
+    "phan_nhom": "Hỏi số lượng & Trạng thái",
+    "tu_vung": "なんじ (何時)",
+    "y_nghia": "Mấy giờ"
+  },
+  {
+    "phan_nhom": "Hỏi số lượng & Trạng thái",
+    "tu_vung": "なんぷん (何分)",
+    "y_nghia": "Mấy phút"
+  },
+  {
+    "phan_nhom": "Hỏi số lượng & Trạng thái",
+    "tu_vung": "なんがつ (何月)",
+    "y_nghia": "Tháng mấy"
+  },
+  {
+    "phan_nhom": "Hỏi số lượng & Trạng thái",
+    "tu_vung": "なんにち (何日)",
+    "y_nghia": "Ngày mấy"
+  }
+]

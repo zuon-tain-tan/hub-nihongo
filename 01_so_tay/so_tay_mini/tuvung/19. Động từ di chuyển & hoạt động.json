@@ -1,0 +1,107 @@
+[
+  {
+    "phan_nhom": "Di chuyển cơ bản",
+    "tu_vung": "いく (行きます)",
+    "y_nghia": "Đi"
+  },
+  {
+    "phan_nhom": "Di chuyển cơ bản",
+    "tu_vung": "くる (来ます)",
+    "y_nghia": "Đến"
+  },
+  {
+    "phan_nhom": "Di chuyển cơ bản",
+    "tu_vung": "かえる (帰ります)",
+    "y_nghia": "Về"
+  },
+  {
+    "phan_nhom": "Di chuyển cơ bản",
+    "tu_vung": "はいる (入ります)",
+    "y_nghia": "Vào"
+  },
+  {
+    "phan_nhom": "Di chuyển cơ bản",
+    "tu_vung": "でる (出ます)",
+    "y_nghia": "Ra/Ra khỏi"
+  },
+  {
+    "phan_nhom": "Di chuyển cơ bản",
+    "tu_vung": "つく (着きます)",
+    "y_nghia": "Đến (ga)"
+  },
+  {
+    "phan_nhom": "Di chuyển cơ bản",
+    "tu_vung": "あるく (歩きます)",
+    "y_nghia": "Đi bộ"
+  },
+  {
+    "phan_nhom": "Di chuyển cơ bản",
+    "tu_vung": "わたる (渡ります)",
+    "y_nghia": "Qua/đi qua (cầu)"
+  },
+  {
+    "phan_nhom": "Di chuyển cơ bản",
+    "tu_vung": "のぼる (登ります)",
+    "y_nghia": "Leo (núi)"
+  },
+  {
+    "phan_nhom": "Sử dụng phương tiện",
+    "tu_vung": "のる (乗ります)",
+    "y_nghia": "Đi/Lên [tàu]"
+  },
+  {
+    "phan_nhom": "Sử dụng phương tiện",
+    "tu_vung": "おりる (降ります)",
+    "y_nghia": "Xuống [tàu]"
+  },
+  {
+    "phan_nhom": "Sử dụng phương tiện",
+    "tu_vung": "のりかえる (乗り換えます)",
+    "y_nghia": "Chuyển/Đổi (tàu)"
+  },
+  {
+    "phan_nhom": "Sử dụng phương tiện",
+    "tu_vung": "うんてんする (運転します)",
+    "y_nghia": "Lái xe"
+  },
+  {
+    "phan_nhom": "Đồng hành & Hoạt động",
+    "tu_vung": "むかえる (迎えます)",
+    "y_nghia": "Đón"
+  },
+  {
+    "phan_nhom": "Đồng hành & Hoạt động",
+    "tu_vung": "さんぽする (散歩します)",
+    "y_nghia": "Đi dạo"
+  },
+  {
+    "phan_nhom": "Đồng hành & Hoạt động",
+    "tu_vung": "いそぐ (急ぎます)",
+    "y_nghia": "Vội/Gấp"
+  },
+  {
+    "phan_nhom": "Đồng hành & Hoạt động",
+    "tu_vung": "まつ (待ちます)",
+    "y_nghia": "Đợi/Chờ"
+  },
+  {
+    "phan_nhom": "Đồng hành & Hoạt động",
+    "tu_vung": "でかける (出かけます)",
+    "y_nghia": "Ra ngoài"
+  },
+  {
+    "phan_nhom": "Đồng hành & Hoạt động",
+    "tu_vung": "つれていく (連れて行く)",
+    "y_nghia": "Dẫn đi"
+  },
+  {
+    "phan_nhom": "Đồng hành & Hoạt động",
+    "tu_vung": "つれてくる (連れて来る)",
+    "y_nghia": "Dẫn đến"
+  },
+  {
+    "phan_nhom": "Đồng hành & Hoạt động",
+    "tu_vung": "おくる (送ります)",
+    "y_nghia": "Đưa đi/tiễn"
+  }
+]

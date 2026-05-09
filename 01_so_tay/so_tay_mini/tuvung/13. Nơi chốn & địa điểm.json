@@ -1,0 +1,182 @@
+[
+  {
+    "phan_nhom": "Hành chính & Sự nghiệp",
+    "tu_vung": "かいしゃ (会社)",
+    "y_nghia": "Công ty"
+  },
+  {
+    "phan_nhom": "Hành chính & Sự nghiệp",
+    "tu_vung": "しやくしょ (市役所)",
+    "y_nghia": "VP hành chính quận/TP"
+  },
+  {
+    "phan_nhom": "Hành chính & Sự nghiệp",
+    "tu_vung": "たいしかん (大使館)",
+    "y_nghia": "Đại sứ quán"
+  },
+  {
+    "phan_nhom": "Hành chính & Sự nghiệp",
+    "tu_vung": "ぎんこう (銀行)",
+    "y_nghia": "Ngân hàng"
+  },
+  {
+    "phan_nhom": "Giáo dục & Y tế",
+    "tu_vung": "がっこう (学校)",
+    "y_nghia": "Trường học"
+  },
+  {
+    "phan_nhom": "Giáo dục & Y tế",
+    "tu_vung": "だいがく (大学)",
+    "y_nghia": "Trường đại học"
+  },
+  {
+    "phan_nhom": "Giáo dục & Y tế",
+    "tu_vung": "さくらだいがく (さくら大学)",
+    "y_nghia": "ĐH Sakura"
+  },
+  {
+    "phan_nhom": "Giáo dục & Y tế",
+    "tu_vung": "こうこう (高校)",
+    "y_nghia": "Trường cấp 3"
+  },
+  {
+    "phan_nhom": "Giáo dục & Y tế",
+    "tu_vung": "びょういん (病院)",
+    "y_nghia": "Bệnh viện"
+  },
+  {
+    "phan_nhom": "Mua sắm & Dịch vụ",
+    "tu_vung": "デパート",
+    "y_nghia": "Cửa hàng bách hóa"
+  },
+  {
+    "phan_nhom": "Mua sắm & Dịch vụ",
+    "tu_vung": "スーパー",
+    "y_nghia": "Siêu thị"
+  },
+  {
+    "phan_nhom": "Mua sắm & Dịch vụ",
+    "tu_vung": "みせ (店)",
+    "y_nghia": "Cửa hàng/Tiệm"
+  },
+  {
+    "phan_nhom": "Mua sắm & Dịch vụ",
+    "tu_vung": "～や (～屋)",
+    "y_nghia": "Cửa hàng/Hiệu ~"
+  },
+  {
+    "phan_nhom": "Mua sắm & Dịch vụ",
+    "tu_vung": "でんきや (電気屋)",
+    "y_nghia": "Cửa hàng đồ điện"
+  },
+  {
+    "phan_nhom": "Mua sắm & Dịch vụ",
+    "tu_vung": "ほんや (本屋)",
+    "y_nghia": "Hiệu sách"
+  },
+  {
+    "phan_nhom": "Mua sắm & Dịch vụ",
+    "tu_vung": "レストラン",
+    "y_nghia": "Nhà hàng"
+  },
+  {
+    "phan_nhom": "Mua sắm & Dịch vụ",
+    "tu_vung": "きっさてん (喫茶店)",
+    "y_nghia": "Quán cà phê"
+  },
+  {
+    "phan_nhom": "Mua sắm & Dịch vụ",
+    "tu_vung": "ホテル",
+    "y_nghia": "Khách sạn"
+  },
+  {
+    "phan_nhom": "Giải trí & Văn hóa",
+    "tu_vung": "としょかん (図書館)",
+    "y_nghia": "Thư viện"
+  },
+  {
+    "phan_nhom": "Giải trí & Văn hóa",
+    "tu_vung": "びじゅつかん (美術館)",
+    "y_nghia": "Bảo tàng mỹ thuật"
+  },
+  {
+    "phan_nhom": "Giải trí & Văn hóa",
+    "tu_vung": "[お]てら ([お]寺)",
+    "y_nghia": "Chùa"
+  },
+  {
+    "phan_nhom": "Giải trí & Văn hóa",
+    "tu_vung": "じんじゃ (神社)",
+    "y_nghia": "Đền thờ đạo Thần"
+  },
+  {
+    "phan_nhom": "Giải trí & Văn hóa",
+    "tu_vung": "ぼくじょう (牧場)",
+    "y_nghia": "Trang trại"
+  },
+  {
+    "phan_nhom": "Giải trí & Văn hóa",
+    "tu_vung": "よかかいはつセンター",
+    "y_nghia": "Trung tâm phát triển giải trí"
+  },
+  {
+    "phan_nhom": "Giải trí & Văn hóa",
+    "tu_vung": "ばんりのちょうじょう (万里の長城)",
+    "y_nghia": "Vạn lý trường thành"
+  },
+  {
+    "phan_nhom": "Giải trí & Văn hóa",
+    "tu_vung": "こうえん (公園)",
+    "y_nghia": "Công viên"
+  },
+  {
+    "phan_nhom": "Giải trí & Văn hóa",
+    "tu_vung": "にわ (庭)",
+    "y_nghia": "Vườn"
+  },
+  {
+    "phan_nhom": "Giải trí & Văn hóa",
+    "tu_vung": "プール",
+    "y_nghia": "Bể bơi"
+  },
+  {
+    "phan_nhom": "Phòng ốc trong cơ quan",
+    "tu_vung": "きょうしつ (教室)",
+    "y_nghia": "Lớp học"
+  },
+  {
+    "phan_nhom": "Phòng ốc trong cơ quan",
+    "tu_vung": "しょくどう (食堂)",
+    "y_nghia": "Nhà ăn"
+  },
+  {
+    "phan_nhom": "Phòng ốc trong cơ quan",
+    "tu_vung": "じむしょ (事務所)",
+    "y_nghia": "Văn phòng"
+  },
+  {
+    "phan_nhom": "Phòng ốc trong cơ quan",
+    "tu_vung": "かいぎしつ (会議室)",
+    "y_nghia": "Phòng họp"
+  },
+  {
+    "phan_nhom": "Phòng ốc trong cơ quan",
+    "tu_vung": "うけつけ (受付)",
+    "y_nghia": "Quầy lễ tân"
+  },
+  {
+    "phan_nhom": "Phòng ốc trong cơ quan",
+    "tu_vung": "ロビー",
+    "y_nghia": "Đại sảnh"
+  },
+  {
+    "phan_nhom": "Phòng ốc trong cơ quan",
+    "tu_vung": "ちゅうしゃじょう (駐車場)",
+    "y_nghia": "Bãi đỗ xe"
+  },
+  {
+    "phan_nhom": "Khái niệm Nơi chốn",
+    "tu_vung": "ところ (所)",
+    "y_nghia": "Nơi/Chỗ"
+  }
+]

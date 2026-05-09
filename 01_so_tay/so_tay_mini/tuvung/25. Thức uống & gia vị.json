@@ -1,0 +1,57 @@
+[
+  {
+    "phan_nhom": "Thức uống",
+    "tu_vung": "みず (水)",
+    "y_nghia": "Nước"
+  },
+  {
+    "phan_nhom": "Thức uống",
+    "tu_vung": "おちゃ (お茶)",
+    "y_nghia": "Trà xanh"
+  },
+  {
+    "phan_nhom": "Thức uống",
+    "tu_vung": "こうちゃ (紅茶)",
+    "y_nghia": "Hồng trà"
+  },
+  {
+    "phan_nhom": "Thức uống",
+    "tu_vung": "ぎゅうにゅう (牛乳)",
+    "y_nghia": "Sữa bò"
+  },
+  {
+    "phan_nhom": "Thức uống",
+    "tu_vung": "ジュース",
+    "y_nghia": "Nước hoa quả"
+  },
+  {
+    "phan_nhom": "Thức uống",
+    "tu_vung": "ビール",
+    "y_nghia": "Bia"
+  },
+  {
+    "phan_nhom": "Thức uống",
+    "tu_vung": "おさけ (お酒)",
+    "y_nghia": "Rượu"
+  },
+  {
+    "phan_nhom": "Thức uống",
+    "tu_vung": "のみもの (飲み物)",
+    "y_nghia": "Đồ uống"
+  },
+  {
+    "phan_nhom": "Gia vị",
+    "tu_vung": "チリソース",
+    "y_nghia": "Tương ớt"
+  },
+  {
+    "phan_nhom": "Gia gia vị",
+    "tu_vung": "しお (塩)",
+    "y_nghia": "Muối"
+  },
+  {
+    "phan_nhom": "Gia vị",
+    "tu_vung": "さとう (砂糖)",
+    "y_nghia": "Đường"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "phan_nhom": "Kích thước & Khoảng cách",
+    "tu_vung": "おおきい (大きい)",
+    "y_nghia": "To/Lớn"
+  },
+  {
+    "phan_nhom": "Kích thước & Khoảng cách",
+    "tu_vung": "ちいさい (小さい)",
+    "y_nghia": "Nhỏ/Bé"
+  },
+  {
+    "phan_nhom": "Kích thước & Khoảng cách",
+    "tu_vung": "たかい (高い)",
+    "y_nghia": "Cao/Đắt"
+  },
+  {
+    "phan_nhom": "Kích thước & Khoảng cách",
+    "tu_vung": "ひくい (低い)",
+    "y_nghia": "Thấp"
+  },
+  {
+    "phan_nhom": "Kích thước & Khoảng cách",
+    "tu_vung": "ちかい (近い)",
+    "y_nghia": "Gần"
+  },
+  {
+    "phan_nhom": "Kích thước & Khoảng cách",
+    "tu_vung": "とおい (遠い)",
+    "y_nghia": "Xa"
+  },
+  {
+    "phan_nhom": "Kích thước & Khoảng cách",
+    "tu_vung": "ひろい (広い)",
+    "y_nghia": "Rộng"
+  },
+  {
+    "phan_nhom": "Kích thước & Khoảng cách",
+    "tu_vung": "せまい (狭い)",
+    "y_nghia": "Chật/Hẹp"
+  },
+  {
+    "phan_nhom": "Kích thước & Khoảng cách",
+    "tu_vung": "ながい (長い)",
+    "y_nghia": "Dài"
+  },
+  {
+    "phan_nhom": "Kích thước & Khoảng cách",
+    "tu_vung": "みじかい (短い)",
+    "y_nghia": "Ngắn"
+  },
+  {
+    "phan_nhom": "Cảm giác vật lý",
+    "tu_vung": "あつい (暑い/熱い)",
+    "y_nghia": "Nóng"
+  },
+  {
+    "phan_nhom": "Cảm giác vật lý",
+    "tu_vung": "さむい (寒い)",
+    "y_nghia": "Lạnh (thời tiết)"
+  },
+  {
+    "phan_nhom": "Cảm giác vật lý",
+    "tu_vung": "つめたい (冷たい)",
+    "y_nghia": "Lạnh (cảm giác)"
+  },
+  {
+    "phan_nhom": "Cảm giác vật lý",
+    "tu_vung": "あたたかい (暖かい)",
+    "y_nghia": "Ấm áp"
+  },
+  {
+    "phan_nhom": "Cảm giác vật lý",
+    "tu_vung": "すずしい (涼しい)",
+    "y_nghia": "Mát mẻ"
+  },
+  {
+    "phan_nhom": "Cảm giác vật lý",
+    "tu_vung": "あまい (甘い)",
+    "y_nghia": "Ngọt"
+  },
+  {
+    "phan_nhom": "Cảm giác vật lý",
+    "tu_vung": "からい (辛い)",
+    "y_nghia": "Cay"
+  },
+  {
+    "phan_nhom": "Cảm giác vật lý",
+    "tu_vung": "おもい (重い)",
+    "y_nghia": "Nặng"
+  },
+  {
+    "phan_nhom": "Cảm giác vật lý",
+    "tu_vung": "かるい (軽い)",
+    "y_nghia": "Nhẹ"
+  },
+  {
+    "phan_nhom": "Cảm giác vật lý",
+    "tu_vung": "あかるい (明るい)",
+    "y_nghia": "Sáng"
+  },
+  {
+    "phan_nhom": "Cảm giác vật lý",
+    "tu_vung": "くらい (暗い)",
+    "y_nghia": "Tối"
+  },
+  {
+    "phan_nhom": "Cảm giác vật lý",
+    "tu_vung": "ねむい (眠い)",
+    "y_nghia": "Buồn ngủ"
+  },
+  {
+    "phan_nhom": "Tính chất & Đánh giá",
+    "tu_vung": "あたらしい (新しい)",
+    "y_nghia": "Mới"
+  },
+  {
+    "phan_nhom": "Tính chất & Đánh giá",
+    "tu_vung": "ふるい (古い)",
+    "y_nghia": "Cũ"
+  },
+  {
+    "phan_nhom": "Tính chất & Đánh giá",
+    "tu_vung": "いい",
+    "y_nghia": "Tốt"
+  },
+  {
+    "phan_nhom": "Tính chất & Đánh giá",
+    "tu_vung": "わるい (悪い)",
+    "y_nghia": "Xấu"
+  },
+  {
+    "phan_nhom": "Tính chất & Đánh giá",
+    "tu_vung": "むずかしい (難しい)",
+    "y_nghia": "Khó"
+  },
+  {
+    "phan_nhom": "Tính chất & Đánh giá",
+    "tu_vung": "やさしい (易しい)",
+    "y_nghia": "Dễ / Hiền lành"
+  },
+  {
+    "phan_nhom": "Tính chất & Đánh giá",
+    "tu_vung": "やすい (安い)",
+    "y_nghia": "Rẻ"
+  },
+  {
+    "phan_nhom": "Tính chất & Đánh giá",
+    "tu_vung": "はやい (速い/早い)",
+    "y_nghia": "Nanh/Sớm"
+  },
+  {
+    "phan_nhom": "Tính chất & Đánh giá",
+    "tu_vung": "おそい (遅い)",
+    "y_nghia": "Chậm/Muộn"
+  },
+  {
+    "phan_nhom": "Tính chất & Đánh giá",
+    "tu_vung": "おおい (多い)",
+    "y_nghia": "Nhiều (người)"
+  },
+  {
+    "phan_nhom": "Tính chất & Đánh giá",
+    "tu_vung": "すくない (少ない)",
+    "y_nghia": "Ít (người)"
+  },
+  {
+    "phan_nhom": "Tính chất & Đánh giá",
+    "tu_vung": "わかい (若い)",
+    "y_nghia": "Trẻ"
+  },
+  {
+    "phan_nhom": "Tính chất & Đánh giá",
+    "tu_vung": "あぶない (危ない)",
+    "y_nghia": "Nguy hiểm"
+  },
+  {
+    "phan_nhom": "Tính chất & Đánh giá",
+    "tu_vung": "つよい (強い)",
+    "y_nghia": "Mạnh"
+  },
+  {
+    "phan_nhom": "Tính chất & Đánh giá",
+    "tu_vung": "よわい (弱い)",
+    "y_nghia": "Yếu"
+  },
+  {
+    "phan_nhom": "Cảm xúc & Tình trạng",
+    "tu_vung": "おもしろい",
+    "y_nghia": "Thú vị"
+  },
+  {
+    "phan_nhom": "Cảm xúc & Tình trạng",
+    "tu_vung": "おいしい",
+    "y_nghia": "Ngon"
+  },
+  {
+    "phan_nhom": "Cảm xúc & Tình trạng",
+    "tu_vung": "たのしい (楽しい)",
+    "y_nghia": "Vui vẻ"
+  },
+  {
+    "phan_nhom": "Cảm xúc & Tình trạng",
+    "tu_vung": "いそがしい (忙しい)",
+    "y_nghia": "Bận rộn"
+  },
+  {
+    "phan_nhom": "Cảm xúc & Tình trạng",
+    "tu_vung": "ほしい (欲しい)",
+    "y_nghia": "Muốn có"
+  },
+  {
+    "phan_nhom": "Cảm xúc & Tình trạng",
+    "tu_vung": "さびしい (寂しい)",
+    "y_nghia": "Buồn/Cô đơn"
+  },
+  {
+    "phan_nhom": "Cảm xúc & Tình trạng",
+    "tu_vung": "すごい",
+    "y_nghia": "Giỏi/Ghê quá"
+  }
+]

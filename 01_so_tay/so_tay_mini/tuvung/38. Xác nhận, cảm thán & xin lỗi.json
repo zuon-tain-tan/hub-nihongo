@@ -1,0 +1,172 @@
+[
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "はい",
+    "y_nghia": "Vâng"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "うん",
+    "y_nghia": "Có (Thân mật)"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "いいえ",
+    "y_nghia": "Không"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "ううん",
+    "y_nghia": "Không (Thân mật)"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "そう",
+    "y_nghia": "Đúng vậy"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "ちがいます",
+    "y_nghia": "Không phải/Nhầm rồi"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "そうですか",
+    "y_nghia": "Thế à"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "あのう",
+    "y_nghia": "À/Ờ"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "ちょっと",
+    "y_nghia": "Một chút"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "ええ",
+    "y_nghia": "Vâng/Được"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "いいですね",
+    "y_nghia": "Được đấy nhỉ"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "わかりました",
+    "y_nghia": "Tôi hiểu rồi"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "なんですか",
+    "y_nghia": "Cái gì vậy"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "すごいですね",
+    "y_nghia": "Ghê quá/Giỏi quá"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "そうですね",
+    "y_nghia": "Đúng thế (tán thành)"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "そうしましょう",
+    "y_nghia": "Nhất trí như thế"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "さあ",
+    "y_nghia": "Thôi/Nào (thúc giục)"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "あれ？",
+    "y_nghia": "Ô! (ngạc nhiên)"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "まだまだです",
+    "y_nghia": "tôi còn kém lắm"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "へえ",
+    "y_nghia": "Thế à"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "それはおもしろいですね",
+    "y_nghia": "Hay nhỉ/Thú vị nhỉ"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "ほんとうですか",
+    "y_nghia": "Thật không?"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "じつは (実は)",
+    "y_nghia": "Sự tình là"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "もちろん",
+    "y_nghia": "Tất nhiên"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "うーん。",
+    "y_nghia": "Để tôi xem/ừ/thế nào nhỉ"
+  },
+  {
+    "phan_nhom": "Xác nhận & Cảm thán",
+    "tu_vung": "いいですよ",
+    "y_nghia": "Được chứ/Được ạ"
+  },
+  {
+    "phan_nhom": "Cảm ơn & Xin lỗi",
+    "tu_vung": "ほんのきもちです",
+    "y_nghia": "Đây là chút tấm lòng"
+  },
+  {
+    "phan_nhom": "Cảm ơn & Xin lỗi",
+    "tu_vung": "どうぞ",
+    "y_nghia": "Xin mời"
+  },
+  {
+    "phan_nhom": "Cảm ơn & Xin lỗi",
+    "tu_vung": "どうも",
+    "y_nghia": "Cảm ơn/Rất"
+  },
+  {
+    "phan_nhom": "Cảm ơn & Xin lỗi",
+    "tu_vung": "どうもありがとう",
+    "y_nghia": "Cảm ơn nhiều"
+  },
+  {
+    "phan_nhom": "Cảm ơn & Xin lỗi",
+    "tu_vung": "すみません",
+    "y_nghia": "Xin lỗi"
+  },
+  {
+    "phan_nhom": "Cảm ơn & Xin lỗi",
+    "tu_vung": "～でございます",
+    "y_nghia": "Là (lịch sự của です)"
+  },
+  {
+    "phan_nhom": "Cảm ơn & Xin lỗi",
+    "tu_vung": "どういたしまして",
+    "y_nghia": "Không có chi"
+  },
+  {
+    "phan_nhom": "Cảm ơn & Xin lỗi",
+    "tu_vung": "ごめんなさい",
+    "y_nghia": "Xin lỗi"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "phan_nhom": "Tên các loài vật",
+    "tu_vung": "いぬ (犬)",
+    "y_nghia": "Con chó"
+  },
+  {
+    "phan_nhom": "Tên các loài vật",
+    "tu_vung": "ねこ (猫)",
+    "y_nghia": "Con mèo"
+  },
+  {
+    "phan_nhom": "Tên các loài vật",
+    "tu_vung": "どうぶつ (動物)",
+    "y_nghia": "Động vật"
+  },
+  {
+    "phan_nhom": "Tên các loài vật",
+    "tu_vung": "うま (馬)",
+    "y_nghia": "Ngựa"
+  },
+  {
+    "phan_nhom": "Tên các loài vật",
+    "tu_vung": "カンガルー",
+    "y_nghia": "Kanguru"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "phan_nhom": "Các buổi trong ngày",
+    "tu_vung": "あさ (朝)",
+    "y_nghia": "Buổi sáng"
+  },
+  {
+    "phan_nhom": "Các buổi trong ngày",
+    "tu_vung": "ひる (昼)",
+    "y_nghia": "Buổi trưa"
+  },
+  {
+    "phan_nhom": "Các buổi trong ngày",
+    "tu_vung": "ばん (晩)",
+    "y_nghia": "Buổi tối"
+  },
+  {
+    "phan_nhom": "Các buổi trong ngày",
+    "tu_vung": "よる (夜)",
+    "y_nghia": "Buổi tối/Đêm"
+  },
+  {
+    "phan_nhom": "Các buổi trong ngày",
+    "tu_vung": "けさ (今朝)",
+    "y_nghia": "Sáng nay"
+  },
+  {
+    "phan_nhom": "Các buổi trong ngày",
+    "tu_vung": "こんばん (今晩)",
+    "y_nghia": "Tối nay"
+  },
+  {
+    "phan_nhom": "Các buổi trong ngày",
+    "tu_vung": "ゆうべ",
+    "y_nghia": "Tối qua"
+  },
+  {
+    "phan_nhom": "Các buổi trong ngày",
+    "tu_vung": "まいあさ (毎朝)",
+    "y_nghia": "Mỗi sáng"
+  },
+  {
+    "phan_nhom": "Các buổi trong ngày",
+    "tu_vung": "まいばん (毎晩)",
+    "y_nghia": "Mỗi tối"
+  },
+  {
+    "phan_nhom": "Các buổi trong ngày",
+    "tu_vung": "まいにち (毎日)",
+    "y_nghia": "Mỗi ngày"
+  },
+  {
+    "phan_nhom": "Giờ giấc cụ thể",
+    "tu_vung": "いま (今)",
+    "y_nghia": "Bây giờ"
+  },
+  {
+    "phan_nhom": "Giờ giấc cụ thể",
+    "tu_vung": "～じ (～時)",
+    "y_nghia": "Giờ"
+  },
+  {
+    "phan_nhom": "Giờ giấc cụ thể",
+    "tu_vung": "～ふん/～ぷん (～分)",
+    "y_nghia": "Phút"
+  },
+  {
+    "phan_nhom": "Giờ giấc cụ thể",
+    "tu_vung": "はん (半)",
+    "y_nghia": "Rưỡi/Nửa"
+  },
+  {
+    "phan_nhom": "Giờ giấc cụ thể",
+    "tu_vung": "ごぜん (午前)",
+    "y_nghia": "Sáng (AM)"
+  },
+  {
+    "phan_nhom": "Giờ giấc cụ thể",
+    "tu_vung": "ごご (午後)",
+    "y_nghia": "Chiều (PM)"
+  },
+  {
+    "phan_nhom": "Giờ giấc cụ thể",
+    "tu_vung": "ラッシュ",
+    "y_nghia": "Giờ cao điểm"
+  },
+  {
+    "phan_nhom": "Giờ giấc cụ thể",
+    "tu_vung": "～ごろ",
+    "y_nghia": "Khoảng ~ (thời điểm)"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "phan_nhom": "Quần áo",
+    "tu_vung": "ふく (服)",
+    "y_nghia": "Quần áo"
+  },
+  {
+    "phan_nhom": "Quần áo",
+    "tu_vung": "うわぎ (上着)",
+    "y_nghia": "Áo khoác"
+  },
+  {
+    "phan_nhom": "Quần áo",
+    "tu_vung": "したぎ (下着)",
+    "y_nghia": "Quần áo lót"
+  },
+  {
+    "phan_nhom": "Quần áo",
+    "tu_vung": "コート",
+    "y_nghia": "Áo khoác (dáng dài)"
+  },
+  {
+    "phan_nhom": "Quần áo",
+    "tu_vung": "スーツ",
+    "y_nghia": "Com-lê"
+  },
+  {
+    "phan_nhom": "Quần áo",
+    "tu_vung": "セーター",
+    "y_nghia": "Áo len"
+  },
+  {
+    "phan_nhom": "Quần áo",
+    "tu_vung": "シャツ",
+    "y_nghia": "Áo sơ mi"
+  },
+  {
+    "phan_nhom": "Quần áo",
+    "tu_vung": "きもの (着物)",
+    "y_nghia": "Kimono"
+  },
+  {
+    "phan_nhom": "Phụ kiện",
+    "tu_vung": "くつ (靴)",
+    "y_nghia": "Giầy"
+  },
+  {
+    "phan_nhom": "Phụ kiện",
+    "tu_vung": "ぼうし (帽子)",
+    "y_nghia": "Nón/mũ"
+  },
+  {
+    "phan_nhom": "Phụ kiện",
+    "tu_vung": "めがね (眼鏡)",
+    "y_nghia": "Kính"
+  },
+  {
+    "phan_nhom": "Phụ kiện",
+    "tu_vung": "ネクタイ",
+    "y_nghia": "Cà vạt"
+  }
+]

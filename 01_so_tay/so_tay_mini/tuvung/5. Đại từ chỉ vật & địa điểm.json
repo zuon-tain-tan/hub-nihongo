@@ -1,0 +1,87 @@
+[
+  {
+    "phan_nhom": "Chỉ vật",
+    "tu_vung": "これ",
+    "y_nghia": "Cái này"
+  },
+  {
+    "phan_nhom": "Chỉ vật",
+    "tu_vung": "それ",
+    "y_nghia": "Cái đó"
+  },
+  {
+    "phan_nhom": "Chỉ vật",
+    "tu_vung": "あれ",
+    "y_nghia": "Cái kia"
+  },
+  {
+    "phan_nhom": "Chỉ vật",
+    "tu_vung": "この~",
+    "y_nghia": "~ này (kèm N)"
+  },
+  {
+    "phan_nhom": "Chỉ vật",
+    "tu_vung": "その~",
+    "y_nghia": "~ đó (kèm N)"
+  },
+  {
+    "phan_nhom": "Chỉ vật",
+    "tu_vung": "あの~",
+    "y_nghia": "~ kia (kèm N)"
+  },
+  {
+    "phan_nhom": "Chỉ địa điểm (Lịch sự)",
+    "tu_vung": "こちら",
+    "y_nghia": "Phía này/đây"
+  },
+  {
+    "phan_nhom": "Chỉ địa điểm (Lịch sự)",
+    "tu_vung": "そちら",
+    "y_nghia": "Phía đó/đó"
+  },
+  {
+    "phan_nhom": "Chỉ địa điểm (Lịch sự)",
+    "tu_vung": "あちら",
+    "y_nghia": "Phía kia/kia"
+  },
+  {
+    "phan_nhom": "Chỉ địa điểm (Lịch sự)",
+    "tu_vung": "どちらも",
+    "y_nghia": "Cả hai"
+  },
+  {
+    "phan_nhom": "Chỉ địa điểm (Thường)",
+    "tu_vung": "ここ",
+    "y_nghia": "Chỗ này/đây"
+  },
+  {
+    "phan_nhom": "Chỉ địa điểm (Thường)",
+    "tu_vung": "そこ",
+    "y_nghia": "Chỗ đó/đó"
+  },
+  {
+    "phan_nhom": "Chỉ địa điểm (Thường)",
+    "tu_vung": "あそこ",
+    "y_nghia": "Chỗ kia/kia"
+  },
+  {
+    "phan_nhom": "Chỉ địa điểm (Thường)",
+    "tu_vung": "こっち",
+    "y_nghia": "Phía này (thân mật)"
+  },
+  {
+    "phan_nhom": "Chỉ địa điểm (Thường)",
+    "tu_vung": "そっち",
+    "y_nghia": "Phía đó (thân mật)"
+  },
+  {
+    "phan_nhom": "Chỉ địa điểm (Thường)",
+    "tu_vung": "あっち",
+    "y_nghia": "Phía kia (thân mật)"
+  },
+  {
+    "phan_nhom": "Chỉ địa điểm (Thường)",
+    "tu_vung": "どっち",
+    "y_nghia": "Ở đâu/Phía nào (thân mật)"
+  }
+]

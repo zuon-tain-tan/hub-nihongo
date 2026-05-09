@@ -1,0 +1,112 @@
+[
+  {
+    "phan_nhom": "Máy móc & Phần mềm",
+    "tu_vung": "パソコン",
+    "y_nghia": "Máy tính cá nhân"
+  },
+  {
+    "phan_nhom": "Máy móc & Phần mềm",
+    "tu_vung": "コンピューター",
+    "y_nghia": "Máy vi tính"
+  },
+  {
+    "phan_nhom": "Máy móc & Phần mềm",
+    "tu_vung": "ファクス",
+    "y_nghia": "Máy Fax"
+  },
+  {
+    "phan_nhom": "Máy móc & Phần mềm",
+    "tu_vung": "ワープロ",
+    "y_nghia": "Máy đánh chữ"
+  },
+  {
+    "phan_nhom": "Máy móc & Phần mềm",
+    "tu_vung": "きかい (機械)",
+    "y_nghia": "Máy móc"
+  },
+  {
+    "phan_nhom": "Máy móc & Phần mềm",
+    "tu_vung": "ソフト",
+    "y_nghia": "Phần mềm"
+  },
+  {
+    "phan_nhom": "Thiết bị nghe nhìn",
+    "tu_vung": "カセットテープ",
+    "y_nghia": "Băng Cassette"
+  },
+  {
+    "phan_nhom": "Thiết bị nghe nhìn",
+    "tu_vung": "テープレコーダー",
+    "y_nghia": "Máy ghi âm"
+  },
+  {
+    "phan_nhom": "Thiết bị nghe nhìn",
+    "tu_vung": "テレビ",
+    "y_nghia": "Tivi"
+  },
+  {
+    "phan_nhom": "Thiết bị nghe nhìn",
+    "tu_vung": "ラジオ",
+    "y_nghia": "Đài Radio"
+  },
+  {
+    "phan_nhom": "Thiết bị nghe nhìn",
+    "tu_vung": "カメラ",
+    "y_nghia": "Máy ảnh"
+  },
+  {
+    "phan_nhom": "Thiết bị nghe nhìn",
+    "tu_vung": "でんわ (電話)",
+    "y_nghia": "Điện thoại"
+  },
+  {
+    "phan_nhom": "Linh kiện & Bộ phận",
+    "tu_vung": "エアコン",
+    "y_nghia": "Máy điều hòa"
+  },
+  {
+    "phan_nhom": "Linh kiện & Bộ phận",
+    "tu_vung": "でんき (電気)",
+    "y_nghia": "Điện/Đèn điện"
+  },
+  {
+    "phan_nhom": "Linh kiện & Bộ phận",
+    "tu_vung": "でんち (電池)",
+    "y_nghia": "Pin"
+  },
+  {
+    "phan_nhom": "Linh kiện & Bộ phận",
+    "tu_vung": "コンセント",
+    "y_nghia": "Ổ cắm điện"
+  },
+  {
+    "phan_nhom": "Linh kiện & Bộ phận",
+    "tu_vung": "フィルム",
+    "y_nghia": "Phim/Cuộn phim"
+  },
+  {
+    "phan_nhom": "Linh kiện & Bộ phận",
+    "tu_vung": "スイッチ",
+    "y_nghia": "Công tắc"
+  },
+  {
+    "phan_nhom": "Linh kiện & Bộ phận",
+    "tu_vung": "ボタン",
+    "y_nghia": "Nút"
+  },
+  {
+    "phan_nhom": "Linh kiện & Bộ phận",
+    "tu_vung": "つまみ",
+    "y_nghia": "Núm vặn"
+  },
+  {
+    "phan_nhom": "Linh kiện & Bộ phận",
+    "tu_vung": "おと (音)",
+    "y_nghia": "Âm thanh"
+  },
+  {
+    "phan_nhom": "Linh kiện & Bộ phận",
+    "tu_vung": "せいひん (製品)",
+    "y_nghia": "Sản phẩm"
+  }
+]

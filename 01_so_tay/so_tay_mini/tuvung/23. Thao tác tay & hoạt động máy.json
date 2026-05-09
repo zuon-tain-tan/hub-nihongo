@@ -1,0 +1,137 @@
+[
+  {
+    "phan_nhom": "Thao tác tay",
+    "tu_vung": "つける",
+    "y_nghia": "Bật"
+  },
+  {
+    "phan_nhom": "Thao tác tay",
+    "tu_vung": "けす (消します)",
+    "y_nghia": "Tắt"
+  },
+  {
+    "phan_nhom": "Thao tác tay",
+    "tu_vung": "あける (開けます)",
+    "y_nghia": "Mở"
+  },
+  {
+    "phan_nhom": "Thao tác tay",
+    "tu_vung": "しめる (閉めます)",
+    "y_nghia": "Đóng"
+  },
+  {
+    "phan_nhom": "Thao tác tay",
+    "tu_vung": "もつ (持ちます)",
+    "y_nghia": "Mang/Cầm"
+  },
+  {
+    "phan_nhom": "Thao tác tay",
+    "tu_vung": "とる (取ります)",
+    "y_nghia": "Lấy"
+  },
+  {
+    "phan_nhom": "Thao tác tay",
+    "tu_vung": "おく (置きます)",
+    "y_nghia": "Đặt/Để"
+  },
+  {
+    "phan_nhom": "Thao tác tay",
+    "tu_vung": "つかう (使います)",
+    "y_nghia": "Dùng/Sử dụng"
+  },
+  {
+    "phan_nhom": "Thao tác tay",
+    "tu_vung": "いれる (入れます)",
+    "y_nghia": "Cho vào/Bỏ vào"
+  },
+  {
+    "phan_nhom": "Thao tác tay",
+    "tu_vung": "だす (出します)",
+    "y_nghia": "Lấy ra/Rút (tiền)"
+  },
+  {
+    "phan_nhom": "Thao tác tay",
+    "tu_vung": "おす (押します)",
+    "y_nghia": "Bấm/Ấn (nút)"
+  },
+  {
+    "phan_nhom": "Thao tác tay",
+    "tu_vung": "もっていく (持って行きます)",
+    "y_nghia": "Mang đi"
+  },
+  {
+    "phan_nhom": "Thao tác tay",
+    "tu_vung": "もってくる (持って来ます)",
+    "y_nghia": "Mang đến"
+  },
+  {
+    "phan_nhom": "Thao tác tay",
+    "tu_vung": "すてる (捨てます)",
+    "y_nghia": "Vứt"
+  },
+  {
+    "phan_nhom": "Thao tác tay",
+    "tu_vung": "まわす (回します)",
+    "y_nghia": "Vặn (nút)"
+  },
+  {
+    "phan_nhom": "Thao tác tay",
+    "tu_vung": "ひく (引きます)",
+    "y_nghia": "Kéo"
+  },
+  {
+    "phan_nhom": "Thao tác tay",
+    "tu_vung": "かえる (変えます)",
+    "y_nghia": "Đổi"
+  },
+  {
+    "phan_nhom": "Thao tác tay",
+    "tu_vung": "さわる (触ります)",
+    "y_nghia": "Sờ/chạm vào"
+  },
+  {
+    "phan_nhom": "Thao tác tay",
+    "tu_vung": "きる (切る)",
+    "y_nghia": "Cắt"
+  },
+  {
+    "phan_nhom": "Hoạt động cơ thể/Máy",
+    "tu_vung": "たつ (立ちます)",
+    "y_nghia": "Đứng"
+  },
+  {
+    "phan_nhom": "Hoạt động cơ thể/Máy",
+    "tu_vung": "すわる (座ります)",
+    "y_nghia": "Ngồi"
+  },
+  {
+    "phan_nhom": "Hoạt động cơ thể/Máy",
+    "tu_vung": "なおす (直します)",
+    "y_nghia": "Sửa/Chữa"
+  },
+  {
+    "phan_nhom": "Hoạt động cơ thể/Máy",
+    "tu_vung": "しゅうりする (修理します)",
+    "y_nghia": "Sửa chữa"
+  },
+  {
+    "phan_nhom": "Hoạt động cơ thể/Máy",
+    "tu_vung": "うごく (動きます)",
+    "y_nghia": "Chuyển động/chạy"
+  },
+  {
+    "phan_nhom": "Hoạt động cơ thể/Máy",
+    "tu_vung": "まがる (曲がります)",
+    "y_nghia": "Rẽ/Quẹo"
+  },
+  {
+    "phan_nhom": "Hoạt động cơ thể/Máy",
+    "tu_vung": "とめる (止めます)",
+    "y_nghia": "Dừng/Đỗ (xe)"
+  },
+  {
+    "phan_nhom": "Hoạt động cơ thể/Máy",
+    "tu_vung": "なくす (無くします)",
+    "y_nghia": "Mất/Đánh mất"
+  }
+]
