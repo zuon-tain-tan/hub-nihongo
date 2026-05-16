@@ -1,0 +1,77 @@
+[
+  {
+    "phan_nhom": "5S",
+    "tu_vung": "せいり とは いるものと いらないものに わけて、いらないものを すてることです。",
+    "y_nghia": "SÀNG LỌC: Phân loại những vật cần thiết và không cần thiết."
+  },
+  {
+    "phan_nhom": "5S",
+    "tu_vung": "せいとん とは いるものを つかいやすいように、おき、だれにでも わかるように めいじすることです。",
+    "y_nghia": "SẮP XẾP: Sắp xếp ngăn nắp, đúng vị trí."
+  },
+  {
+    "phan_nhom": "5S",
+    "tu_vung": "せいそう とは せきを そうじし、きれいに することです。",
+    "y_nghia": "SẠCH SẼ: Giữ gìn vệ sinh sạch sẽ nơi làm việc, học tập và nơi ở."
+  },
+  {
+    "phan_nhom": "5S",
+    "tu_vung": "せいけつ とは せいり、せいとん、せいそうの 3S を いじすることです。",
+    "y_nghia": "SĂN SÓC: Duy trì S1, S2, S3."
+  },
+  {
+    "phan_nhom": "5S",
+    "tu_vung": "しつけ とは きめられたことを いつも ただしく まもる しゅうかんづけの ことです。",
+    "y_nghia": "SẴN SÀNG: Luôn tuân thủ những quy định đặt ra, nâng cao ý thức 5S."
+  },
+  {
+    "phan_nhom": "5K",
+    "tu_vung": "ぬすまない。",
+    "y_nghia": "Không ăn trộm."
+  },
+  {
+    "phan_nhom": "5K",
+    "tu_vung": "とうぼうしない。",
+    "y_nghia": "Không bỏ trốn."
+  },
+  {
+    "phan_nhom": "5K",
+    "tu_vung": "かけごとしない。",
+    "y_nghia": "Không cờ bạc."
+  },
+  {
+    "phan_nhom": "5K",
+    "tu_vung": "けんかしない。",
+    "y_nghia": "Không cãi nhau."
+  },
+  {
+    "phan_nhom": "5K",
+    "tu_vung": "うそをつかない。",
+    "y_nghia": "Không nói dối."
+  },
+  {
+    "phan_nhom": "5C",
+    "tu_vung": "もくてきを もつ。",
+    "y_nghia": "Có mục tiêu."
+  },
+  {
+    "phan_nhom": "5C",
+    "tu_vung": "にほんごりょくを もつ。",
+    "y_nghia": "Có tiếng Nhật."
+  },
+  {
+    "phan_nhom": "5C",
+    "tu_vung": "にほんじんの こころを もつ。",
+    "y_nghia": "Có tác phong."
+  },
+  {
+    "phan_nhom": "5C",
+    "tu_vung": "スキルを もつ。",
+    "y_nghia": "Có kỹ năng."
+  },
+  {
+    "phan_nhom": "5C",
+    "tu_vung": "せきにんを もつ。",
+    "y_nghia": "Có trách nhiệm."
+  }
+]

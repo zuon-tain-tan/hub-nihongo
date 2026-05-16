@@ -1,0 +1,182 @@
+[
+  {
+    "phan_nhom": "Mức độ & Số lượng",
+    "tu_vung": "とても",
+    "y_nghia": "Rất"
+  },
+  {
+    "phan_nhom": "Mức độ & Số lượng",
+    "tu_vung": "あまり",
+    "y_nghia": "Không ~ lắm"
+  },
+  {
+    "phan_nhom": "Mức độ & Số lượng",
+    "tu_vung": "そんなに",
+    "y_nghia": "(Không) ~ lắm"
+  },
+  {
+    "phan_nhom": "Mức độ & Số lượng",
+    "tu_vung": "よく",
+    "y_nghia": "Thường / Rõ/Tốt"
+  },
+  {
+    "phan_nhom": "Mức độ & Số lượng",
+    "tu_vung": "だいたい",
+    "y_nghia": "Đại khái"
+  },
+  {
+    "phan_nhom": "Mức độ & Số lượng",
+    "tu_vung": "たくさん",
+    "y_nghia": "Nhiều"
+  },
+  {
+    "phan_nhom": "Mức độ & Số lượng",
+    "tu_vung": "すこし (少し)",
+    "y_nghia": "Ít/Một chút"
+  },
+  {
+    "phan_nhom": "Mức độ & Số lượng",
+    "tu_vung": "ぜんぜん (全然)",
+    "y_nghia": "Hoàn toàn (không)"
+  },
+  {
+    "phan_nhom": "Mức độ & Số lượng",
+    "tu_vung": "ぜんぶ (全部)",
+    "y_nghia": "Toàn bộ/tất cả"
+  },
+  {
+    "phan_nhom": "Mức độ & Số lượng",
+    "tu_vung": "だけ",
+    "y_nghia": "Chỉ"
+  },
+  {
+    "phan_nhom": "Mức độ & Số lượng",
+    "tu_vung": "ぜんぶで (全部で)",
+    "y_nghia": "Tổng cộng"
+  },
+  {
+    "phan_nhom": "Tốc độ & Thời gian",
+    "tu_vung": "はやく (早く/速く)",
+    "y_nghia": "Nhanh/Sớm"
+  },
+  {
+    "phan_nhom": "Tốc độ & Thời gian",
+    "tu_vung": "ゆっくり",
+    "y_nghia": "Chậm/Thong thả"
+  },
+  {
+    "phan_nhom": "Tốc độ & Thời gian",
+    "tu_vung": "すぐ",
+    "y_nghia": "Ngay/Lập tức"
+  },
+  {
+    "phan_nhom": "Tốc độ & Thời gian",
+    "tu_vung": "また",
+    "y_nghia": "Lại (đến)"
+  },
+  {
+    "phan_nhom": "Tốc độ & Thời gian",
+    "tu_vung": "あとで",
+    "y_nghia": "Sau"
+  },
+  {
+    "phan_nhom": "Tốc độ & Thời gian",
+    "tu_vung": "もうすぐ",
+    "y_nghia": "Sắp sửa"
+  },
+  {
+    "phan_nhom": "Tốc độ & Thời gian",
+    "tu_vung": "そろそろ",
+    "y_nghia": "Sắp đến lúc / Đã đến lúc"
+  },
+  {
+    "phan_nhom": "Tốc độ & Thời gian",
+    "tu_vung": "だんだん",
+    "y_nghia": "Dần dần"
+  },
+  {
+    "phan_nhom": "Tốc độ & Thời gian",
+    "tu_vung": "いつも",
+    "y_nghia": "Luôn luôn"
+  },
+  {
+    "phan_nhom": "Tốc độ & Thời gian",
+    "tu_vung": "ときどき (時々)",
+    "y_nghia": "Thỉnh thoảng"
+  },
+  {
+    "phan_nhom": "Tốc độ & Thời gian",
+    "tu_vung": "もう",
+    "y_nghia": "Đã/Rồi"
+  },
+  {
+    "phan_nhom": "Tốc độ & Thời gian",
+    "tu_vung": "まだ",
+    "y_nghia": "Chưa"
+  },
+  {
+    "phan_nhom": "Tốc độ & Thời gian",
+    "tu_vung": "これから",
+    "y_nghia": "Từ bây giờ"
+  },
+  {
+    "phan_nhom": "Tần suất & Tình thái",
+    "tu_vung": "もう すこし (もう少し)",
+    "y_nghia": "Thêm 1 chút nữa"
+  },
+  {
+    "phan_nhom": "Tần suất & Tình thái",
+    "tu_vung": "もう～",
+    "y_nghia": "Thêm ~"
+  },
+  {
+    "phan_nhom": "Tần suất & Tình thái",
+    "tu_vung": "とくに",
+    "y_nghia": "Đặc biệt"
+  },
+  {
+    "phan_nhom": "Tần suất & Tình thái",
+    "tu_vung": "ぜひ",
+    "y_nghia": "Nhất định"
+  },
+  {
+    "phan_nhom": "Tần suất & Tình thái",
+    "tu_vung": "いちど (一度)",
+    "y_nghia": "Một lần"
+  },
+  {
+    "phan_nhom": "Tần suất & Tình thái",
+    "tu_vung": "いちども (一度も)",
+    "y_nghia": "Chưa lần nào"
+  },
+  {
+    "phan_nhom": "Tần suất & Tình thái",
+    "tu_vung": "なんかいも (何回も)",
+    "y_nghia": "Nhiều lần"
+  },
+  {
+    "phan_nhom": "Tần suất & Tình thái",
+    "tu_vung": "たぶん",
+    "y_nghia": "Chắc/Có thể"
+  },
+  {
+    "phan_nhom": "Tần suất & Tình thái",
+    "tu_vung": "きっと",
+    "y_nghia": "Chắc chắn/Nhất định"
+  },
+  {
+    "phan_nhom": "Tần suất & Tình thái",
+    "tu_vung": "ほんとうに (本当に)",
+    "y_nghia": "Thật sự"
+  },
+  {
+    "phan_nhom": "Tần suất & Tình thái",
+    "tu_vung": "もし",
+    "y_nghia": "Nếu"
+  },
+  {
+    "phan_nhom": "Tần suất & Tình thái",
+    "tu_vung": "いくら",
+    "y_nghia": "Cho dù/thế nào"
+  }
+]
