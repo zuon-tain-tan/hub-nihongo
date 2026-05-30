@@ -1,0 +1,256 @@
+[
+  {
+    "tieu_de_tieng_viet": "1. Rác cháy được",
+    "tieu_de_tieng_nhat": "かねんごみ / Kanen gomi",
+    "noi_dung": [
+      {
+        "cau_tieng_nhat": "くだもののかわ",
+        "cau_tieng_viet": "Vỏ trái cây"
+      },
+      {
+        "cau_tieng_nhat": "コーヒーかす",
+        "cau_tieng_viet": "Bã cà phê"
+      },
+      {
+        "cau_tieng_nhat": "おむつ",
+        "cau_tieng_viet": "Tã giấy"
+      },
+      {
+        "cau_tieng_nhat": "マスク",
+        "cau_tieng_viet": "Khẩu trang"
+      },
+      {
+        "cau_tieng_nhat": "ふくろ",
+        "cau_tieng_viet": "Bao ăn liền (không tái chế)"
+      },
+      {
+        "cau_tieng_nhat": "わりばし",
+        "cau_tieng_viet": "Đũa gỗ dùng một lần"
+      },
+      {
+        "cau_tieng_nhat": "せいりようひん",
+        "cau_tieng_viet": "Băng vệ sinh"
+      },
+      {
+        "cau_tieng_nhat": "おちゃパック",
+        "cau_tieng_viet": "Túi trà"
+      },
+      {
+        "cau_tieng_nhat": "たべのこし",
+        "cau_tieng_viet": "Thức ăn thừa"
+      },
+      {
+        "cau_tieng_nhat": "よごれたかみ",
+        "cau_tieng_viet": "Giấy bẩn"
+      },
+      {
+        "cau_tieng_nhat": "ティッシュ",
+        "cau_tieng_viet": "Khăn giấy"
+      },
+      {
+        "cau_tieng_nhat": "きくず",
+        "cau_tieng_viet": "Gỗ nhỏ"
+      },
+      {
+        "cau_tieng_nhat": "ぬの",
+        "cau_tieng_viet": "Vải"
+      }
+    ]
+  },
+  {
+    "tieu_de_tieng_viet": "2. Rác không cháy được",
+    "tieu_de_tieng_nhat": "ふねんごみ / Funen gomi",
+    "noi_dung": [
+      {
+        "cau_tieng_nhat": "でんきゅう",
+        "cau_tieng_viet": "Bóng đèn sợi đốt"
+      },
+      {
+        "cau_tieng_nhat": "しょっきのとうき",
+        "cau_tieng_viet": "Gốm sứ (bát, đĩa sứ hỏng)"
+      },
+      {
+        "cau_tieng_nhat": "めがね",
+        "cau_tieng_viet": "Kính đeo mắt cũ"
+      },
+      {
+        "cau_tieng_nhat": "じゅうでんち",
+        "cau_tieng_viet": "Pin sạc hỏng (tùy nơi)"
+      },
+      {
+        "cau_tieng_nhat": "ちいさなはもの",
+        "cau_tieng_viet": "Dao kéo nhỏ"
+      },
+      {
+        "cau_tieng_nhat": "じょうまえ",
+        "cau_tieng_viet": "Ổ khóa kim loại"
+      },
+      {
+        "cau_tieng_nhat": "きんぞくのけしょうひんようき",
+        "cau_tieng_viet": "Dụng cụ trang điểm bằng kim loại"
+      },
+      {
+        "cau_tieng_nhat": "われたガラス",
+        "cau_tieng_viet": "Thủy tinh, ly vỡ"
+      },
+      {
+        "cau_tieng_nhat": "とうき",
+        "cau_tieng_viet": "Đồ gốm"
+      },
+      {
+        "cau_tieng_nhat": "ちいさなきんぞく",
+        "cau_tieng_viet": "Kim loại nhỏ (muỗng, nĩa)"
+      },
+      {
+        "cau_tieng_nhat": "こわれたフライパン / なべ",
+        "cau_tieng_viet": "Chảo, nồi nhỏ hỏng"
+      }
+    ]
+  },
+  {
+    "tieu_de_tieng_viet": "3. Rác tái chế",
+    "tieu_de_tieng_nhat": "しげんごみ / Shigen gomi",
+    "noi_dung": [
+      {
+        "cau_tieng_nhat": "ペットボトル",
+        "cau_tieng_viet": "PET (chai nhựa)"
+      },
+      {
+        "cau_tieng_nhat": "シャンプーのペットボトル",
+        "cau_tieng_viet": "Chai dầu gội"
+      },
+      {
+        "cau_tieng_nhat": "にゅういんりょうのペットボトル",
+        "cau_tieng_viet": "Chai sữa uống"
+      },
+      {
+        "cau_tieng_nhat": "かみるい",
+        "cau_tieng_viet": "Giấy"
+      },
+      {
+        "cau_tieng_nhat": "コピーようし",
+        "cau_tieng_viet": "Giấy in"
+      },
+      {
+        "cau_tieng_nhat": "ティッシュばこ",
+        "cau_tieng_viet": "Giấy hộp đựng giấy ăn"
+      },
+      {
+        "cau_tieng_nhat": "めいし",
+        "cau_tieng_viet": "Danh thiếp"
+      },
+      {
+        "cau_tieng_nhat": "しんぶんし",
+        "cau_tieng_viet": "Báo"
+      },
+      {
+        "cau_tieng_nhat": "ざっし",
+        "cau_tieng_viet": "Tạp chí"
+      },
+      {
+        "cau_tieng_nhat": "だんボール",
+        "cau_tieng_viet": "Thùng carton"
+      },
+      {
+        "cau_tieng_nhat": "かん",
+        "cau_tieng_viet": "Lon"
+      },
+      {
+        "cau_tieng_nhat": "コーヒーかん",
+        "cau_tieng_viet": "Lon cà phê"
+      },
+      {
+        "cau_tieng_nhat": "ミルクかん",
+        "cau_tieng_viet": "Lon sữa đặc"
+      },
+      {
+        "cau_tieng_nhat": "ビン",
+        "cau_tieng_viet": "Thủy tinh"
+      },
+      {
+        "cau_tieng_nhat": "しょうゆのビン",
+        "cau_tieng_viet": "Chai nước tương"
+      },
+      {
+        "cau_tieng_nhat": "ちょうみりょうビン",
+        "cau_tieng_viet": "Lọ gia vị"
+      }
+    ]
+  },
+  {
+    "tieu_de_tieng_viet": "4. Rác cồng kềnh",
+    "tieu_de_tieng_nhat": "そだいごみ / Sodai gomi",
+    "noi_dung": [
+      {
+        "cau_tieng_nhat": "ベッド",
+        "cau_tieng_viet": "Giường"
+      },
+      {
+        "cau_tieng_nhat": "タンス",
+        "cau_tieng_viet": "Tủ quần áo"
+      },
+      {
+        "cau_tieng_nhat": "じてんしゃ",
+        "cau_tieng_viet": "Xe đạp"
+      },
+      {
+        "cau_tieng_nhat": "プリンター",
+        "cau_tieng_viet": "Máy in"
+      },
+      {
+        "cau_tieng_nhat": "せんぷうき",
+        "cau_tieng_viet": "Quạt"
+      },
+      {
+        "cau_tieng_nhat": "でんしレンジ",
+        "cau_tieng_viet": "Lò vi sóng"
+      },
+      {
+        "cau_tieng_nhat": "ほんだな",
+        "cau_tieng_viet": "Kệ sách"
+      },
+      {
+        "cau_tieng_nhat": "いす",
+        "cau_tieng_viet": "Ghế"
+      },
+      {
+        "cau_tieng_nhat": "つくえ",
+        "cau_tieng_viet": "Bàn"
+      },
+      {
+        "cau_tieng_nhat": "ふるいそうじき",
+        "cau_tieng_viet": "Máy hút bụi cũ"
+      }
+    ]
+  },
+  {
+    "tieu_de_tieng_viet": "5. Rác độc hại",
+    "tieu_de_tieng_nhat": "ゆうがいごみ / Yūgai gomi",
+    "noi_dung": [
+      {
+        "cau_tieng_nhat": "すいぎんたいおんけい",
+        "cau_tieng_viet": "Nhiệt kế thủy ngân"
+      },
+      {
+        "cau_tieng_nhat": "カセットボンベ",
+        "cau_tieng_viet": "Bình gas mini"
+      },
+      {
+        "cau_tieng_nhat": "せんざいのようき",
+        "cau_tieng_viet": "Chai hóa chất tẩy rửa"
+      },
+      {
+        "cau_tieng_nhat": "でんち",
+        "cau_tieng_viet": "Pin"
+      },
+      {
+        "cau_tieng_nhat": "けいこうとう",
+        "cau_tieng_viet": "Bóng đèn huỳnh quang"
+      },
+      {
+        "cau_tieng_nhat": "スプレーかん",
+        "cau_tieng_viet": "Bình xịt"
+      }
+    ]
+  }
+]

@@ -1,76 +1,46 @@
-# Sổ tay mini
+# So Tay Mini
 
-## Cấu trúc
+Du an tao so tay A5 tieng Nhat - tieng Viet tu du lieu JSON, xuat DOCX va PDF bang `python-docx` va Microsoft Word COM tren Windows.
 
-- `scripts/`: script thao tác dự án.
-- `assets/`: tài nguyên dùng khi tạo tài liệu, ví dụ QR.
-- `tuvung/`: dữ liệu JSON.
-- `pdf/bia/`: file bìa PDF.
-- `word/bia/`: file bìa Word dùng để xuất lại PDF bìa.
-- `pdf/sotay/`: PDF kết quả.
-- `word/sotay/`: Word kết quả.
-- `word/legacy/`: file Word cũ trước khi tái cấu trúc.
-- `mp3/`, `ppt/`: tài nguyên học liệu.
+## Cau Truc Thu Muc
 
 ```text
-so_tay_mini/
-├─ a.py                         # launcher tạo sổ tay
-├─ c.py                         # launcher xóa mp3 theo giọng
-├─ scripts/
-│  ├─ build_sotay.py
-│  └─ delete_mp3_by_voice.py
-├─ assets/
-│  └─ qr/so_tay_a5_online_qr.png
-├─ tuvung/
-│  ├─ 5S/
-│  ├─ chu_cai/
-│  └─ tu_vungN5/
-├─ word/
-│  ├─ bia/so_tay_a5_bia.docx
-│  ├─ sotay/so_tay_a5_no_bia.docx
-│  └─ legacy/
-└─ pdf/
-   ├─ bia/so_tay_a5_bia.pdf
-   └─ sotay/
-      ├─ so_tay_a5_no_bia.pdf
-      └─ so_tay_a5.pdf
+.
+|-- assets/                 # Static assets and images
+|   `-- images/qr/
+|-- data/                   # Source data
+|   |-- kana/
+|   |-- topics/
+|   `-- vocabulary/n5/
+|-- output/                 # Generated DOCX/PDF/PPTX files
+|   |-- docx/notebook/
+|   |-- pdf/cover/
+|   |-- pdf/notebook/
+|   `-- pptx/
+|-- main.py                 # Main runner
+|-- tieu_chi.md             # Document formatting criteria
+|-- src/                    # Python source modules
+`-- templates/              # Editable document templates
+    `-- docx/
 ```
 
-## Tạo sổ tay
-
-Chạy từ thư mục gốc:
+## Chay Du An
 
 ```powershell
-python a.py
+pip install -r requirements.txt
+python main.py
 ```
 
-Hoặc chạy script chính:
+Neu cai editable package:
 
 ```powershell
-python scripts/build_sotay.py
+pip install -e .
+so-tay-mini
 ```
 
-Khi được hỏi, nhập ví dụ:
+Output mac dinh:
 
-- `1`
-- `1,3`
-- `1 2 3`
-- `all`
-
-Kết quả:
-
-- `word/sotay/so_tay_a5_no_bia.docx`
-- `pdf/sotay/so_tay_a5_no_bia.pdf`
-- `pdf/sotay/so_tay_a5.pdf`
-
-Khi chạy, script tự cập nhật ngày trên `word/bia/so_tay_a5_bia.docx`, xuất lại `pdf/bia/so_tay_a5_bia.pdf`, rồi ghép bìa vào PDF sổ tay.
-
-Trang cuối dùng QR tại `assets/qr/so_tay_a5_online_qr.png`.
-
-## Phụ thuộc
-
-```powershell
-python -m pip install -r requirements.txt
-```
-
-Script xuất PDF và cập nhật mục lục bằng Microsoft Word qua COM, nên cần chạy trên Windows có Word.
+- `output/docx/notebook/so_tay_a5_content.docx`
+- `output/pdf/cover/so_tay_a5_cover.pdf`
+- `output/pdf/notebook/so_tay_a5_content.pdf`
+- `output/pdf/notebook/so_tay_a5_full.pdf`

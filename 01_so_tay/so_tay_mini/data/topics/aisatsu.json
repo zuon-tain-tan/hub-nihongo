@@ -1,0 +1,256 @@
+[
+  {
+    "tieu_de_tieng_viet": "1. Chào giáo viên trước khi đi Nhật",
+    "ngat_trang_truoc": false,
+    "noi_dung": [
+      {
+        "tieu_de": "1. Tình huống:"
+      },
+      {
+        "jp": "にほんへ いくまえに、せんせいに あいさつ。",
+        "vi": "Chào hỏi các giáo viên trước khi đi Nhật."
+      },
+      {
+        "tieu_de": "2. Nội dung:"
+      },
+      {
+        "jp": "この いちねんかん いろいろ おせわに なりました。",
+        "vi": "Trong một năm qua, em đã được thầy cô giúp đỡ rất nhiều."
+      },
+      {
+        "jp": "どうも ありがとう ございました。",
+        "vi": "Em xin chân thành cảm ơn."
+      },
+      {
+        "jp": "にほんへ いっても せんせいがたのことを ぜったいに わすれません。",
+        "vi": "Dù sang Nhật, em tuyệt đối sẽ không quên các thầy cô."
+      },
+      {
+        "jp": "せんせいがた、どうぞ おげんきで。",
+        "vi": "Kính chúc các thầy cô luôn mạnh khỏe."
+      }
+    ]
+  },
+  {
+    "tieu_de_tieng_viet": "2. Ở sân bay",
+    "ngat_trang_truoc": true,
+    "noi_dung": [
+      {
+        "tieu_de": "1. Lúc ở sân bay, chưa bay:"
+      },
+      {
+        "jp": "わたしは……….ともうします。",
+        "vi": "Tôi tên là ..............."
+      },
+      {
+        "jp": "ミライがっこうからきました。",
+        "vi": "Tôi đến từ trường Mirai."
+      },
+      {
+        "jp": "どうぞよろしくおねがいいたします。",
+        "vi": "Rất mong được anh/chị giúp đỡ."
+      },
+      {
+        "tieu_de": "2. Lúc lên xe:"
+      },
+      {
+        "jp": "くるまにのります：おねがいします。",
+        "vi": "Tôi xin phép lên xe. Nhờ anh/chị giúp đỡ."
+      },
+      {
+        "tieu_de": "3. Lúc xuống xe:"
+      },
+      {
+        "jp": "くるまをおります：むかえにきていただき、ありがとうございました。",
+        "vi": "Tôi xin phép xuống xe. Cảm ơn anh/chị đã đến đón tôi."
+      }
+    ]
+  },
+  {
+    "tieu_de_tieng_viet": "3. Ngày đầu vào nghiệp đoàn",
+    "ngat_trang_truoc": true,
+    "noi_dung": [
+      {
+        "jp": "はじめまして。",
+        "vi": "Rất vui được gặp anh/chị lần đầu."
+      },
+      {
+        "jp": "ベトナムの……….からきました。",
+        "vi": "Tôi đến từ ............... của Việt Nam."
+      }
+    ]
+  },
+  {
+    "tieu_de_tieng_viet": "4. Sau 1 tháng ở nghiệp đoàn",
+    "ngat_trang_truoc": true,
+    "noi_dung": [
+      {
+        "jp": "いろいろおせわになりました。",
+        "vi": "Cảm ơn anh/chị đã giúp đỡ tôi nhiều việc."
+      },
+      {
+        "jp": "にほんについてたくさんべんきょうができました。",
+        "vi": "Tôi đã học được nhiều điều về Nhật Bản."
+      },
+      {
+        "jp": "かいしゃにいってもがんばります。",
+        "vi": "Sau khi đến công ty, tôi cũng sẽ cố gắng."
+      },
+      {
+        "jp": "どうもありがとうございます。",
+        "vi": "Tôi xin chân thành cảm ơn."
+      }
+    ]
+  },
+  {
+    "tieu_de_tieng_viet": "5. Ngày đầu tiên vào công ty",
+    "ngat_trang_truoc": true,
+    "noi_dung": [
+      {
+        "jp": "これからおせわになります。",
+        "vi": "Từ nay tôi rất mong được anh/chị giúp đỡ."
+      },
+      {
+        "jp": "……….がつ……….にちにきました。",
+        "vi": "Tôi đã đến Nhật vào ngày ...... tháng ......"
+      },
+      {
+        "jp": "しゅっしんはベトナムの……….です。",
+        "vi": "Tôi quê ở tỉnh/thành phố ............... của Việt Nam."
+      },
+      {
+        "jp": "わたしのにほんごはまだまだです。",
+        "vi": "Tiếng Nhật của tôi vẫn còn chưa tốt."
+      },
+      {
+        "jp": "しごとはわからないことがたくさんありますので、ごしどうください。",
+        "vi": "Vì còn nhiều điều tôi chưa biết trong công việc, mong anh/chị hướng dẫn."
+      },
+      {
+        "jp": "いっしょうけんめいがんばります。",
+        "vi": "Tôi sẽ cố gắng hết sức."
+      },
+      {
+        "jp": "どうぞよろしくおねがいいたします。",
+        "vi": "Rất mong được anh/chị giúp đỡ trong thời gian tới."
+      }
+    ]
+  },
+  {
+    "tieu_de_tieng_viet": "6. Trước khi về nước",
+    "ngat_trang_truoc": false,
+    "noi_dung": [
+      {
+        "jp": "たいへんおせわになりました。",
+        "vi": "Cảm ơn anh/chị đã giúp đỡ tôi rất nhiều."
+      },
+      {
+        "jp": "わたしは……….がつ……….にちにベトナムへかえります。",
+        "vi": "Tôi sẽ về Việt Nam vào ngày ...... tháng ......"
+      },
+      {
+        "jp": "しごとはたいへんでしたが、たのしかったです。",
+        "vi": "Công việc vất vả nhưng tôi rất vui."
+      },
+      {
+        "jp": "ベトナムへかえっても、にほんのせいかつやみなさんをわすれません。",
+        "vi": "Dù về Việt Nam, tôi sẽ không quên cuộc sống ở Nhật và mọi người."
+      },
+      {
+        "jp": "みなさん、どうぞおげんきで。",
+        "vi": "Chúc mọi người luôn mạnh khỏe."
+      }
+    ]
+  },
+  {
+    "tieu_de_tieng_viet": "7. Sinh hoạt hằng ngày",
+    "ngat_trang_truoc": true,
+    "noi_dung": [
+      {
+        "tieu_de": "1. Khi ra khỏi nhà:"
+      },
+      {
+        "jp": "いってきます。",
+        "vi": "Người ra khỏi nhà nói: Tôi đi đây."
+      },
+      {
+        "jp": "いってらっしゃい。",
+        "vi": "Người trong nhà đáp: Đi cẩn thận nhé."
+      },
+      {
+        "tieu_de": "2. Khi về nhà:"
+      },
+      {
+        "jp": "ただいま。",
+        "vi": "Người về nhà nói: Tôi về rồi."
+      },
+      {
+        "jp": "おかえりなさい。",
+        "vi": "Người trong nhà đáp: Mừng anh/chị về."
+      },
+      {
+        "tieu_de": "3. Khi gặp nhau trong ngày:"
+      },
+      {
+        "jp": "おはようございます。",
+        "vi": "Buổi sáng: Chào buổi sáng."
+      },
+      {
+        "jp": "こんにちは。",
+        "vi": "Ban ngày: Xin chào."
+      },
+      {
+        "jp": "こんばんは。",
+        "vi": "Buổi tối: Chào buổi tối."
+      },
+      {
+        "tieu_de": "4. Khi ăn uống:"
+      },
+      {
+        "jp": "いただきます。",
+        "vi": "Trước khi ăn: Tôi xin phép ăn."
+      },
+      {
+        "jp": "ごちそうさまでした。",
+        "vi": "Sau khi ăn: Cảm ơn vì bữa ăn."
+      },
+      {
+        "tieu_de": "5. Khi làm việc hoặc tan ca:"
+      },
+      {
+        "jp": "おつかれさまです。",
+        "vi": "Gặp đồng nghiệp / trong lúc làm việc: Anh/chị vất vả rồi."
+      },
+      {
+        "jp": "おさきにしつれいします。",
+        "vi": "Người về trước nói: Tôi xin phép về trước."
+      },
+      {
+        "jp": "おつかれさまでした。",
+        "vi": "Người ở lại đáp: Anh/chị vất vả rồi."
+      },
+      {
+        "tieu_de": "6. Khi cảm ơn, xin lỗi, xin phép:"
+      },
+      {
+        "jp": "ありがとうございます。",
+        "vi": "Khi được giúp đỡ: Cảm ơn anh/chị."
+      },
+      {
+        "jp": "すみません。",
+        "vi": "Khi xin lỗi hoặc nhờ vả: Xin lỗi / làm phiền anh/chị."
+      },
+      {
+        "jp": "しつれいします。",
+        "vi": "Khi vào phòng, ra về hoặc cắt ngang: Tôi xin phép."
+      },
+      {
+        "tieu_de": "7. Trước khi ngủ:"
+      },
+      {
+        "jp": "おやすみなさい。",
+        "vi": "Người đi ngủ nói: Chúc ngủ ngon."
+      }
+    ]
+  }
+]

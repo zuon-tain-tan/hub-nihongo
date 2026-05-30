@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "so-tay-mini"
+version = "0.1.0"
+description = "Build an A5 Japanese-Vietnamese mini handbook from structured vocabulary data."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "python-docx",
+    "docx2pdf",
+    "pypdf",
+    "pywin32",
+]
+
+[project.scripts]
+so-tay-mini = "builder:main"
+
+[tool.setuptools]
+py-modules = [
+    "builder",
+    "config",
+    "data_loader",
+    "docx_utils",
+    "export",
+    "formatting",
+    "sections",
+    "sort_keys",
+]
+package-dir = {"" = "src"}

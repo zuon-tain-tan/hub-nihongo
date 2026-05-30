@@ -1,0 +1,23 @@
+{
+  "tieu_de": "ほうれんそう",
+  "noi_dung": [
+    {
+      "tu_vung_tieng_nhat": "ほうこく",
+      "nghia_tieng_viet": "báo cáo",
+      "giai_thich_tieng_nhat": "じぶんのしごとのけっかをしらせたいとき、かかりにんにほうこくすることです。",
+      "giai_thich_tieng_viet": "Khi muốn báo cáo kết quả làm việc của bản thân, thì báo cáo cho người phụ trách."
+    },
+    {
+      "tu_vung_tieng_nhat": "れんらく",
+      "nghia_tieng_viet": "liên lạc",
+      "giai_thich_tieng_nhat": "しごとのほうこくすることやじぶんのスケジュールをかかりにんにつたえることです。",
+      "giai_thich_tieng_viet": "Truyền đạt đến người phụ trách về báo cáo công việc và lịch làm việc của bản thân."
+    },
+    {
+      "tu_vung_tieng_nhat": "そうだん",
+      "nghia_tieng_viet": "thảo luận",
+      "giai_thich_tieng_nhat": "しごとちゅうしつもんやもんだいがあるとき、かかりにんからアドバイスをきくことをそうだんすることです。",
+      "giai_thich_tieng_viet": "Khi trong công việc, có câu hỏi hoặc vấn đề gì đó, bàn bạc với người phụ trách về lời khuyên và hướng giải quyết."
+    }
+  ]
+}
