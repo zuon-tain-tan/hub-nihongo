@@ -160,7 +160,24 @@ def set_paragraph_spacing(paragraph, before=0, after=0, line=LINE_SPACING_TWIPS,
     spacing.set(qn("w:lineRule"), line_rule)
 
 
-def add_table(doc, headers, rows, column_widths=None):
+def set_table_borders(table, color):
+    table_properties = table._tbl.tblPr
+    existing_borders = table_properties.first_child_found_in("w:tblBorders")
+    if existing_borders is not None:
+        table_properties.remove(existing_borders)
+
+    borders = OxmlElement("w:tblBorders")
+    for edge in ["top", "left", "bottom", "right", "insideH", "insideV"]:
+        tag = OxmlElement(f"w:{edge}")
+        tag.set(qn("w:val"), "single")
+        tag.set(qn("w:sz"), "4")
+        tag.set(qn("w:space"), "0")
+        tag.set(qn("w:color"), color)
+        borders.append(tag)
+    table_properties.append(borders)
+
+
+def add_table(doc, headers, rows, column_widths=None, border_color=None):
     header_count = 1 if headers else 0
     column_count = len(headers) if headers else len(rows[0]) if rows else 1
     table = doc.add_table(rows=header_count, cols=column_count)
@@ -171,6 +188,8 @@ def add_table(doc, headers, rows, column_widths=None):
         top=TABLE_CELL_VERTICAL_MARGIN_TWIPS,
         bottom=TABLE_CELL_VERTICAL_MARGIN_TWIPS,
     )
+    if border_color:
+        set_table_borders(table, border_color)
 
     if headers:
         header_cells = table.rows[0].cells

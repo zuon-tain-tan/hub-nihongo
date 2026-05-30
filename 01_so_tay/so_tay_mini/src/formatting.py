@@ -6,6 +6,7 @@ from docx.shared import Cm, Pt, RGBColor
 from config import (
     BOTTOM_MARGIN_CM,
     DOCUMENT_FONT_SIZE_PT,
+    FOOTER_DISTANCE_CM,
     GUTTER_CM,
     JAPANESE_FONT,
     LEFT_MARGIN_CM,
@@ -15,7 +16,7 @@ from config import (
     TOP_MARGIN_CM,
     VIETNAMESE_FONT,
 )
-from docx_utils import add_page_number, apply_paragraph_format
+from docx_utils import add_page_number, apply_paragraph_format, apply_run_font
 
 
 def setup_document():
@@ -35,6 +36,7 @@ def setup_page(doc):
     section.left_margin = Cm(LEFT_MARGIN_CM)
     section.right_margin = Cm(RIGHT_MARGIN_CM)
     section.gutter = Cm(GUTTER_CM)
+    section.footer_distance = Cm(FOOTER_DISTANCE_CM)
 
 
 def setup_styles(doc):
@@ -88,6 +90,19 @@ def configure_style(style, color=None):
 
 
 def setup_footer(doc):
-    footer_paragraph = doc.sections[0].footer.paragraphs[0]
-    apply_paragraph_format(footer_paragraph, WD_ALIGN_PARAGRAPH.RIGHT)
-    add_page_number(footer_paragraph.add_run())
+    section = doc.sections[0]
+    doc.settings.odd_and_even_pages_header_footer = True
+
+    even_footer_paragraph = section.even_page_footer.paragraphs[0]
+    apply_paragraph_format(even_footer_paragraph, WD_ALIGN_PARAGRAPH.LEFT)
+    even_page_run = even_footer_paragraph.add_run()
+    add_page_number(even_page_run)
+    apply_run_font(even_page_run)
+    apply_run_font(even_footer_paragraph.add_run(" | Sổ tay từ vựng N5"))
+
+    odd_footer_paragraph = section.footer.paragraphs[0]
+    apply_paragraph_format(odd_footer_paragraph, WD_ALIGN_PARAGRAPH.RIGHT)
+    apply_run_font(odd_footer_paragraph.add_run("Sổ tay từ vựng N5 | "))
+    odd_page_run = odd_footer_paragraph.add_run()
+    add_page_number(odd_page_run)
+    apply_run_font(odd_page_run)

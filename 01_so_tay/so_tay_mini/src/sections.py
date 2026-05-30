@@ -73,9 +73,21 @@ def add_5s_paragraphs(doc, items):
         apply_run_font(jp_paragraph.add_run(item.get("tu_vung", "")))
         keep_with_next(jp_paragraph)
 
-        vn_paragraph = doc.add_paragraph(style="Bang_Style")
-        apply_paragraph_format(vn_paragraph, WD_ALIGN_PARAGRAPH.JUSTIFY)
-        add_prefix_bold_runs(vn_paragraph, item.get("y_nghia", ""))
+        text = item.get("y_nghia", "")
+        if ":" in text:
+            prefix, suffix = text.split(":", 1)
+            prefix_paragraph = doc.add_paragraph(style="Bang_Style")
+            apply_paragraph_format(prefix_paragraph, WD_ALIGN_PARAGRAPH.JUSTIFY)
+            apply_run_font(prefix_paragraph.add_run(f"{prefix}: "), bold=True)
+            if suffix.strip():
+                keep_with_next(prefix_paragraph)
+                detail_paragraph = doc.add_paragraph(style="Bang_Style")
+                apply_paragraph_format(detail_paragraph, WD_ALIGN_PARAGRAPH.JUSTIFY)
+                apply_run_font(detail_paragraph.add_run(suffix.lstrip()))
+        else:
+            vn_paragraph = doc.add_paragraph(style="Bang_Style")
+            apply_paragraph_format(vn_paragraph, WD_ALIGN_PARAGRAPH.JUSTIFY)
+            apply_run_font(vn_paragraph.add_run(text))
 
 
 def add_text_paragraph(doc, text, justify=True):
@@ -285,7 +297,7 @@ def add_5s_section(doc, data):
             add_5s_paragraphs(doc, items)
         else:
             rows = [(item.get("tu_vung", ""), item.get("y_nghia", "")) for item in items]
-            add_table(doc, None, rows, column_widths=[Cm(6.19), Cm(5.49)])
+            add_table(doc, None, rows, column_widths=[Cm(6.19), Cm(5.49)], border_color="FFFFFF")
 
 
 def add_grouped_vocabulary(doc, json_data_map):
