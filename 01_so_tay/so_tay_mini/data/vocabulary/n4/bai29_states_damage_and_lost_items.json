@@ -1,0 +1,257 @@
+[
+  {
+    "phan_nhom": "Bài 29 - Trạng thái tự động",
+    "tu_vung": "あきます (開きます)",
+    "y_nghia": "Mở"
+  },
+  {
+    "phan_nhom": "Bài 29 - Trạng thái tự động",
+    "tu_vung": "しまります (閉まります)",
+    "y_nghia": "Đóng"
+  },
+  {
+    "phan_nhom": "Bài 29 - Trạng thái tự động",
+    "tu_vung": "つきます (点きます)",
+    "y_nghia": "Bật sáng, được thắp sáng"
+  },
+  {
+    "phan_nhom": "Bài 29 - Trạng thái tự động",
+    "tu_vung": "きえます (消えます)",
+    "y_nghia": "Tắt, biến mất"
+  },
+  {
+    "phan_nhom": "Bài 29 - Trạng thái tự động",
+    "tu_vung": "こみます (込みます)",
+    "y_nghia": "Đông, tắc nghẽn"
+  },
+  {
+    "phan_nhom": "Bài 29 - Trạng thái tự động",
+    "tu_vung": "すきます (空きます)",
+    "y_nghia": "Vắng, trống"
+  },
+  {
+    "phan_nhom": "Bài 29 - Hư hỏng & Thay đổi",
+    "tu_vung": "こわれます (壊れます)",
+    "y_nghia": "Bị hỏng"
+  },
+  {
+    "phan_nhom": "Bài 29 - Hư hỏng & Thay đổi",
+    "tu_vung": "われます (割れます)",
+    "y_nghia": "Bị vỡ"
+  },
+  {
+    "phan_nhom": "Bài 29 - Hư hỏng & Thay đổi",
+    "tu_vung": "おれます (折れます)",
+    "y_nghia": "Bị gãy"
+  },
+  {
+    "phan_nhom": "Bài 29 - Hư hỏng & Thay đổi",
+    "tu_vung": "やぶれます (破れます)",
+    "y_nghia": "Bị rách"
+  },
+  {
+    "phan_nhom": "Bài 29 - Hư hỏng & Thay đổi",
+    "tu_vung": "よごれます (汚れます)",
+    "y_nghia": "Bị bẩn, dơ"
+  },
+  {
+    "phan_nhom": "Bài 29 - Hư hỏng & Thay đổi",
+    "tu_vung": "つきます (付きます)",
+    "y_nghia": "Dính, được gắn"
+  },
+  {
+    "phan_nhom": "Bài 29 - Hư hỏng & Thay đổi",
+    "tu_vung": "はずれます (外れます)",
+    "y_nghia": "Tuột, bung, rời ra"
+  },
+  {
+    "phan_nhom": "Bài 29 - Hư hỏng & Thay đổi",
+    "tu_vung": "とまります (止まります)",
+    "y_nghia": "Dừng, ngừng chạy"
+  },
+  {
+    "phan_nhom": "Bài 29 - Hành động xử lý",
+    "tu_vung": "まちがえます (間違えます)",
+    "y_nghia": "Nhầm lẫn, làm sai"
+  },
+  {
+    "phan_nhom": "Bài 29 - Hành động xử lý",
+    "tu_vung": "おとします (落とします)",
+    "y_nghia": "Làm rơi, đánh rơi"
+  },
+  {
+    "phan_nhom": "Bài 29 - Hành động xử lý",
+    "tu_vung": "かかります (掛かります)",
+    "y_nghia": "Được khóa"
+  },
+  {
+    "phan_nhom": "Bài 29 - Hành động xử lý",
+    "tu_vung": "ふきます (拭きます)",
+    "y_nghia": "Lau"
+  },
+  {
+    "phan_nhom": "Bài 29 - Hành động xử lý",
+    "tu_vung": "とりかえます (取り替えます)",
+    "y_nghia": "Thay, thay thế"
+  },
+  {
+    "phan_nhom": "Bài 29 - Hành động xử lý",
+    "tu_vung": "かたづけます (片付けます)",
+    "y_nghia": "Dọn dẹp, sắp xếp"
+  },
+  {
+    "phan_nhom": "Bài 29 - Đồ vật",
+    "tu_vung": "さら / おさら (皿 / お皿)",
+    "y_nghia": "Đĩa"
+  },
+  {
+    "phan_nhom": "Bài 29 - Đồ vật",
+    "tu_vung": "ちゃわん / おちゃわん (茶碗 / お茶碗)",
+    "y_nghia": "Bát, chén"
+  },
+  {
+    "phan_nhom": "Bài 29 - Đồ vật",
+    "tu_vung": "コップ",
+    "y_nghia": "Cốc"
+  },
+  {
+    "phan_nhom": "Bài 29 - Đồ vật",
+    "tu_vung": "ガラス",
+    "y_nghia": "Kính, thủy tinh"
+  },
+  {
+    "phan_nhom": "Bài 29 - Đồ vật",
+    "tu_vung": "ふくろ (袋)",
+    "y_nghia": "Túi"
+  },
+  {
+    "phan_nhom": "Bài 29 - Đồ vật",
+    "tu_vung": "しょるい (書類)",
+    "y_nghia": "Giấy tờ, tài liệu"
+  },
+  {
+    "phan_nhom": "Bài 29 - Đồ vật",
+    "tu_vung": "えだ (枝)",
+    "y_nghia": "Cành cây"
+  },
+  {
+    "phan_nhom": "Bài 29 - Nhà ga & Cảnh sát",
+    "tu_vung": "えきいん (駅員)",
+    "y_nghia": "Nhân viên nhà ga"
+  },
+  {
+    "phan_nhom": "Bài 29 - Nhà ga & Cảnh sát",
+    "tu_vung": "こうばん (交番)",
+    "y_nghia": "Đồn cảnh sát, bốt cảnh sát"
+  },
+  {
+    "phan_nhom": "Bài 29 - Hội thoại",
+    "tu_vung": "スピーチ",
+    "y_nghia": "Bài diễn văn, bài phát biểu"
+  },
+  {
+    "phan_nhom": "Bài 29 - Hội thoại",
+    "tu_vung": "へんじ (返事)",
+    "y_nghia": "Câu trả lời, hồi âm"
+  },
+  {
+    "phan_nhom": "Bài 29 - Hội thoại",
+    "tu_vung": "おさきにどうぞ (お先にどうぞ)",
+    "y_nghia": "Mời anh/chị cứ về trước"
+  },
+  {
+    "phan_nhom": "Bài 29 - Hội thoại",
+    "tu_vung": "げんじものがたり (源氏物語)",
+    "y_nghia": "Truyện Genji"
+  },
+  {
+    "phan_nhom": "Bài 29 - Đồ bỏ quên",
+    "tu_vung": "いまのでんしゃ (今の電車)",
+    "y_nghia": "Chuyến tàu vừa rồi"
+  },
+  {
+    "phan_nhom": "Bài 29 - Đồ bỏ quên",
+    "tu_vung": "わすれもの (忘れ物)",
+    "y_nghia": "Đồ bỏ quên"
+  },
+  {
+    "phan_nhom": "Bài 29 - Đồ bỏ quên",
+    "tu_vung": "このくらい",
+    "y_nghia": "Cỡ chừng này"
+  },
+  {
+    "phan_nhom": "Bài 29 - Đồ bỏ quên",
+    "tu_vung": "がわ (側)",
+    "y_nghia": "Phía, bên"
+  },
+  {
+    "phan_nhom": "Bài 29 - Đồ bỏ quên",
+    "tu_vung": "ポケット",
+    "y_nghia": "Túi"
+  },
+  {
+    "phan_nhom": "Bài 29 - Đồ bỏ quên",
+    "tu_vung": "へん (辺)",
+    "y_nghia": "Chỗ, vùng, khu vực"
+  },
+  {
+    "phan_nhom": "Bài 29 - Đồ bỏ quên",
+    "tu_vung": "おぼえていません (覚えていません)",
+    "y_nghia": "Tôi không nhớ"
+  },
+  {
+    "phan_nhom": "Bài 29 - Đồ bỏ quên",
+    "tu_vung": "あみだな (網棚)",
+    "y_nghia": "Giá để hành lý"
+  },
+  {
+    "phan_nhom": "Bài 29 - Đồ bỏ quên",
+    "tu_vung": "たしか (確か)",
+    "y_nghia": "Chắc là, nếu tôi nhớ không nhầm"
+  },
+  {
+    "phan_nhom": "Bài 29 - Đồ bỏ quên",
+    "tu_vung": "ああ、よかった",
+    "y_nghia": "Ôi, may quá"
+  },
+  {
+    "phan_nhom": "Bài 29 - Thiên tai & Vị trí",
+    "tu_vung": "じしん (地震)",
+    "y_nghia": "Động đất"
+  },
+  {
+    "phan_nhom": "Bài 29 - Thiên tai & Vị trí",
+    "tu_vung": "かべ (壁)",
+    "y_nghia": "Bức tường"
+  },
+  {
+    "phan_nhom": "Bài 29 - Thiên tai & Vị trí",
+    "tu_vung": "はり (針)",
+    "y_nghia": "Kim đồng hồ, kim"
+  },
+  {
+    "phan_nhom": "Bài 29 - Thiên tai & Vị trí",
+    "tu_vung": "さします (指します)",
+    "y_nghia": "Chỉ"
+  },
+  {
+    "phan_nhom": "Bài 29 - Thiên tai & Vị trí",
+    "tu_vung": "えきまえ (駅前)",
+    "y_nghia": "Trước ga"
+  },
+  {
+    "phan_nhom": "Bài 29 - Thiên tai & Vị trí",
+    "tu_vung": "たおれます (倒れます)",
+    "y_nghia": "Đổ, ngã"
+  },
+  {
+    "phan_nhom": "Bài 29 - Thiên tai & Vị trí",
+    "tu_vung": "にしのほう (西の方)",
+    "y_nghia": "Phía tây"
+  },
+  {
+    "phan_nhom": "Bài 29 - Thiên tai & Vị trí",
+    "tu_vung": "もえます (燃えます)",
+    "y_nghia": "Cháy"
+  }
+]

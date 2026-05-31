@@ -1,7 +1,14 @@
 import json
+import re
 from pathlib import Path
 
 from sort_keys import get_group_and_sort_key, get_number_prefix, get_vietnamese_sort_key
+
+VOCABULARY_LEVELS = ("n5", "n4")
+VOCABULARY_LEVEL_LABELS = {
+    "n5": "N5",
+    "n4": "N4",
+}
 
 VOCABULARY_SECTION_TITLES = {
     "01_person_pronouns_and_forms_of_address.json": "1. Đại từ chỉ người & xưng hô",
@@ -46,6 +53,38 @@ VOCABULARY_SECTION_TITLES = {
 }
 
 
+def get_vocabulary_display_text(item):
+    tu_vung = item.get("tu_vung", "")
+    if item.get("cap_do") == "N4" and tu_vung:
+        return f"{tu_vung} - N4"
+    return tu_vung
+
+
+def clean_vocabulary_meaning(text, level_label, lesson_number):
+    if level_label != "N4" or lesson_number < 36:
+        return text
+
+    return re.sub(
+        r"\s*[,;]\s*(?:kính ngữ|khiêm nhường ngữ) của .*$",
+        "",
+        text or "",
+        flags=re.IGNORECASE,
+    ).strip()
+
+
+def get_display_title(json_path, level_label):
+    if json_path.name in VOCABULARY_SECTION_TITLES:
+        return VOCABULARY_SECTION_TITLES[json_path.name]
+
+    bai_match = re.match(r"bai(\d+)_(.+)", json_path.stem)
+    if bai_match:
+        lesson_number, slug = bai_match.groups()
+        title = slug.replace("_", " ").title()
+        return f"{level_label} - Bài {lesson_number} - {title}"
+
+    return f"{level_label} - {json_path.stem}"
+
+
 def load_json_file(path, default):
     path = Path(path)
     if not path.exists():
@@ -56,40 +95,68 @@ def load_json_file(path, default):
 
 
 def load_vocabulary_data(data_dir):
-    n5_dir = Path(data_dir) / "vocabulary" / "n5"
+    vocabulary_dir = Path(data_dir) / "vocabulary"
     all_words = []
     json_data_map = []
+    seen_index_words = set()
 
-    if not n5_dir.exists():
+    if not vocabulary_dir.exists():
         return all_words, json_data_map
 
-    json_files = sorted(
-        [path for path in n5_dir.iterdir() if path.suffix == ".json"],
-        key=lambda path: get_number_prefix(path.name),
-    )
+    for level_name in VOCABULARY_LEVELS:
+        level_dir = vocabulary_dir / level_name
+        level_label = VOCABULARY_LEVEL_LABELS[level_name]
 
-    for json_path in json_files:
-        data = load_json_file(json_path, [])
+        if not level_dir.exists():
+            continue
 
-        for item in data:
-            item_copy = item.copy()
-            jp_group, jp_sort_key = get_group_and_sort_key(item.get("tu_vung", ""))
-            item_copy["jp_group_char"] = jp_group
-            item_copy["jp_sort_key"] = jp_sort_key
-
-            vn_group, vn_sort_key = get_vietnamese_sort_key(item.get("y_nghia", ""))
-            item_copy["vn_group_char"] = vn_group
-            item_copy["vn_sort_key"] = vn_sort_key
-            all_words.append(item_copy)
-
-        json_data_map.append(
-            {
-                "file_name": json_path.name,
-                "display_title": VOCABULARY_SECTION_TITLES.get(json_path.name, json_path.stem),
-                "data": data,
-                "prefix_num": get_number_prefix(json_path.name),
-            }
+        json_files = sorted(
+            [path for path in level_dir.iterdir() if path.suffix == ".json"],
+            key=lambda path: get_number_prefix(path.name),
         )
+
+        for json_path in json_files:
+            data = load_json_file(json_path, [])
+            decorated_data = []
+            lesson_number = get_number_prefix(json_path.name)
+
+            for item in data:
+                item_copy = item.copy()
+                item_copy["cap_do"] = level_label
+                item_copy["y_nghia"] = clean_vocabulary_meaning(
+                    item_copy.get("y_nghia", ""),
+                    level_label,
+                    lesson_number,
+                )
+                item_copy["tu_vung_hien_thi"] = get_vocabulary_display_text(item_copy)
+
+                jp_group, jp_sort_key = get_group_and_sort_key(item.get("tu_vung", ""))
+                item_copy["jp_group_char"] = jp_group
+                item_copy["jp_sort_key"] = jp_sort_key
+
+                vn_group, vn_sort_key = get_vietnamese_sort_key(item_copy.get("y_nghia", ""))
+                item_copy["vn_group_char"] = vn_group
+                item_copy["vn_sort_key"] = vn_sort_key
+                decorated_data.append(item_copy)
+
+                index_key = (
+                    item_copy.get("cap_do", ""),
+                    item_copy.get("tu_vung", "").strip(),
+                    item_copy.get("y_nghia", "").strip(),
+                )
+                if index_key not in seen_index_words:
+                    seen_index_words.add(index_key)
+                    all_words.append(item_copy)
+
+            json_data_map.append(
+                {
+                    "file_name": json_path.name,
+                    "display_title": get_display_title(json_path, level_label),
+                    "level": level_label,
+                    "data": decorated_data,
+                    "prefix_num": get_number_prefix(json_path.name),
+                }
+            )
 
     return all_words, json_data_map
 

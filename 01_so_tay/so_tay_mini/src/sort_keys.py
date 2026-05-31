@@ -64,6 +64,5 @@ def get_vietnamese_sort_key(text):
 
 
 def get_number_prefix(filename):
-    match = re.search(r"^(\d+)", filename)
+    match = re.search(r"(\d+)", filename)
     return int(match.group(1)) if match else 9999
-

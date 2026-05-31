@@ -19,23 +19,23 @@ from config import (
 from docx_utils import add_page_number, apply_paragraph_format, apply_run_font
 
 
-def setup_document():
+def setup_document(footer_text="Sổ tay từ vựng N5 - N4", booklet_layout=True):
     doc = Document()
-    setup_page(doc)
+    setup_page(doc, booklet_layout=booklet_layout)
     setup_styles(doc)
-    setup_footer(doc)
+    setup_footer(doc, footer_text, booklet_layout=booklet_layout)
     return doc
 
 
-def setup_page(doc):
+def setup_page(doc, booklet_layout=True):
     section = doc.sections[0]
     section.page_width = Cm(PAGE_WIDTH_CM)
     section.page_height = Cm(PAGE_HEIGHT_CM)
     section.top_margin = Cm(TOP_MARGIN_CM)
     section.bottom_margin = Cm(BOTTOM_MARGIN_CM)
     section.left_margin = Cm(LEFT_MARGIN_CM)
-    section.right_margin = Cm(RIGHT_MARGIN_CM)
-    section.gutter = Cm(GUTTER_CM)
+    section.right_margin = Cm(RIGHT_MARGIN_CM if booklet_layout else LEFT_MARGIN_CM)
+    section.gutter = Cm(GUTTER_CM if booklet_layout else 0)
     section.footer_distance = Cm(FOOTER_DISTANCE_CM)
 
 
@@ -89,20 +89,29 @@ def configure_style(style, color=None):
     paragraph_format.space_after = Pt(0)
 
 
-def setup_footer(doc):
+def setup_footer(doc, footer_text, booklet_layout=True):
     section = doc.sections[0]
-    doc.settings.odd_and_even_pages_header_footer = True
+    doc.settings.odd_and_even_pages_header_footer = booklet_layout
+
+    if not booklet_layout:
+        footer_paragraph = section.footer.paragraphs[0]
+        apply_paragraph_format(footer_paragraph, WD_ALIGN_PARAGRAPH.RIGHT)
+        apply_run_font(footer_paragraph.add_run(f"{footer_text} | "))
+        page_run = footer_paragraph.add_run()
+        add_page_number(page_run)
+        apply_run_font(page_run)
+        return
 
     even_footer_paragraph = section.even_page_footer.paragraphs[0]
     apply_paragraph_format(even_footer_paragraph, WD_ALIGN_PARAGRAPH.LEFT)
     even_page_run = even_footer_paragraph.add_run()
     add_page_number(even_page_run)
     apply_run_font(even_page_run)
-    apply_run_font(even_footer_paragraph.add_run(" | Sổ tay từ vựng N5"))
+    apply_run_font(even_footer_paragraph.add_run(f" | {footer_text}"))
 
     odd_footer_paragraph = section.footer.paragraphs[0]
     apply_paragraph_format(odd_footer_paragraph, WD_ALIGN_PARAGRAPH.RIGHT)
-    apply_run_font(odd_footer_paragraph.add_run("Sổ tay từ vựng N5 | "))
+    apply_run_font(odd_footer_paragraph.add_run(f"{footer_text} | "))
     odd_page_run = odd_footer_paragraph.add_run()
     add_page_number(odd_page_run)
     apply_run_font(odd_page_run)

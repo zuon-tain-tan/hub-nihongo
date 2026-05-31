@@ -177,12 +177,14 @@ def set_table_borders(table, color):
     table_properties.append(borders)
 
 
-def add_table(doc, headers, rows, column_widths=None, border_color=None):
+def add_table(doc, headers, rows, column_widths=None, border_color=None, table_alignment=None):
     header_count = 1 if headers else 0
     column_count = len(headers) if headers else len(rows[0]) if rows else 1
     table = doc.add_table(rows=header_count, cols=column_count)
     table.style = "Table Grid"
     table.autofit = False
+    if table_alignment is not None:
+        table.alignment = table_alignment
     set_table_cell_margins(
         table,
         top=TABLE_CELL_VERTICAL_MARGIN_TWIPS,

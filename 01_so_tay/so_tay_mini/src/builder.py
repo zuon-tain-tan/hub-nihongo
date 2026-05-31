@@ -6,6 +6,7 @@ from config import ASSETS_DIR, DATA_DIR, OUTPUT_DIR
 from data_loader import load_5s_data, load_special_topics, load_vocabulary_data
 from export import merge_pdfs, prepare_cover_pdf, update_docx_fields_and_export_pdf
 from formatting import setup_document
+from kanji_builder import build_kanji_document
 from sections import (
     add_5s_section,
     add_aisatsu_section,
@@ -25,6 +26,19 @@ def configure_stdio():
         sys.stdout.reconfigure(encoding="utf-8")
     if hasattr(sys.stdin, "reconfigure"):
         sys.stdin.reconfigure(encoding="utf-8")
+
+
+def ask_main_feature():
+    print("Chọn tính năng muốn tạo:")
+    print("1. Soạn Kanji")
+    print("2. Soạn sổ tay")
+    while True:
+        raw = input("Nhập lựa chọn: ").strip().lower()
+        if raw in {"", "2", "so tay", "sổ tay"}:
+            return "2"
+        if raw in {"1", "kanji", "soan kanji", "soạn kanji"}:
+            return "1"
+        print("Lựa chọn không hợp lệ. Vui lòng nhập 1 hoặc 2.")
 
 
 def ask_export_options():
@@ -123,4 +137,8 @@ def build_document():
 
 def main():
     configure_stdio()
-    build_document()
+    feature = ask_main_feature()
+    if feature == "1":
+        build_kanji_document()
+    else:
+        build_document()

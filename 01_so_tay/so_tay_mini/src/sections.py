@@ -10,6 +10,8 @@ from docx_utils import (
 )
 
 
+INDEX_LINE_WEIGHT_LIMIT = 58
+
 ROMAN_NUMERALS = (
     "I",
     "II",
@@ -114,6 +116,54 @@ def add_prefix_bold_paragraph(doc, text, justify=True):
     apply_paragraph_format(paragraph, alignment)
     add_prefix_bold_runs(paragraph, text)
     return paragraph
+
+
+def get_vocabulary_text(item):
+    return item.get("tu_vung_hien_thi") or item.get("tu_vung", "")
+
+
+def get_text_weight(text):
+    weight = 0
+    for char in text or "":
+        if "\u3040" <= char <= "\u30ff" or "\u3400" <= char <= "\u9fff":
+            weight += 2
+        elif ord(char) > 127:
+            weight += 1.2
+        else:
+            weight += 1
+    return weight
+
+
+def split_index_meaning_if_long(left_text, right_text):
+    if "," not in right_text:
+        return right_text, ""
+
+    line_weight = get_text_weight(left_text) + get_text_weight(right_text)
+    if line_weight <= INDEX_LINE_WEIGHT_LIMIT:
+        return right_text, ""
+
+    prefix, suffix = right_text.split(",", 1)
+    continuation = suffix.strip()
+    if not continuation:
+        return right_text, ""
+    return f"{prefix.strip()},", continuation
+
+
+def add_index_paragraph(doc, left_text, right_text, split_long_meaning=False):
+    display_right = right_text
+    continuation = ""
+    if split_long_meaning:
+        display_right, continuation = split_index_meaning_if_long(left_text, right_text)
+
+    paragraph = doc.add_paragraph(style="Index_Style")
+    apply_paragraph_format(paragraph)
+    paragraph.text = f"{left_text}\t{display_right}"
+
+    if continuation:
+        paragraph.paragraph_format.keep_with_next = True
+        continuation_paragraph = doc.add_paragraph(style="Index_Style")
+        apply_paragraph_format(continuation_paragraph, WD_ALIGN_PARAGRAPH.RIGHT)
+        apply_run_font(continuation_paragraph.add_run(continuation))
 
 
 def add_text_lines(doc, text_or_lines, justify=True):
@@ -257,9 +307,12 @@ def add_japanese_index(doc, all_words):
             apply_run_font(group_paragraph.add_run(current_group), bold=True)
             keep_with_next(group_paragraph)
 
-        paragraph = doc.add_paragraph(style="Index_Style")
-        apply_paragraph_format(paragraph)
-        paragraph.text = f"{item.get('tu_vung', '')}\t{item.get('y_nghia', '')}"
+        add_index_paragraph(
+            doc,
+            get_vocabulary_text(item),
+            item.get("y_nghia", ""),
+            split_long_meaning=True,
+        )
 
 
 def add_vietnamese_index(doc, all_words):
@@ -274,9 +327,7 @@ def add_vietnamese_index(doc, all_words):
             apply_run_font(group_paragraph.add_run(current_group), bold=True)
             keep_with_next(group_paragraph)
 
-        paragraph = doc.add_paragraph(style="Index_Style")
-        apply_paragraph_format(paragraph)
-        paragraph.text = f"{item.get('y_nghia', '')}\t{item.get('tu_vung', '')}"
+        add_index_paragraph(doc, item.get("y_nghia", ""), get_vocabulary_text(item))
 
 
 def add_5s_section(doc, data):
@@ -301,7 +352,7 @@ def add_5s_section(doc, data):
 
 
 def add_grouped_vocabulary(doc, json_data_map):
-    keep_with_next(doc.add_heading("TỪ VỰNG N5", level=1))
+    keep_with_next(doc.add_heading("TỪ VỰNG N5 - N4", level=1))
     for index, file_data in enumerate(json_data_map):
         heading_text = file_data["display_title"]
         heading_index = file_data["prefix_num"]
@@ -324,5 +375,5 @@ def add_grouped_vocabulary(doc, json_data_map):
                 sub_heading.paragraph_format.page_break_before = True
 
             sub_index += 1
-            rows = [(item.get("tu_vung", ""), item.get("y_nghia", "")) for item in items]
+            rows = [(get_vocabulary_text(item), item.get("y_nghia", "")) for item in items]
             add_table(doc, ["Từ vựng", "Ý nghĩa"], rows)

@@ -26,6 +26,7 @@ py-modules = [
     "docx_utils",
     "export",
     "formatting",
+    "kanji_builder",
     "sections",
     "sort_keys",
 ]

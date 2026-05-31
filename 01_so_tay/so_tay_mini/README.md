@@ -11,10 +11,14 @@ Du an tao so tay A5 tieng Nhat - tieng Viet tu du lieu JSON, xuat DOCX va PDF ba
 |-- data/                   # Source data
 |   |-- kana/
 |   |-- topics/
-|   `-- vocabulary/n5/
+|   `-- vocabulary/
+|       |-- n5/
+|       `-- n4/
 |-- output/                 # Generated DOCX/PDF/PPTX files
+|   |-- docx/kanji/
 |   |-- docx/notebook/
 |   |-- pdf/cover/
+|   |-- pdf/kanji/
 |   |-- pdf/notebook/
 |   `-- pptx/
 |-- main.py                 # Main runner
@@ -40,6 +44,8 @@ so-tay-mini
 
 Output mac dinh:
 
+- `output/docx/kanji/*.docx`
+- `output/pdf/kanji/*.pdf`
 - `output/docx/notebook/so_tay_a5_content.docx`
 - `output/pdf/cover/so_tay_a5_cover.pdf`
 - `output/pdf/notebook/so_tay_a5_content.pdf`

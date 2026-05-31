@@ -1,0 +1,257 @@
+[
+  {
+    "phan_nhom": "Bài 27 - Động từ",
+    "tu_vung": "かいます (飼います)",
+    "y_nghia": "Nuôi, chăn nuôi"
+  },
+  {
+    "phan_nhom": "Bài 27 - Động từ",
+    "tu_vung": "たてます (建てます)",
+    "y_nghia": "Xây dựng"
+  },
+  {
+    "phan_nhom": "Bài 27 - Động từ",
+    "tu_vung": "はしります (走ります)",
+    "y_nghia": "Chạy"
+  },
+  {
+    "phan_nhom": "Bài 27 - Động từ",
+    "tu_vung": "とります (取ります)",
+    "y_nghia": "Lấy, xin nghỉ"
+  },
+  {
+    "phan_nhom": "Bài 27 - Động từ khả năng",
+    "tu_vung": "みえます (見えます)",
+    "y_nghia": "Có thể nhìn thấy, nhìn thấy được"
+  },
+  {
+    "phan_nhom": "Bài 27 - Động từ khả năng",
+    "tu_vung": "きこえます (聞こえます)",
+    "y_nghia": "Có thể nghe thấy, nghe thấy được"
+  },
+  {
+    "phan_nhom": "Bài 27 - Động từ khả năng",
+    "tu_vung": "できます",
+    "y_nghia": "Được hoàn thành, được làm xong"
+  },
+  {
+    "phan_nhom": "Bài 27 - Động từ",
+    "tu_vung": "ひらきます (開きます)",
+    "y_nghia": "Mở, tổ chức"
+  },
+  {
+    "phan_nhom": "Bài 27 - Thiên nhiên & Âm thanh",
+    "tu_vung": "ペット",
+    "y_nghia": "Thú cưng, động vật nuôi"
+  },
+  {
+    "phan_nhom": "Bài 27 - Thiên nhiên & Âm thanh",
+    "tu_vung": "とり (鳥)",
+    "y_nghia": "Chim"
+  },
+  {
+    "phan_nhom": "Bài 27 - Thiên nhiên & Âm thanh",
+    "tu_vung": "こえ (声)",
+    "y_nghia": "Tiếng, giọng nói"
+  },
+  {
+    "phan_nhom": "Bài 27 - Thiên nhiên & Âm thanh",
+    "tu_vung": "なみ (波)",
+    "y_nghia": "Sóng"
+  },
+  {
+    "phan_nhom": "Bài 27 - Thiên nhiên & Âm thanh",
+    "tu_vung": "はなび (花火)",
+    "y_nghia": "Pháo hoa"
+  },
+  {
+    "phan_nhom": "Bài 27 - Thiên nhiên & Âm thanh",
+    "tu_vung": "けしき (景色)",
+    "y_nghia": "Phong cảnh"
+  },
+  {
+    "phan_nhom": "Bài 27 - Thời gian",
+    "tu_vung": "ひるま (昼間)",
+    "y_nghia": "Ban ngày"
+  },
+  {
+    "phan_nhom": "Bài 27 - Thời gian",
+    "tu_vung": "むかし (昔)",
+    "y_nghia": "Ngày xưa"
+  },
+  {
+    "phan_nhom": "Bài 27 - Đồ dùng & Dịch vụ",
+    "tu_vung": "どうぐ (道具)",
+    "y_nghia": "Dụng cụ"
+  },
+  {
+    "phan_nhom": "Bài 27 - Đồ dùng & Dịch vụ",
+    "tu_vung": "じどうはんばいき (自動販売機)",
+    "y_nghia": "Máy bán hàng tự động"
+  },
+  {
+    "phan_nhom": "Bài 27 - Đồ dùng & Dịch vụ",
+    "tu_vung": "つうしんはんばい (通信販売)",
+    "y_nghia": "Bán hàng qua thư, qua mạng hoặc đặt hàng từ xa"
+  },
+  {
+    "phan_nhom": "Bài 27 - Đồ dùng & Dịch vụ",
+    "tu_vung": "クリーニング",
+    "y_nghia": "Giặt ủi, tiệm giặt ủi"
+  },
+  {
+    "phan_nhom": "Bài 27 - Nhà cửa",
+    "tu_vung": "マンション",
+    "y_nghia": "Chung cư"
+  },
+  {
+    "phan_nhom": "Bài 27 - Nhà cửa",
+    "tu_vung": "だいどころ (台所)",
+    "y_nghia": "Nhà bếp"
+  },
+  {
+    "phan_nhom": "Bài 27 - Mẫu câu & Hậu tố",
+    "tu_vung": "～ご (～後)",
+    "y_nghia": "Sau..."
+  },
+  {
+    "phan_nhom": "Bài 27 - Mẫu câu & Hậu tố",
+    "tu_vung": "～しか",
+    "y_nghia": "Chỉ"
+  },
+  {
+    "phan_nhom": "Bài 27 - Mẫu câu & Hậu tố",
+    "tu_vung": "～きょうしつ (～教室)",
+    "y_nghia": "Lớp học..."
+  },
+  {
+    "phan_nhom": "Bài 27 - Địa điểm",
+    "tu_vung": "パーティールーム",
+    "y_nghia": "Phòng tiệc"
+  },
+  {
+    "phan_nhom": "Bài 27 - Địa điểm",
+    "tu_vung": "かんさいくうこう (関西空港)",
+    "y_nghia": "Sân bay Kansai"
+  },
+  {
+    "phan_nhom": "Bài 27 - Địa điểm",
+    "tu_vung": "あきはばら (秋葉原)",
+    "y_nghia": "Akihabara, khu bán đồ điện tử nổi tiếng ở Tokyo"
+  },
+  {
+    "phan_nhom": "Bài 27 - Địa điểm",
+    "tu_vung": "いず (伊豆)",
+    "y_nghia": "Izu, khu vực thuộc tỉnh Shizuoka"
+  },
+  {
+    "phan_nhom": "Bài 27 - Nhà cửa & Sở thích",
+    "tu_vung": "にちようだいく (日曜大工)",
+    "y_nghia": "Tự làm đồ mộc, sửa chữa nhà cửa vào ngày nghỉ"
+  },
+  {
+    "phan_nhom": "Bài 27 - Nhà cửa & Sở thích",
+    "tu_vung": "ほんだな (本棚)",
+    "y_nghia": "Kệ sách, giá sách"
+  },
+  {
+    "phan_nhom": "Bài 27 - Thời gian & Ước mơ",
+    "tu_vung": "いつか",
+    "y_nghia": "Một ngày nào đó"
+  },
+  {
+    "phan_nhom": "Bài 27 - Thời gian & Ước mơ",
+    "tu_vung": "ゆめ (夢)",
+    "y_nghia": "Giấc mơ, ước mơ"
+  },
+  {
+    "phan_nhom": "Bài 27 - Thời gian & Ước mơ",
+    "tu_vung": "いえ (家)",
+    "y_nghia": "Nhà"
+  },
+  {
+    "phan_nhom": "Bài 27 - Truyện & Tưởng tượng",
+    "tu_vung": "すばらしい (素晴らしい)",
+    "y_nghia": "Tuyệt vời"
+  },
+  {
+    "phan_nhom": "Bài 27 - Truyện & Tưởng tượng",
+    "tu_vung": "こどもたち (子どもたち)",
+    "y_nghia": "Bọn trẻ, trẻ em"
+  },
+  {
+    "phan_nhom": "Bài 27 - Truyện & Tưởng tượng",
+    "tu_vung": "だいすき (大好き)",
+    "y_nghia": "Rất thích"
+  },
+  {
+    "phan_nhom": "Bài 27 - Truyện & Tưởng tượng",
+    "tu_vung": "まんが (漫画)",
+    "y_nghia": "Truyện tranh"
+  },
+  {
+    "phan_nhom": "Bài 27 - Truyện & Tưởng tượng",
+    "tu_vung": "しゅじんこう (主人公)",
+    "y_nghia": "Nhân vật chính"
+  },
+  {
+    "phan_nhom": "Bài 27 - Truyện & Tưởng tượng",
+    "tu_vung": "かたち (形)",
+    "y_nghia": "Hình dạng"
+  },
+  {
+    "phan_nhom": "Bài 27 - Truyện & Tưởng tượng",
+    "tu_vung": "ロボット",
+    "y_nghia": "Người máy"
+  },
+  {
+    "phan_nhom": "Bài 27 - Truyện & Tưởng tượng",
+    "tu_vung": "ふしぎな (不思議な)",
+    "y_nghia": "Kỳ lạ, thần bí"
+  },
+  {
+    "phan_nhom": "Bài 27 - Truyện & Tưởng tượng",
+    "tu_vung": "ポケット",
+    "y_nghia": "Túi"
+  },
+  {
+    "phan_nhom": "Bài 27 - Truyện & Tưởng tượng",
+    "tu_vung": "たとえば (例えば)",
+    "y_nghia": "Ví dụ"
+  },
+  {
+    "phan_nhom": "Bài 27 - Truyện & Tưởng tượng",
+    "tu_vung": "つけます (付けます)",
+    "y_nghia": "Lắp, gắn"
+  },
+  {
+    "phan_nhom": "Bài 27 - Truyện & Tưởng tượng",
+    "tu_vung": "じゆうに (自由に)",
+    "y_nghia": "Tự do"
+  },
+  {
+    "phan_nhom": "Bài 27 - Truyện & Tưởng tượng",
+    "tu_vung": "そら (空)",
+    "y_nghia": "Bầu trời"
+  },
+  {
+    "phan_nhom": "Bài 27 - Truyện & Tưởng tượng",
+    "tu_vung": "とびます (飛びます)",
+    "y_nghia": "Bay"
+  },
+  {
+    "phan_nhom": "Bài 27 - Truyện & Tưởng tượng",
+    "tu_vung": "じぶん (自分)",
+    "y_nghia": "Tự mình, bản thân"
+  },
+  {
+    "phan_nhom": "Bài 27 - Truyện & Tưởng tượng",
+    "tu_vung": "しょうらい (将来)",
+    "y_nghia": "Tương lai"
+  },
+  {
+    "phan_nhom": "Bài 27 - Truyện & Tưởng tượng",
+    "tu_vung": "ドラえもん",
+    "y_nghia": "Doraemon"
+  }
+]
