@@ -1,34 +1,162 @@
 [
-  {"phan_nhom": "Bài 46 - Di chuyển & Giao nhận", "tu_vung": "わたします (渡します)", "y_nghia": "Đưa, trao"},
-  {"phan_nhom": "Bài 46 - Di chuyển & Giao nhận", "tu_vung": "かえってきます (帰ってきます)", "y_nghia": "Trở về"},
-  {"phan_nhom": "Bài 46 - Di chuyển & Giao nhận", "tu_vung": "でます (出ます)", "y_nghia": "Xuất phát, rời bến"},
-  {"phan_nhom": "Bài 46 - Di chuyển & Giao nhận", "tu_vung": "とどきます (届きます)", "y_nghia": "Đến, được chuyển đến"},
-  {"phan_nhom": "Bài 46 - Học tập & Nấu nướng", "tu_vung": "にゅうがくします (入学します)", "y_nghia": "Nhập học"},
-  {"phan_nhom": "Bài 46 - Học tập & Nấu nướng", "tu_vung": "そつぎょうします (卒業します)", "y_nghia": "Tốt nghiệp"},
-  {"phan_nhom": "Bài 46 - Học tập & Nấu nướng", "tu_vung": "やきます (焼きます)", "y_nghia": "Nướng"},
-  {"phan_nhom": "Bài 46 - Học tập & Nấu nướng", "tu_vung": "やけます (焼けます)", "y_nghia": "Được nướng chín, chín"},
-  {"phan_nhom": "Bài 46 - Thời gian & Nguyên nhân", "tu_vung": "るす (留守)", "y_nghia": "Vắng nhà, đi vắng"},
-  {"phan_nhom": "Bài 46 - Thời gian & Nguyên nhân", "tu_vung": "たくはいびん (宅配便)", "y_nghia": "Dịch vụ chuyển phát tận nhà"},
-  {"phan_nhom": "Bài 46 - Thời gian & Nguyên nhân", "tu_vung": "げんいん (原因)", "y_nghia": "Nguyên nhân"},
-  {"phan_nhom": "Bài 46 - Thời gian & Nguyên nhân", "tu_vung": "こちら", "y_nghia": "Phía này; tôi, chúng tôi"},
-  {"phan_nhom": "Bài 46 - Thời gian & Nguyên nhân", "tu_vung": "～のところ (～の所)", "y_nghia": "Chỗ của..."},
-  {"phan_nhom": "Bài 46 - Thời gian & Nguyên nhân", "tu_vung": "はんとし (半年)", "y_nghia": "Nửa năm"},
-  {"phan_nhom": "Bài 46 - Thời gian & Nguyên nhân", "tu_vung": "ちょうど", "y_nghia": "Vừa đúng, đúng lúc"},
-  {"phan_nhom": "Bài 46 - Thời gian & Nguyên nhân", "tu_vung": "たったいま (たった今)", "y_nghia": "Vừa mới"},
-  {"phan_nhom": "Bài 46 - Thời gian & Nguyên nhân", "tu_vung": "いまいいですか (今いいですか)", "y_nghia": "Bây giờ có tiện nói chuyện không?"},
-  {"phan_nhom": "Bài 46 - Cuộc gọi dịch vụ", "tu_vung": "ガスサービスセンター", "y_nghia": "Trung tâm dịch vụ ga"},
-  {"phan_nhom": "Bài 46 - Cuộc gọi dịch vụ", "tu_vung": "ガスレンジ", "y_nghia": "Bếp ga"},
-  {"phan_nhom": "Bài 46 - Cuộc gọi dịch vụ", "tu_vung": "ぐあい (具合)", "y_nghia": "Tình trạng, trạng thái"},
-  {"phan_nhom": "Bài 46 - Cuộc gọi dịch vụ", "tu_vung": "もうしわけありません (申し訳ありません)", "y_nghia": "Xin lỗi"},
-  {"phan_nhom": "Bài 46 - Cuộc gọi dịch vụ", "tu_vung": "どちらさまでしょうか (どちら様でしょうか)", "y_nghia": "Ai đấy ạ?"},
-  {"phan_nhom": "Bài 46 - Cuộc gọi dịch vụ", "tu_vung": "おまたせしました (お待たせしました)", "y_nghia": "Xin lỗi đã để anh/chị chờ lâu"},
-  {"phan_nhom": "Bài 46 - Cuộc gọi dịch vụ", "tu_vung": "むかいます (向かいます)", "y_nghia": "Đi đến, hướng đến"},
-  {"phan_nhom": "Bài 46 - Sự việc", "tu_vung": "ついています", "y_nghia": "May mắn"},
-  {"phan_nhom": "Bài 46 - Sự việc", "tu_vung": "ゆか (床)", "y_nghia": "Sàn nhà"},
-  {"phan_nhom": "Bài 46 - Sự việc", "tu_vung": "ころびます (転びます)", "y_nghia": "Ngã"},
-  {"phan_nhom": "Bài 46 - Sự việc", "tu_vung": "ベル", "y_nghia": "Chuông cửa"},
-  {"phan_nhom": "Bài 46 - Sự việc", "tu_vung": "なります (鳴ります)", "y_nghia": "Reng, kêu"},
-  {"phan_nhom": "Bài 46 - Sự việc", "tu_vung": "あわてて (慌てて)", "y_nghia": "Vội vàng, hấp tấp"},
-  {"phan_nhom": "Bài 46 - Sự việc", "tu_vung": "じゅんばんに (順番に)", "y_nghia": "Theo thứ tự"},
-  {"phan_nhom": "Bài 46 - Sự việc", "tu_vung": "できごと (出来事)", "y_nghia": "Sự việc"}
+  {
+    "phan_nhom": "Bài 46 - Di chuyển & Giao nhận",
+    "tu_vung": "わたす (渡します)",
+    "y_nghia": "Đưa, trao"
+  },
+  {
+    "phan_nhom": "Bài 46 - Di chuyển & Giao nhận",
+    "tu_vung": "かえってくる (帰ってきます)",
+    "y_nghia": "Trở về"
+  },
+  {
+    "phan_nhom": "Bài 46 - Di chuyển & Giao nhận",
+    "tu_vung": "でる (出ます)",
+    "y_nghia": "Xuất phát, rời bến"
+  },
+  {
+    "phan_nhom": "Bài 46 - Di chuyển & Giao nhận",
+    "tu_vung": "とどく (届きます)",
+    "y_nghia": "Đến, được chuyển đến"
+  },
+  {
+    "phan_nhom": "Bài 46 - Học tập & Nấu nướng",
+    "tu_vung": "にゅうがくする (入学します)",
+    "y_nghia": "Nhập học"
+  },
+  {
+    "phan_nhom": "Bài 46 - Học tập & Nấu nướng",
+    "tu_vung": "そつぎょうする (卒業します)",
+    "y_nghia": "Tốt nghiệp"
+  },
+  {
+    "phan_nhom": "Bài 46 - Học tập & Nấu nướng",
+    "tu_vung": "やく (焼きます)",
+    "y_nghia": "Nướng"
+  },
+  {
+    "phan_nhom": "Bài 46 - Học tập & Nấu nướng",
+    "tu_vung": "やける (焼けます)",
+    "y_nghia": "Được nướng chín, chín"
+  },
+  {
+    "phan_nhom": "Bài 46 - Thời gian & Nguyên nhân",
+    "tu_vung": "るす (留守)",
+    "y_nghia": "Vắng nhà, đi vắng"
+  },
+  {
+    "phan_nhom": "Bài 46 - Thời gian & Nguyên nhân",
+    "tu_vung": "たくはいびん (宅配便)",
+    "y_nghia": "Dịch vụ chuyển phát tận nhà"
+  },
+  {
+    "phan_nhom": "Bài 46 - Thời gian & Nguyên nhân",
+    "tu_vung": "げんいん (原因)",
+    "y_nghia": "Nguyên nhân"
+  },
+  {
+    "phan_nhom": "Bài 46 - Thời gian & Nguyên nhân",
+    "tu_vung": "こちら",
+    "y_nghia": "Phía này; tôi, chúng tôi"
+  },
+  {
+    "phan_nhom": "Bài 46 - Thời gian & Nguyên nhân",
+    "tu_vung": "～のところ (～の所)",
+    "y_nghia": "Chỗ của..."
+  },
+  {
+    "phan_nhom": "Bài 46 - Thời gian & Nguyên nhân",
+    "tu_vung": "はんとし (半年)",
+    "y_nghia": "Nửa năm"
+  },
+  {
+    "phan_nhom": "Bài 46 - Thời gian & Nguyên nhân",
+    "tu_vung": "ちょうど",
+    "y_nghia": "Vừa đúng, đúng lúc"
+  },
+  {
+    "phan_nhom": "Bài 46 - Thời gian & Nguyên nhân",
+    "tu_vung": "たったいま (たった今)",
+    "y_nghia": "Vừa mới"
+  },
+  {
+    "phan_nhom": "Bài 46 - Thời gian & Nguyên nhân",
+    "tu_vung": "いまいいですか (今いいですか)",
+    "y_nghia": "Bây giờ có tiện nói chuyện không?"
+  },
+  {
+    "phan_nhom": "Bài 46 - Cuộc gọi dịch vụ",
+    "tu_vung": "ガスサービスセンター",
+    "y_nghia": "Trung tâm dịch vụ ga"
+  },
+  {
+    "phan_nhom": "Bài 46 - Cuộc gọi dịch vụ",
+    "tu_vung": "ガスレンジ",
+    "y_nghia": "Bếp ga"
+  },
+  {
+    "phan_nhom": "Bài 46 - Cuộc gọi dịch vụ",
+    "tu_vung": "ぐあい (具合)",
+    "y_nghia": "Tình trạng, trạng thái"
+  },
+  {
+    "phan_nhom": "Bài 46 - Cuộc gọi dịch vụ",
+    "tu_vung": "もうしわけありません (申し訳ありません)",
+    "y_nghia": "Xin lỗi"
+  },
+  {
+    "phan_nhom": "Bài 46 - Cuộc gọi dịch vụ",
+    "tu_vung": "どちらさまでしょうか (どちら様でしょうか)",
+    "y_nghia": "Ai đấy ạ?"
+  },
+  {
+    "phan_nhom": "Bài 46 - Cuộc gọi dịch vụ",
+    "tu_vung": "おまたせしました (お待たせしました)",
+    "y_nghia": "Xin lỗi đã để anh/chị chờ lâu"
+  },
+  {
+    "phan_nhom": "Bài 46 - Cuộc gọi dịch vụ",
+    "tu_vung": "むかう (向かいます)",
+    "y_nghia": "Đi đến, hướng đến"
+  },
+  {
+    "phan_nhom": "Bài 46 - Sự việc",
+    "tu_vung": "ついている",
+    "y_nghia": "May mắn"
+  },
+  {
+    "phan_nhom": "Bài 46 - Sự việc",
+    "tu_vung": "ゆか (床)",
+    "y_nghia": "Sàn nhà"
+  },
+  {
+    "phan_nhom": "Bài 46 - Sự việc",
+    "tu_vung": "ころぶ (転びます)",
+    "y_nghia": "Ngã"
+  },
+  {
+    "phan_nhom": "Bài 46 - Sự việc",
+    "tu_vung": "ベル",
+    "y_nghia": "Chuông cửa"
+  },
+  {
+    "phan_nhom": "Bài 46 - Sự việc",
+    "tu_vung": "なる (鳴ります)",
+    "y_nghia": "Reng, kêu"
+  },
+  {
+    "phan_nhom": "Bài 46 - Sự việc",
+    "tu_vung": "あわてて (慌てて)",
+    "y_nghia": "Vội vàng, hấp tấp"
+  },
+  {
+    "phan_nhom": "Bài 46 - Sự việc",
+    "tu_vung": "じゅんばんに (順番に)",
+    "y_nghia": "Theo thứ tự"
+  },
+  {
+    "phan_nhom": "Bài 46 - Sự việc",
+    "tu_vung": "できごと (出来事)",
+    "y_nghia": "Sự việc"
+  }
 ]

@@ -13,17 +13,36 @@ from config import (
 from docx_utils import set_paragraph_text_keep_first_run
 
 
+def remove_existing_pdf(pdf_path):
+    if pdf_path.exists():
+        pdf_path.unlink()
+
+
+def export_pdf_with_fallback(doc, pdf_path):
+    remove_existing_pdf(pdf_path)
+    try:
+        doc.ExportAsFixedFormat(str(pdf_path.resolve()), 17)
+        return
+    except Exception as export_error:
+        remove_existing_pdf(pdf_path)
+        try:
+            doc.SaveAs2(str(pdf_path.resolve()), FileFormat=17)
+            return
+        except Exception:
+            raise export_error
+
+
 def update_docx_fields_and_export_pdf(docx_path, pdf_path):
     import win32com.client
 
-    if pdf_path.exists():
-        pdf_path.unlink()
+    remove_existing_pdf(pdf_path)
 
     word = win32com.client.DispatchEx("Word.Application")
     word.Visible = False
     word.DisplayAlerts = 0
+    doc = None
     try:
-        doc = word.Documents.Open(str(docx_path.resolve()))
+        doc = word.Documents.Open(str(docx_path.resolve()), AddToRecentFiles=False)
         try:
             doc.Fields.Update()
             for toc in doc.TablesOfContents:
@@ -47,9 +66,13 @@ def update_docx_fields_and_export_pdf(docx_path, pdf_path):
             pass
 
         doc.Save()
-        doc.ExportAsFixedFormat(str(pdf_path.resolve()), 17)
-        doc.Close(False)
+        export_pdf_with_fallback(doc, pdf_path)
     finally:
+        if doc is not None:
+            try:
+                doc.Close(False)
+            except Exception:
+                pass
         word.Quit()
 
 

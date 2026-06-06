@@ -1,5 +1,6 @@
 import json
 import re
+import unicodedata
 from pathlib import Path
 
 from sort_keys import get_group_and_sort_key, get_number_prefix, get_vietnamese_sort_key
@@ -9,6 +10,10 @@ VOCABULARY_LEVEL_LABELS = {
     "n5": "N5",
     "n4": "N4",
 }
+
+VOCABULARY_DISPLAY_WEIGHT_LIMIT = 48
+PARENTHESIS_VARIANT_WEIGHT_LIMIT = 16
+KANJI_SUFFIX_STOP_CHARS = set("はがをにへでともかのしすまさただな")
 
 VOCABULARY_SECTION_TITLES = {
     "01_person_pronouns_and_forms_of_address.json": "1. Đại từ chỉ người & xưng hô",
@@ -53,11 +58,182 @@ VOCABULARY_SECTION_TITLES = {
 }
 
 
+def get_text_weight(text):
+    weight = 0
+    for char in text or "":
+        if "\u3040" <= char <= "\u30ff" or "\u3400" <= char <= "\u9fff":
+            weight += 2
+        elif ord(char) > 127:
+            weight += 1.2
+        else:
+            weight += 1
+    return weight
+
+
+def contains_kanji(text):
+    return any("\u3400" <= char <= "\u9fff" for char in text or "")
+
+
+def split_top_level(text, separator):
+    parts = []
+    current = []
+    depth = 0
+    opening_chars = {"(", "（"}
+    closing_chars = {")", "）"}
+
+    for char in text or "":
+        if char in opening_chars:
+            depth += 1
+        elif char in closing_chars and depth > 0:
+            depth -= 1
+
+        if char == separator and depth == 0:
+            part = "".join(current).strip()
+            if part:
+                parts.append(part)
+            current = []
+        else:
+            current.append(char)
+
+    part = "".join(current).strip()
+    if part:
+        parts.append(part)
+    return parts
+
+
+def has_parenthesized_variant(text):
+    return bool(re.search(r"[（(][^()（）]+[）)]\s*$", text or ""))
+
+
+def compact_parenthesis_variant(text):
+    if not text or get_text_weight(text) <= PARENTHESIS_VARIANT_WEIGHT_LIMIT or not contains_kanji(text):
+        return text
+
+    last_kanji_index = max(index for index, char in enumerate(text) if "\u3400" <= char <= "\u9fff")
+    prefix_end = min(len(text), last_kanji_index + 1)
+    if prefix_end < len(text) and text[prefix_end] in "々〆ヶ":
+        prefix_end += 1
+    if (
+        prefix_end < len(text)
+        and "\u3040" <= text[prefix_end] <= "\u309f"
+        and text[prefix_end] not in KANJI_SUFFIX_STOP_CHARS
+    ):
+        prefix_end += 1
+
+    suffix = text[-1]
+    prefix = text[:prefix_end]
+    compacted = f"{prefix}...{suffix}"
+    return compacted if len(compacted) < len(text) else text
+
+
+def compact_long_vocabulary_text(text):
+    if not text or get_text_weight(text) <= VOCABULARY_DISPLAY_WEIGHT_LIMIT:
+        return text
+
+    match = re.match(r"^(.*?)\s*[（(]([^()（）]+)[）)]\s*$", text)
+    if not match:
+        return text
+
+    reading, variant = match.groups()
+    compacted_variant = compact_parenthesis_variant(variant)
+    if compacted_variant == variant:
+        return text
+    return f"{reading.strip()} ({compacted_variant})"
+
+
 def get_vocabulary_display_text(item):
-    tu_vung = item.get("tu_vung", "")
+    tu_vung = compact_long_vocabulary_text(item.get("tu_vung", ""))
     if item.get("cap_do") == "N4" and tu_vung:
-        return f"{tu_vung} - N4"
+        return f"{tu_vung} - {item.get('cap_do', '')}"
     return tu_vung
+
+
+def normalize_vietnamese_for_dedupe(text):
+    normalized = unicodedata.normalize("NFD", (text or "").lower())
+    normalized = "".join(char for char in normalized if unicodedata.category(char) != "Mn")
+    normalized = normalized.replace("đ", "d")
+    normalized = re.sub(r"\bkhong thich\b", "ghet", normalized)
+    normalized = re.sub(r"[^0-9a-z]+", " ", normalized)
+    return " ".join(normalized.split())
+
+
+def get_meaning_tokens(text):
+    normalized = normalize_vietnamese_for_dedupe(text)
+    return set(normalized.split())
+
+
+def meanings_are_near_duplicate(first_text, second_text):
+    first_normalized = normalize_vietnamese_for_dedupe(first_text)
+    second_normalized = normalize_vietnamese_for_dedupe(second_text)
+    if not first_normalized or not second_normalized:
+        return False
+    if first_normalized == second_normalized:
+        return True
+
+    first_tokens = get_meaning_tokens(first_text)
+    second_tokens = get_meaning_tokens(second_text)
+    if not first_tokens or not second_tokens:
+        return False
+
+    smaller_tokens, larger_tokens = sorted([first_tokens, second_tokens], key=len)
+    if smaller_tokens.issubset(larger_tokens):
+        return True
+
+    overlap_ratio = len(first_tokens & second_tokens) / len(first_tokens | second_tokens)
+    return overlap_ratio >= 0.72
+
+
+def get_meaning_quality_score(text):
+    tokens = get_meaning_tokens(text)
+    return (len(tokens), get_text_weight(text))
+
+
+def add_index_word(all_words, index_word_map, item):
+    key = (item.get("cap_do", ""), item.get("tu_vung", "").strip())
+    matching_indexes = index_word_map.setdefault(key, [])
+
+    for index in matching_indexes:
+        existing_item = all_words[index]
+        if not meanings_are_near_duplicate(existing_item.get("y_nghia", ""), item.get("y_nghia", "")):
+            continue
+
+        if get_meaning_quality_score(item.get("y_nghia", "")) > get_meaning_quality_score(existing_item.get("y_nghia", "")):
+            all_words[index] = item
+        return
+
+    matching_indexes.append(len(all_words))
+    all_words.append(item)
+
+
+def capitalize_first(text):
+    text = (text or "").strip()
+    return text[:1].upper() + text[1:] if text else text
+
+
+def split_parallel_meanings(text, expected_count):
+    for pattern in (r"\s*[,;]\s*", r"\s*/\s*"):
+        parts = [part.strip() for part in re.split(pattern, text or "") if part.strip()]
+        if len(parts) == expected_count:
+            return [capitalize_first(part) for part in parts]
+    return None
+
+
+def expand_vocabulary_item(item):
+    vocab_parts = split_top_level(item.get("tu_vung", ""), "/")
+    if len(vocab_parts) <= 1 or not all(has_parenthesized_variant(part) for part in vocab_parts):
+        return [item]
+
+    meaning_parts = split_parallel_meanings(item.get("y_nghia", ""), len(vocab_parts))
+    if not meaning_parts:
+        return [item]
+
+    expanded_items = []
+    for vocab_part, meaning_part in zip(vocab_parts, meaning_parts):
+        item_copy = item.copy()
+        item_copy["tu_vung"] = vocab_part
+        item_copy["y_nghia"] = meaning_part
+        expanded_items.append(item_copy)
+    return expanded_items
 
 
 def clean_vocabulary_meaning(text, level_label, lesson_number):
@@ -98,7 +274,7 @@ def load_vocabulary_data(data_dir):
     vocabulary_dir = Path(data_dir) / "vocabulary"
     all_words = []
     json_data_map = []
-    seen_index_words = set()
+    index_word_map = {}
 
     if not vocabulary_dir.exists():
         return all_words, json_data_map
@@ -120,33 +296,27 @@ def load_vocabulary_data(data_dir):
             decorated_data = []
             lesson_number = get_number_prefix(json_path.name)
 
-            for item in data:
-                item_copy = item.copy()
-                item_copy["cap_do"] = level_label
-                item_copy["y_nghia"] = clean_vocabulary_meaning(
-                    item_copy.get("y_nghia", ""),
-                    level_label,
-                    lesson_number,
-                )
-                item_copy["tu_vung_hien_thi"] = get_vocabulary_display_text(item_copy)
+            for source_item in data:
+                for item in expand_vocabulary_item(source_item):
+                    item_copy = item.copy()
+                    item_copy["cap_do"] = level_label
+                    item_copy["y_nghia"] = clean_vocabulary_meaning(
+                        item_copy.get("y_nghia", ""),
+                        level_label,
+                        lesson_number,
+                    )
+                    item_copy["tu_vung_hien_thi"] = get_vocabulary_display_text(item_copy)
 
-                jp_group, jp_sort_key = get_group_and_sort_key(item.get("tu_vung", ""))
-                item_copy["jp_group_char"] = jp_group
-                item_copy["jp_sort_key"] = jp_sort_key
+                    jp_group, jp_sort_key = get_group_and_sort_key(item_copy.get("tu_vung", ""))
+                    item_copy["jp_group_char"] = jp_group
+                    item_copy["jp_sort_key"] = jp_sort_key
 
-                vn_group, vn_sort_key = get_vietnamese_sort_key(item_copy.get("y_nghia", ""))
-                item_copy["vn_group_char"] = vn_group
-                item_copy["vn_sort_key"] = vn_sort_key
-                decorated_data.append(item_copy)
+                    vn_group, vn_sort_key = get_vietnamese_sort_key(item_copy.get("y_nghia", ""))
+                    item_copy["vn_group_char"] = vn_group
+                    item_copy["vn_sort_key"] = vn_sort_key
+                    decorated_data.append(item_copy)
 
-                index_key = (
-                    item_copy.get("cap_do", ""),
-                    item_copy.get("tu_vung", "").strip(),
-                    item_copy.get("y_nghia", "").strip(),
-                )
-                if index_key not in seen_index_words:
-                    seen_index_words.add(index_key)
-                    all_words.append(item_copy)
+                    add_index_word(all_words, index_word_map, item_copy)
 
             json_data_map.append(
                 {

@@ -1,102 +1,102 @@
 [
   {
     "phan_nhom": "Bài 29 - Trạng thái tự động",
-    "tu_vung": "あきます (開きます)",
+    "tu_vung": "あく (開きます)",
     "y_nghia": "Mở"
   },
   {
     "phan_nhom": "Bài 29 - Trạng thái tự động",
-    "tu_vung": "しまります (閉まります)",
+    "tu_vung": "しまる (閉まります)",
     "y_nghia": "Đóng"
   },
   {
     "phan_nhom": "Bài 29 - Trạng thái tự động",
-    "tu_vung": "つきます (点きます)",
+    "tu_vung": "つく (点きます)",
     "y_nghia": "Bật sáng, được thắp sáng"
   },
   {
     "phan_nhom": "Bài 29 - Trạng thái tự động",
-    "tu_vung": "きえます (消えます)",
+    "tu_vung": "きえる (消えます)",
     "y_nghia": "Tắt, biến mất"
   },
   {
     "phan_nhom": "Bài 29 - Trạng thái tự động",
-    "tu_vung": "こみます (込みます)",
+    "tu_vung": "こむ (込みます)",
     "y_nghia": "Đông, tắc nghẽn"
   },
   {
     "phan_nhom": "Bài 29 - Trạng thái tự động",
-    "tu_vung": "すきます (空きます)",
+    "tu_vung": "すく (空きます)",
     "y_nghia": "Vắng, trống"
   },
   {
     "phan_nhom": "Bài 29 - Hư hỏng & Thay đổi",
-    "tu_vung": "こわれます (壊れます)",
+    "tu_vung": "こわれる (壊れます)",
     "y_nghia": "Bị hỏng"
   },
   {
     "phan_nhom": "Bài 29 - Hư hỏng & Thay đổi",
-    "tu_vung": "われます (割れます)",
+    "tu_vung": "われる (割れます)",
     "y_nghia": "Bị vỡ"
   },
   {
     "phan_nhom": "Bài 29 - Hư hỏng & Thay đổi",
-    "tu_vung": "おれます (折れます)",
+    "tu_vung": "おれる (折れます)",
     "y_nghia": "Bị gãy"
   },
   {
     "phan_nhom": "Bài 29 - Hư hỏng & Thay đổi",
-    "tu_vung": "やぶれます (破れます)",
+    "tu_vung": "やぶれる (破れます)",
     "y_nghia": "Bị rách"
   },
   {
     "phan_nhom": "Bài 29 - Hư hỏng & Thay đổi",
-    "tu_vung": "よごれます (汚れます)",
+    "tu_vung": "よごれる (汚れます)",
     "y_nghia": "Bị bẩn, dơ"
   },
   {
     "phan_nhom": "Bài 29 - Hư hỏng & Thay đổi",
-    "tu_vung": "つきます (付きます)",
+    "tu_vung": "つく (付きます)",
     "y_nghia": "Dính, được gắn"
   },
   {
     "phan_nhom": "Bài 29 - Hư hỏng & Thay đổi",
-    "tu_vung": "はずれます (外れます)",
+    "tu_vung": "はずれる (外れます)",
     "y_nghia": "Tuột, bung, rời ra"
   },
   {
     "phan_nhom": "Bài 29 - Hư hỏng & Thay đổi",
-    "tu_vung": "とまります (止まります)",
+    "tu_vung": "とまる (止まります)",
     "y_nghia": "Dừng, ngừng chạy"
   },
   {
     "phan_nhom": "Bài 29 - Hành động xử lý",
-    "tu_vung": "まちがえます (間違えます)",
+    "tu_vung": "まちがえる (間違えます)",
     "y_nghia": "Nhầm lẫn, làm sai"
   },
   {
     "phan_nhom": "Bài 29 - Hành động xử lý",
-    "tu_vung": "おとします (落とします)",
+    "tu_vung": "おとす (落とします)",
     "y_nghia": "Làm rơi, đánh rơi"
   },
   {
     "phan_nhom": "Bài 29 - Hành động xử lý",
-    "tu_vung": "かかります (掛かります)",
+    "tu_vung": "かかる (掛かります)",
     "y_nghia": "Được khóa"
   },
   {
     "phan_nhom": "Bài 29 - Hành động xử lý",
-    "tu_vung": "ふきます (拭きます)",
+    "tu_vung": "ふく (拭きます)",
     "y_nghia": "Lau"
   },
   {
     "phan_nhom": "Bài 29 - Hành động xử lý",
-    "tu_vung": "とりかえます (取り替えます)",
+    "tu_vung": "とりかえる (取り替えます)",
     "y_nghia": "Thay, thay thế"
   },
   {
     "phan_nhom": "Bài 29 - Hành động xử lý",
-    "tu_vung": "かたづけます (片付けます)",
+    "tu_vung": "かたづける (片付けます)",
     "y_nghia": "Dọn dẹp, sắp xếp"
   },
   {
@@ -231,7 +231,7 @@
   },
   {
     "phan_nhom": "Bài 29 - Thiên tai & Vị trí",
-    "tu_vung": "さします (指します)",
+    "tu_vung": "さす (指します)",
     "y_nghia": "Chỉ"
   },
   {
@@ -241,7 +241,7 @@
   },
   {
     "phan_nhom": "Bài 29 - Thiên tai & Vị trí",
-    "tu_vung": "たおれます (倒れます)",
+    "tu_vung": "たおれる (倒れます)",
     "y_nghia": "Đổ, ngã"
   },
   {
@@ -251,7 +251,7 @@
   },
   {
     "phan_nhom": "Bài 29 - Thiên tai & Vị trí",
-    "tu_vung": "もえます (燃えます)",
+    "tu_vung": "もえる (燃えます)",
     "y_nghia": "Cháy"
   }
 ]

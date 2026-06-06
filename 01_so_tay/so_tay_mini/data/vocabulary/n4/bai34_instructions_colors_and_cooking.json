@@ -1,52 +1,252 @@
 [
-  {"phan_nhom": "Bài 34 - Thao tác", "tu_vung": "みがきます (磨きます)", "y_nghia": "Mài, đánh"},
-  {"phan_nhom": "Bài 34 - Thao tác", "tu_vung": "くみたてます (組み立てます)", "y_nghia": "Lắp ráp, lắp đặt"},
-  {"phan_nhom": "Bài 34 - Thao tác", "tu_vung": "おります (折ります)", "y_nghia": "Gấp, gập, bẻ gãy"},
-  {"phan_nhom": "Bài 34 - Thao tác", "tu_vung": "きがつきます (気が付きます)", "y_nghia": "Nhận thấy, phát hiện"},
-  {"phan_nhom": "Bài 34 - Thao tác", "tu_vung": "つけます (付けます)", "y_nghia": "Chấm, bôi, gắn"},
-  {"phan_nhom": "Bài 34 - Thao tác", "tu_vung": "みつかります (見つかります)", "y_nghia": "Được tìm thấy"},
-  {"phan_nhom": "Bài 34 - Thao tác", "tu_vung": "します", "y_nghia": "Đeo, thắt"},
-  {"phan_nhom": "Bài 34 - Thao tác", "tu_vung": "しつもんします (質問します)", "y_nghia": "Hỏi, đặt câu hỏi"},
-  {"phan_nhom": "Bài 34 - Hình dáng & Hoạt động", "tu_vung": "ほそい (細い)", "y_nghia": "Gầy, hẹp, thon"},
-  {"phan_nhom": "Bài 34 - Hình dáng & Hoạt động", "tu_vung": "ふとい (太い)", "y_nghia": "Béo, to, dày"},
-  {"phan_nhom": "Bài 34 - Hình dáng & Hoạt động", "tu_vung": "ぼんおどり (盆踊り)", "y_nghia": "Múa trong lễ hội Bon"},
-  {"phan_nhom": "Bài 34 - Hình dáng & Hoạt động", "tu_vung": "スポーツクラブ", "y_nghia": "Câu lạc bộ thể thao"},
-  {"phan_nhom": "Bài 34 - Đồ vật & Hướng dẫn", "tu_vung": "かぐ (家具)", "y_nghia": "Đồ dùng nội thất"},
-  {"phan_nhom": "Bài 34 - Đồ vật & Hướng dẫn", "tu_vung": "キー", "y_nghia": "Chìa khóa"},
-  {"phan_nhom": "Bài 34 - Đồ vật & Hướng dẫn", "tu_vung": "シートベルト", "y_nghia": "Dây an toàn"},
-  {"phan_nhom": "Bài 34 - Đồ vật & Hướng dẫn", "tu_vung": "せつめいしょ (説明書)", "y_nghia": "Sách hướng dẫn"},
-  {"phan_nhom": "Bài 34 - Đồ vật & Hướng dẫn", "tu_vung": "ず (図)", "y_nghia": "Sơ đồ, hình vẽ"},
-  {"phan_nhom": "Bài 34 - Đồ vật & Hướng dẫn", "tu_vung": "せん (線)", "y_nghia": "Đường, đường kẻ"},
-  {"phan_nhom": "Bài 34 - Đồ vật & Hướng dẫn", "tu_vung": "やじるし (矢印)", "y_nghia": "Dấu mũi tên"},
-  {"phan_nhom": "Bài 34 - Màu sắc", "tu_vung": "くろ (黒)", "y_nghia": "Màu đen"},
-  {"phan_nhom": "Bài 34 - Màu sắc", "tu_vung": "しろ (白)", "y_nghia": "Màu trắng"},
-  {"phan_nhom": "Bài 34 - Màu sắc", "tu_vung": "あか (赤)", "y_nghia": "Màu đỏ"},
-  {"phan_nhom": "Bài 34 - Màu sắc", "tu_vung": "あお (青)", "y_nghia": "Màu xanh da trời, xanh lam"},
-  {"phan_nhom": "Bài 34 - Màu sắc", "tu_vung": "こん (紺)", "y_nghia": "Màu xanh lam đậm"},
-  {"phan_nhom": "Bài 34 - Màu sắc", "tu_vung": "きいろ (黄色)", "y_nghia": "Màu vàng"},
-  {"phan_nhom": "Bài 34 - Màu sắc", "tu_vung": "ちゃいろ (茶色)", "y_nghia": "Màu nâu"},
-  {"phan_nhom": "Bài 34 - Thời gian & Trà đạo", "tu_vung": "しょうゆ (醤油)", "y_nghia": "Xì dầu, nước tương"},
-  {"phan_nhom": "Bài 34 - Thời gian & Trà đạo", "tu_vung": "ソース", "y_nghia": "Nước chấm, nước xốt"},
-  {"phan_nhom": "Bài 34 - Thời gian & Trà đạo", "tu_vung": "ゆうべ", "y_nghia": "Tối qua, đêm qua"},
-  {"phan_nhom": "Bài 34 - Thời gian & Trà đạo", "tu_vung": "さっき", "y_nghia": "Vừa rồi, vừa lúc nãy"},
-  {"phan_nhom": "Bài 34 - Thời gian & Trà đạo", "tu_vung": "さどう (茶道)", "y_nghia": "Trà đạo"},
-  {"phan_nhom": "Bài 34 - Thời gian & Trà đạo", "tu_vung": "おちゃをたてます (お茶をたてます)", "y_nghia": "Pha trà"},
-  {"phan_nhom": "Bài 34 - Thời gian & Trà đạo", "tu_vung": "さきに (先に)", "y_nghia": "Trước"},
-  {"phan_nhom": "Bài 34 - Thời gian & Trà đạo", "tu_vung": "のせます (載せます)", "y_nghia": "Đặt lên"},
-  {"phan_nhom": "Bài 34 - Thời gian & Trà đạo", "tu_vung": "これでいいですか", "y_nghia": "Thế này được không?"},
-  {"phan_nhom": "Bài 34 - Nấu ăn", "tu_vung": "にがい (苦い)", "y_nghia": "Đắng"},
-  {"phan_nhom": "Bài 34 - Nấu ăn", "tu_vung": "おやこどんぶり (親子どんぶり)", "y_nghia": "Món oyakodon"},
-  {"phan_nhom": "Bài 34 - Nấu ăn", "tu_vung": "ざいりょう (材料)", "y_nghia": "Nguyên liệu"},
-  {"phan_nhom": "Bài 34 - Nấu ăn", "tu_vung": "～ぶん (～分)", "y_nghia": "Phần, lượng cho..."},
-  {"phan_nhom": "Bài 34 - Nấu ăn", "tu_vung": "とりにく (鶏肉)", "y_nghia": "Thịt gà"},
-  {"phan_nhom": "Bài 34 - Nấu ăn", "tu_vung": "～グラム", "y_nghia": "...gam"},
-  {"phan_nhom": "Bài 34 - Nấu ăn", "tu_vung": "たまねぎ", "y_nghia": "Hành tây"},
-  {"phan_nhom": "Bài 34 - Nấu ăn", "tu_vung": "4ぶんの1 (4分の1)", "y_nghia": "Một phần tư"},
-  {"phan_nhom": "Bài 34 - Nấu ăn", "tu_vung": "ちょうみりょう (調味料)", "y_nghia": "Gia vị"},
-  {"phan_nhom": "Bài 34 - Nấu ăn", "tu_vung": "なべ", "y_nghia": "Nồi"},
-  {"phan_nhom": "Bài 34 - Nấu ăn", "tu_vung": "ひ (火)", "y_nghia": "Lửa"},
-  {"phan_nhom": "Bài 34 - Nấu ăn", "tu_vung": "ひにかけます (火にかけます)", "y_nghia": "Bắc lên bếp, đun"},
-  {"phan_nhom": "Bài 34 - Nấu ăn", "tu_vung": "にます (煮ます)", "y_nghia": "Nấu, ninh"},
-  {"phan_nhom": "Bài 34 - Nấu ăn", "tu_vung": "にえます (煮えます)", "y_nghia": "Chín, được nấu"},
-  {"phan_nhom": "Bài 34 - Nấu ăn", "tu_vung": "どんぶり", "y_nghia": "Bát tô lớn"}
+  {
+    "phan_nhom": "Bài 34 - Thao tác",
+    "tu_vung": "みがく (磨きます)",
+    "y_nghia": "Mài, đánh"
+  },
+  {
+    "phan_nhom": "Bài 34 - Thao tác",
+    "tu_vung": "くみたてる (組み立てます)",
+    "y_nghia": "Lắp ráp, lắp đặt"
+  },
+  {
+    "phan_nhom": "Bài 34 - Thao tác",
+    "tu_vung": "おる (折ります)",
+    "y_nghia": "Gấp, gập, bẻ gãy"
+  },
+  {
+    "phan_nhom": "Bài 34 - Thao tác",
+    "tu_vung": "きがつく (気が付きます)",
+    "y_nghia": "Nhận thấy, phát hiện"
+  },
+  {
+    "phan_nhom": "Bài 34 - Thao tác",
+    "tu_vung": "つける (付けます)",
+    "y_nghia": "Chấm, bôi, gắn"
+  },
+  {
+    "phan_nhom": "Bài 34 - Thao tác",
+    "tu_vung": "みつかる (見つかります)",
+    "y_nghia": "Được tìm thấy"
+  },
+  {
+    "phan_nhom": "Bài 34 - Thao tác",
+    "tu_vung": "する",
+    "y_nghia": "Đeo, thắt"
+  },
+  {
+    "phan_nhom": "Bài 34 - Thao tác",
+    "tu_vung": "しつもんする (質問します)",
+    "y_nghia": "Hỏi, đặt câu hỏi"
+  },
+  {
+    "phan_nhom": "Bài 34 - Hình dáng & Hoạt động",
+    "tu_vung": "ほそい (細い)",
+    "y_nghia": "Gầy, hẹp, thon"
+  },
+  {
+    "phan_nhom": "Bài 34 - Hình dáng & Hoạt động",
+    "tu_vung": "ふとい (太い)",
+    "y_nghia": "Béo, to, dày"
+  },
+  {
+    "phan_nhom": "Bài 34 - Hình dáng & Hoạt động",
+    "tu_vung": "ぼんおどり (盆踊り)",
+    "y_nghia": "Múa trong lễ hội Bon"
+  },
+  {
+    "phan_nhom": "Bài 34 - Hình dáng & Hoạt động",
+    "tu_vung": "スポーツクラブ",
+    "y_nghia": "Câu lạc bộ thể thao"
+  },
+  {
+    "phan_nhom": "Bài 34 - Đồ vật & Hướng dẫn",
+    "tu_vung": "かぐ (家具)",
+    "y_nghia": "Đồ dùng nội thất"
+  },
+  {
+    "phan_nhom": "Bài 34 - Đồ vật & Hướng dẫn",
+    "tu_vung": "キー",
+    "y_nghia": "Chìa khóa"
+  },
+  {
+    "phan_nhom": "Bài 34 - Đồ vật & Hướng dẫn",
+    "tu_vung": "シートベルト",
+    "y_nghia": "Dây an toàn"
+  },
+  {
+    "phan_nhom": "Bài 34 - Đồ vật & Hướng dẫn",
+    "tu_vung": "せつめいしょ (説明書)",
+    "y_nghia": "Sách hướng dẫn"
+  },
+  {
+    "phan_nhom": "Bài 34 - Đồ vật & Hướng dẫn",
+    "tu_vung": "ず (図)",
+    "y_nghia": "Sơ đồ, hình vẽ"
+  },
+  {
+    "phan_nhom": "Bài 34 - Đồ vật & Hướng dẫn",
+    "tu_vung": "せん (線)",
+    "y_nghia": "Đường, đường kẻ"
+  },
+  {
+    "phan_nhom": "Bài 34 - Đồ vật & Hướng dẫn",
+    "tu_vung": "やじるし (矢印)",
+    "y_nghia": "Dấu mũi tên"
+  },
+  {
+    "phan_nhom": "Bài 34 - Màu sắc",
+    "tu_vung": "くろ (黒)",
+    "y_nghia": "Màu đen"
+  },
+  {
+    "phan_nhom": "Bài 34 - Màu sắc",
+    "tu_vung": "しろ (白)",
+    "y_nghia": "Màu trắng"
+  },
+  {
+    "phan_nhom": "Bài 34 - Màu sắc",
+    "tu_vung": "あか (赤)",
+    "y_nghia": "Màu đỏ"
+  },
+  {
+    "phan_nhom": "Bài 34 - Màu sắc",
+    "tu_vung": "あお (青)",
+    "y_nghia": "Màu xanh da trời, xanh lam"
+  },
+  {
+    "phan_nhom": "Bài 34 - Màu sắc",
+    "tu_vung": "こん (紺)",
+    "y_nghia": "Màu xanh lam đậm"
+  },
+  {
+    "phan_nhom": "Bài 34 - Màu sắc",
+    "tu_vung": "きいろ (黄色)",
+    "y_nghia": "Màu vàng"
+  },
+  {
+    "phan_nhom": "Bài 34 - Màu sắc",
+    "tu_vung": "ちゃいろ (茶色)",
+    "y_nghia": "Màu nâu"
+  },
+  {
+    "phan_nhom": "Bài 34 - Thời gian & Trà đạo",
+    "tu_vung": "しょうゆ (醤油)",
+    "y_nghia": "Xì dầu, nước tương"
+  },
+  {
+    "phan_nhom": "Bài 34 - Thời gian & Trà đạo",
+    "tu_vung": "ソース",
+    "y_nghia": "Nước chấm, nước xốt"
+  },
+  {
+    "phan_nhom": "Bài 34 - Thời gian & Trà đạo",
+    "tu_vung": "ゆうべ",
+    "y_nghia": "Tối qua, đêm qua"
+  },
+  {
+    "phan_nhom": "Bài 34 - Thời gian & Trà đạo",
+    "tu_vung": "さっき",
+    "y_nghia": "Vừa rồi, vừa lúc nãy"
+  },
+  {
+    "phan_nhom": "Bài 34 - Thời gian & Trà đạo",
+    "tu_vung": "さどう (茶道)",
+    "y_nghia": "Trà đạo"
+  },
+  {
+    "phan_nhom": "Bài 34 - Thời gian & Trà đạo",
+    "tu_vung": "おちゃをたてる (お茶をたてます)",
+    "y_nghia": "Pha trà"
+  },
+  {
+    "phan_nhom": "Bài 34 - Thời gian & Trà đạo",
+    "tu_vung": "さきに (先に)",
+    "y_nghia": "Trước"
+  },
+  {
+    "phan_nhom": "Bài 34 - Thời gian & Trà đạo",
+    "tu_vung": "のせる (載せます)",
+    "y_nghia": "Đặt lên"
+  },
+  {
+    "phan_nhom": "Bài 34 - Thời gian & Trà đạo",
+    "tu_vung": "これでいいですか",
+    "y_nghia": "Thế này được không?"
+  },
+  {
+    "phan_nhom": "Bài 34 - Nấu ăn",
+    "tu_vung": "にがい (苦い)",
+    "y_nghia": "Đắng"
+  },
+  {
+    "phan_nhom": "Bài 34 - Nấu ăn",
+    "tu_vung": "おやこどんぶり (親子どんぶり)",
+    "y_nghia": "Món oyakodon"
+  },
+  {
+    "phan_nhom": "Bài 34 - Nấu ăn",
+    "tu_vung": "ざいりょう (材料)",
+    "y_nghia": "Nguyên liệu"
+  },
+  {
+    "phan_nhom": "Bài 34 - Nấu ăn",
+    "tu_vung": "～ぶん (～分)",
+    "y_nghia": "Phần, lượng cho..."
+  },
+  {
+    "phan_nhom": "Bài 34 - Nấu ăn",
+    "tu_vung": "とりにく (鶏肉)",
+    "y_nghia": "Thịt gà"
+  },
+  {
+    "phan_nhom": "Bài 34 - Nấu ăn",
+    "tu_vung": "～グラム",
+    "y_nghia": "...gam"
+  },
+  {
+    "phan_nhom": "Bài 34 - Nấu ăn",
+    "tu_vung": "たまねぎ",
+    "y_nghia": "Hành tây"
+  },
+  {
+    "phan_nhom": "Bài 34 - Nấu ăn",
+    "tu_vung": "4ぶんの1 (4分の1)",
+    "y_nghia": "Một phần tư"
+  },
+  {
+    "phan_nhom": "Bài 34 - Nấu ăn",
+    "tu_vung": "ちょうみりょう (調味料)",
+    "y_nghia": "Gia vị"
+  },
+  {
+    "phan_nhom": "Bài 34 - Nấu ăn",
+    "tu_vung": "なべ",
+    "y_nghia": "Nồi"
+  },
+  {
+    "phan_nhom": "Bài 34 - Nấu ăn",
+    "tu_vung": "ひ (火)",
+    "y_nghia": "Lửa"
+  },
+  {
+    "phan_nhom": "Bài 34 - Nấu ăn",
+    "tu_vung": "ひにかける (火にかけます)",
+    "y_nghia": "Bắc lên bếp, đun"
+  },
+  {
+    "phan_nhom": "Bài 34 - Nấu ăn",
+    "tu_vung": "にる (煮ます)",
+    "y_nghia": "Nấu, ninh"
+  },
+  {
+    "phan_nhom": "Bài 34 - Nấu ăn",
+    "tu_vung": "にえる (煮えます)",
+    "y_nghia": "Chín, được nấu"
+  },
+  {
+    "phan_nhom": "Bài 34 - Nấu ăn",
+    "tu_vung": "どんぶり",
+    "y_nghia": "Bát tô lớn"
+  }
 ]

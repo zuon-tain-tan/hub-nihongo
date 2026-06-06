@@ -10,7 +10,11 @@ from docx_utils import (
 )
 
 
-INDEX_LINE_WEIGHT_LIMIT = 58
+INDEX_EMPTY_RIGHT_PLACEHOLDER = "\u00a0"
+INDEX_LINE_WEIGHT_LIMIT = 55
+INDEX_LONG_LEFT_WEIGHT_LIMIT = 45
+INDEX_SHORT_RIGHT_WEIGHT_LIMIT = 12
+INDEX_LONG_RIGHT_WEIGHT_LIMIT = 28
 
 ROMAN_NUMERALS = (
     "I",
@@ -122,6 +126,21 @@ def get_vocabulary_text(item):
     return item.get("tu_vung_hien_thi") or item.get("tu_vung", "")
 
 
+def get_vietnamese_index_vocabulary_text(item):
+    vocabulary_text = get_vocabulary_text(item)
+    level_suffix = f" - {item.get('cap_do', '')}"
+    if item.get("cap_do") and vocabulary_text.endswith(level_suffix):
+        return vocabulary_text[: -len(level_suffix)]
+    return vocabulary_text
+
+
+def get_vietnamese_index_meaning_text(item):
+    meaning_text = item.get("y_nghia", "")
+    if item.get("cap_do") == "N4":
+        return f"{meaning_text} - {item.get('cap_do')}"
+    return meaning_text
+
+
 def get_text_weight(text):
     weight = 0
     for char in text or "":
@@ -134,36 +153,50 @@ def get_text_weight(text):
     return weight
 
 
-def split_index_meaning_if_long(left_text, right_text):
-    if "," not in right_text:
-        return right_text, ""
-
+def split_index_meaning_if_long(left_text, right_text, keep_medium_right_with_long_left=False):
     line_weight = get_text_weight(left_text) + get_text_weight(right_text)
     if line_weight <= INDEX_LINE_WEIGHT_LIMIT:
         return right_text, ""
 
-    prefix, suffix = right_text.split(",", 1)
-    continuation = suffix.strip()
-    if not continuation:
+    right_weight = get_text_weight(right_text)
+    if (
+        keep_medium_right_with_long_left
+        and
+        INDEX_SHORT_RIGHT_WEIGHT_LIMIT < right_weight < INDEX_LONG_RIGHT_WEIGHT_LIMIT
+        and get_text_weight(left_text) >= INDEX_LONG_LEFT_WEIGHT_LIMIT
+    ):
         return right_text, ""
-    return f"{prefix.strip()},", continuation
+
+    return "", right_text
 
 
-def add_index_paragraph(doc, left_text, right_text, split_long_meaning=False):
+def add_index_paragraph(
+    doc,
+    left_text,
+    right_text,
+    split_long_meaning=False,
+    keep_medium_right_with_long_left=False,
+):
     display_right = right_text
     continuation = ""
     if split_long_meaning:
-        display_right, continuation = split_index_meaning_if_long(left_text, right_text)
+        display_right, continuation = split_index_meaning_if_long(
+            left_text,
+            right_text,
+            keep_medium_right_with_long_left=keep_medium_right_with_long_left,
+        )
 
     paragraph = doc.add_paragraph(style="Index_Style")
     apply_paragraph_format(paragraph)
+    if continuation and not display_right:
+        display_right = INDEX_EMPTY_RIGHT_PLACEHOLDER
     paragraph.text = f"{left_text}\t{display_right}"
 
     if continuation:
         paragraph.paragraph_format.keep_with_next = True
         continuation_paragraph = doc.add_paragraph(style="Index_Style")
-        apply_paragraph_format(continuation_paragraph, WD_ALIGN_PARAGRAPH.RIGHT)
-        apply_run_font(continuation_paragraph.add_run(continuation))
+        apply_paragraph_format(continuation_paragraph)
+        continuation_paragraph.text = f"\t{continuation}"
 
 
 def add_text_lines(doc, text_or_lines, justify=True):
@@ -213,6 +246,12 @@ def add_centered_text(doc, text):
 
 
 def add_online_version_page(doc, qr_path, updated_date):
+    def add_centered_line(text, bold=False):
+        paragraph = doc.add_paragraph()
+        apply_paragraph_format(paragraph, WD_ALIGN_PARAGRAPH.CENTER)
+        apply_run_font(paragraph.add_run(text), bold=bold)
+        return paragraph
+
     title = doc.add_paragraph()
     apply_paragraph_format(title, WD_ALIGN_PARAGRAPH.CENTER)
     apply_run_font(title.add_run("Phiên bản Online của tài liệu:"), bold=True)
@@ -228,17 +267,10 @@ def add_online_version_page(doc, qr_path, updated_date):
     apply_paragraph_format(date_paragraph, WD_ALIGN_PARAGRAPH.CENTER)
     apply_run_font(date_paragraph.add_run(f"Cập nhật lần cuối: {updated_date}"))
 
-    for _ in range(8):
-        spacer = doc.add_paragraph()
-        apply_paragraph_format(spacer, WD_ALIGN_PARAGRAPH.CENTER)
-
-    author_paragraph = doc.add_paragraph()
-    apply_paragraph_format(author_paragraph, WD_ALIGN_PARAGRAPH.CENTER)
-    apply_run_font(author_paragraph.add_run("著者（ちょしゃ）： ズオン・タイン・タン"), bold=True)
-
-    editor_paragraph = doc.add_paragraph()
-    apply_paragraph_format(editor_paragraph, WD_ALIGN_PARAGRAPH.CENTER)
-    apply_run_font(editor_paragraph.add_run("編集協力（へんしゅうきょうりょく）： ChatGPT 5.5"))
+    add_centered_line("著者（ちょしゃ）：", bold=True)
+    add_centered_line("ズオン・タイン・タン")
+    add_centered_line("編集協力（へんしゅうきょうりょく）：", bold=True)
+    add_centered_line("ChatGPT 5.5")
 
 
 def add_horenso_section(doc, data):
@@ -312,6 +344,7 @@ def add_japanese_index(doc, all_words):
             get_vocabulary_text(item),
             item.get("y_nghia", ""),
             split_long_meaning=True,
+            keep_medium_right_with_long_left=True,
         )
 
 
@@ -327,7 +360,12 @@ def add_vietnamese_index(doc, all_words):
             apply_run_font(group_paragraph.add_run(current_group), bold=True)
             keep_with_next(group_paragraph)
 
-        add_index_paragraph(doc, item.get("y_nghia", ""), get_vocabulary_text(item))
+        add_index_paragraph(
+            doc,
+            get_vietnamese_index_meaning_text(item),
+            get_vietnamese_index_vocabulary_text(item),
+            split_long_meaning=True,
+        )
 
 
 def add_5s_section(doc, data):

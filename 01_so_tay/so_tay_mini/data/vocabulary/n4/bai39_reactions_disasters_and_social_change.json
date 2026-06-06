@@ -1,53 +1,257 @@
 [
-  {"phan_nhom": "Bài 39 - Động từ phản ứng", "tu_vung": "こたえます (答えます)", "y_nghia": "Trả lời"},
-  {"phan_nhom": "Bài 39 - Động từ phản ứng", "tu_vung": "たおれます (倒れます)", "y_nghia": "Đổ, sập"},
-  {"phan_nhom": "Bài 39 - Động từ phản ứng", "tu_vung": "とおります (通ります)", "y_nghia": "Đi qua, đi xuyên qua"},
-  {"phan_nhom": "Bài 39 - Động từ phản ứng", "tu_vung": "しにます (死にます)", "y_nghia": "Chết"},
-  {"phan_nhom": "Bài 39 - Cảm xúc & Quan hệ", "tu_vung": "びっくりします", "y_nghia": "Giật mình, ngạc nhiên"},
-  {"phan_nhom": "Bài 39 - Cảm xúc & Quan hệ", "tu_vung": "がっかりします", "y_nghia": "Thất vọng"},
-  {"phan_nhom": "Bài 39 - Cảm xúc & Quan hệ", "tu_vung": "あんしんします (安心します)", "y_nghia": "Yên tâm"},
-  {"phan_nhom": "Bài 39 - Cảm xúc & Quan hệ", "tu_vung": "けんかします", "y_nghia": "Cãi nhau"},
-  {"phan_nhom": "Bài 39 - Cảm xúc & Quan hệ", "tu_vung": "りこんします (離婚します)", "y_nghia": "Ly hôn"},
-  {"phan_nhom": "Bài 39 - Cơ thể & Tính chất", "tu_vung": "ふとります (太ります)", "y_nghia": "Béo ra, tăng cân"},
-  {"phan_nhom": "Bài 39 - Cơ thể & Tính chất", "tu_vung": "やせます (痩せます)", "y_nghia": "Gầy đi, giảm cân"},
-  {"phan_nhom": "Bài 39 - Cơ thể & Tính chất", "tu_vung": "ふくざつ (複雑)", "y_nghia": "Phức tạp"},
-  {"phan_nhom": "Bài 39 - Cơ thể & Tính chất", "tu_vung": "じゃま (邪魔)", "y_nghia": "Vướng, vướng víu, cản trở"},
-  {"phan_nhom": "Bài 39 - Cơ thể & Tính chất", "tu_vung": "かたい (硬い)", "y_nghia": "Cứng"},
-  {"phan_nhom": "Bài 39 - Cơ thể & Tính chất", "tu_vung": "やわらかい (軟らかい)", "y_nghia": "Mềm"},
-  {"phan_nhom": "Bài 39 - Cơ thể & Tính chất", "tu_vung": "きたない (汚い)", "y_nghia": "Bẩn"},
-  {"phan_nhom": "Bài 39 - Cảm xúc", "tu_vung": "うれしい", "y_nghia": "Vui"},
-  {"phan_nhom": "Bài 39 - Cảm xúc", "tu_vung": "かなしい (悲しい)", "y_nghia": "Buồn"},
-  {"phan_nhom": "Bài 39 - Cảm xúc", "tu_vung": "はずかしい (恥ずかしい)", "y_nghia": "Xấu hổ, ngượng"},
-  {"phan_nhom": "Bài 39 - Thiên tai & Sự cố", "tu_vung": "しゅしょう (首相)", "y_nghia": "Thủ tướng"},
-  {"phan_nhom": "Bài 39 - Thiên tai & Sự cố", "tu_vung": "じしん (地震)", "y_nghia": "Động đất"},
-  {"phan_nhom": "Bài 39 - Thiên tai & Sự cố", "tu_vung": "つなみ (津波)", "y_nghia": "Sóng thần"},
-  {"phan_nhom": "Bài 39 - Thiên tai & Sự cố", "tu_vung": "たいふう (台風)", "y_nghia": "Bão"},
-  {"phan_nhom": "Bài 39 - Thiên tai & Sự cố", "tu_vung": "かみなり (雷)", "y_nghia": "Sấm"},
-  {"phan_nhom": "Bài 39 - Thiên tai & Sự cố", "tu_vung": "かじ (火事)", "y_nghia": "Hỏa hoạn"},
-  {"phan_nhom": "Bài 39 - Thiên tai & Sự cố", "tu_vung": "じこ (事故)", "y_nghia": "Tai nạn, sự cố"},
-  {"phan_nhom": "Bài 39 - Sự kiện & Dịch vụ", "tu_vung": "バイキング", "y_nghia": "Buffet, tiệc tự chọn"},
-  {"phan_nhom": "Bài 39 - Sự kiện & Dịch vụ", "tu_vung": "おみあい / みあい (お見合い / 見合い)", "y_nghia": "Xem mặt để kết hôn"},
-  {"phan_nhom": "Bài 39 - Sự kiện & Dịch vụ", "tu_vung": "そうさ (操作)", "y_nghia": "Thao tác"},
-  {"phan_nhom": "Bài 39 - Sự kiện & Dịch vụ", "tu_vung": "かいじょう (会場)", "y_nghia": "Hội trường, địa điểm tổ chức"},
-  {"phan_nhom": "Bài 39 - Sự kiện & Dịch vụ", "tu_vung": "～だい (～代)", "y_nghia": "Phí..., tiền..."},
-  {"phan_nhom": "Bài 39 - Sự kiện & Dịch vụ", "tu_vung": "～や (～屋)", "y_nghia": "Cửa hàng..., người bán..."},
-  {"phan_nhom": "Bài 39 - Khách sạn & Giao thông", "tu_vung": "フロント", "y_nghia": "Lễ tân"},
-  {"phan_nhom": "Bài 39 - Khách sạn & Giao thông", "tu_vung": "～ごうしつ (～号室)", "y_nghia": "Phòng số..."},
-  {"phan_nhom": "Bài 39 - Khách sạn & Giao thông", "tu_vung": "タオル", "y_nghia": "Khăn tắm"},
-  {"phan_nhom": "Bài 39 - Khách sạn & Giao thông", "tu_vung": "せっけん", "y_nghia": "Xà phòng"},
-  {"phan_nhom": "Bài 39 - Khách sạn & Giao thông", "tu_vung": "おおぜい (大勢)", "y_nghia": "Nhiều người"},
-  {"phan_nhom": "Bài 39 - Khách sạn & Giao thông", "tu_vung": "おつかれさまでした (お疲れさまでした)", "y_nghia": "Anh/chị đã vất vả rồi"},
-  {"phan_nhom": "Bài 39 - Khách sạn & Giao thông", "tu_vung": "うかがいます (伺います)", "y_nghia": "Tôi sẽ đến"},
-  {"phan_nhom": "Bài 39 - Khách sạn & Giao thông", "tu_vung": "とちゅうで (途中で)", "y_nghia": "Trên đường, giữa chừng"},
-  {"phan_nhom": "Bài 39 - Khách sạn & Giao thông", "tu_vung": "トラック", "y_nghia": "Xe tải"},
-  {"phan_nhom": "Bài 39 - Khách sạn & Giao thông", "tu_vung": "ぶつかります", "y_nghia": "Đâm, va chạm"},
-  {"phan_nhom": "Bài 39 - Văn hóa & Xã hội", "tu_vung": "おとな (大人)", "y_nghia": "Người lớn"},
-  {"phan_nhom": "Bài 39 - Văn hóa & Xã hội", "tu_vung": "しかし", "y_nghia": "Nhưng, tuy nhiên"},
-  {"phan_nhom": "Bài 39 - Văn hóa & Xã hội", "tu_vung": "また", "y_nghia": "Hơn nữa, và, lại"},
-  {"phan_nhom": "Bài 39 - Văn hóa & Xã hội", "tu_vung": "ようふく (洋服)", "y_nghia": "Quần áo kiểu Tây"},
-  {"phan_nhom": "Bài 39 - Văn hóa & Xã hội", "tu_vung": "せいようかします (西洋化します)", "y_nghia": "Âu hóa, Tây phương hóa"},
-  {"phan_nhom": "Bài 39 - Văn hóa & Xã hội", "tu_vung": "あいます (合います)", "y_nghia": "Phù hợp, hợp với"},
-  {"phan_nhom": "Bài 39 - Văn hóa & Xã hội", "tu_vung": "いまでは (今では)", "y_nghia": "Bây giờ, hiện nay"},
-  {"phan_nhom": "Bài 39 - Văn hóa & Xã hội", "tu_vung": "せいじんしき (成人式)", "y_nghia": "Lễ thành nhân"},
-  {"phan_nhom": "Bài 39 - Văn hóa & Xã hội", "tu_vung": "でんとうてき (伝統的)", "y_nghia": "Mang tính truyền thống"}
+  {
+    "phan_nhom": "Bài 39 - Động từ phản ứng",
+    "tu_vung": "こたえる (答えます)",
+    "y_nghia": "Trả lời"
+  },
+  {
+    "phan_nhom": "Bài 39 - Động từ phản ứng",
+    "tu_vung": "たおれる (倒れます)",
+    "y_nghia": "Đổ, sập"
+  },
+  {
+    "phan_nhom": "Bài 39 - Động từ phản ứng",
+    "tu_vung": "とおる (通ります)",
+    "y_nghia": "Đi qua, đi xuyên qua"
+  },
+  {
+    "phan_nhom": "Bài 39 - Động từ phản ứng",
+    "tu_vung": "しぬ (死にます)",
+    "y_nghia": "Chết"
+  },
+  {
+    "phan_nhom": "Bài 39 - Cảm xúc & Quan hệ",
+    "tu_vung": "びっくりする",
+    "y_nghia": "Giật mình, ngạc nhiên"
+  },
+  {
+    "phan_nhom": "Bài 39 - Cảm xúc & Quan hệ",
+    "tu_vung": "がっかりする",
+    "y_nghia": "Thất vọng"
+  },
+  {
+    "phan_nhom": "Bài 39 - Cảm xúc & Quan hệ",
+    "tu_vung": "あんしんする (安心します)",
+    "y_nghia": "Yên tâm"
+  },
+  {
+    "phan_nhom": "Bài 39 - Cảm xúc & Quan hệ",
+    "tu_vung": "けんかする",
+    "y_nghia": "Cãi nhau"
+  },
+  {
+    "phan_nhom": "Bài 39 - Cảm xúc & Quan hệ",
+    "tu_vung": "りこんする (離婚します)",
+    "y_nghia": "Ly hôn"
+  },
+  {
+    "phan_nhom": "Bài 39 - Cơ thể & Tính chất",
+    "tu_vung": "ふとる (太ります)",
+    "y_nghia": "Béo ra, tăng cân"
+  },
+  {
+    "phan_nhom": "Bài 39 - Cơ thể & Tính chất",
+    "tu_vung": "やせる (痩せます)",
+    "y_nghia": "Gầy đi, giảm cân"
+  },
+  {
+    "phan_nhom": "Bài 39 - Cơ thể & Tính chất",
+    "tu_vung": "ふくざつ (複雑)",
+    "y_nghia": "Phức tạp"
+  },
+  {
+    "phan_nhom": "Bài 39 - Cơ thể & Tính chất",
+    "tu_vung": "じゃま (邪魔)",
+    "y_nghia": "Vướng, vướng víu, cản trở"
+  },
+  {
+    "phan_nhom": "Bài 39 - Cơ thể & Tính chất",
+    "tu_vung": "かたい (硬い)",
+    "y_nghia": "Cứng"
+  },
+  {
+    "phan_nhom": "Bài 39 - Cơ thể & Tính chất",
+    "tu_vung": "やわらかい (軟らかい)",
+    "y_nghia": "Mềm"
+  },
+  {
+    "phan_nhom": "Bài 39 - Cơ thể & Tính chất",
+    "tu_vung": "きたない (汚い)",
+    "y_nghia": "Bẩn"
+  },
+  {
+    "phan_nhom": "Bài 39 - Cảm xúc",
+    "tu_vung": "うれしい",
+    "y_nghia": "Vui"
+  },
+  {
+    "phan_nhom": "Bài 39 - Cảm xúc",
+    "tu_vung": "かなしい (悲しい)",
+    "y_nghia": "Buồn"
+  },
+  {
+    "phan_nhom": "Bài 39 - Cảm xúc",
+    "tu_vung": "はずかしい (恥ずかしい)",
+    "y_nghia": "Xấu hổ, ngượng"
+  },
+  {
+    "phan_nhom": "Bài 39 - Thiên tai & Sự cố",
+    "tu_vung": "しゅしょう (首相)",
+    "y_nghia": "Thủ tướng"
+  },
+  {
+    "phan_nhom": "Bài 39 - Thiên tai & Sự cố",
+    "tu_vung": "じしん (地震)",
+    "y_nghia": "Động đất"
+  },
+  {
+    "phan_nhom": "Bài 39 - Thiên tai & Sự cố",
+    "tu_vung": "つなみ (津波)",
+    "y_nghia": "Sóng thần"
+  },
+  {
+    "phan_nhom": "Bài 39 - Thiên tai & Sự cố",
+    "tu_vung": "たいふう (台風)",
+    "y_nghia": "Bão"
+  },
+  {
+    "phan_nhom": "Bài 39 - Thiên tai & Sự cố",
+    "tu_vung": "かみなり (雷)",
+    "y_nghia": "Sấm"
+  },
+  {
+    "phan_nhom": "Bài 39 - Thiên tai & Sự cố",
+    "tu_vung": "かじ (火事)",
+    "y_nghia": "Hỏa hoạn"
+  },
+  {
+    "phan_nhom": "Bài 39 - Thiên tai & Sự cố",
+    "tu_vung": "じこ (事故)",
+    "y_nghia": "Tai nạn, sự cố"
+  },
+  {
+    "phan_nhom": "Bài 39 - Sự kiện & Dịch vụ",
+    "tu_vung": "バイキング",
+    "y_nghia": "Buffet, tiệc tự chọn"
+  },
+  {
+    "phan_nhom": "Bài 39 - Sự kiện & Dịch vụ",
+    "tu_vung": "おみあい / みあい (お見合い / 見合い)",
+    "y_nghia": "Xem mặt để kết hôn"
+  },
+  {
+    "phan_nhom": "Bài 39 - Sự kiện & Dịch vụ",
+    "tu_vung": "そうさ (操作)",
+    "y_nghia": "Thao tác"
+  },
+  {
+    "phan_nhom": "Bài 39 - Sự kiện & Dịch vụ",
+    "tu_vung": "かいじょう (会場)",
+    "y_nghia": "Hội trường, địa điểm tổ chức"
+  },
+  {
+    "phan_nhom": "Bài 39 - Sự kiện & Dịch vụ",
+    "tu_vung": "～だい (～代)",
+    "y_nghia": "Phí..., tiền..."
+  },
+  {
+    "phan_nhom": "Bài 39 - Sự kiện & Dịch vụ",
+    "tu_vung": "～や (～屋)",
+    "y_nghia": "Cửa hàng..., người bán..."
+  },
+  {
+    "phan_nhom": "Bài 39 - Khách sạn & Giao thông",
+    "tu_vung": "フロント",
+    "y_nghia": "Lễ tân"
+  },
+  {
+    "phan_nhom": "Bài 39 - Khách sạn & Giao thông",
+    "tu_vung": "～ごうしつ (～号室)",
+    "y_nghia": "Phòng số..."
+  },
+  {
+    "phan_nhom": "Bài 39 - Khách sạn & Giao thông",
+    "tu_vung": "タオル",
+    "y_nghia": "Khăn tắm"
+  },
+  {
+    "phan_nhom": "Bài 39 - Khách sạn & Giao thông",
+    "tu_vung": "せっけん",
+    "y_nghia": "Xà phòng"
+  },
+  {
+    "phan_nhom": "Bài 39 - Khách sạn & Giao thông",
+    "tu_vung": "おおぜい (大勢)",
+    "y_nghia": "Nhiều người"
+  },
+  {
+    "phan_nhom": "Bài 39 - Khách sạn & Giao thông",
+    "tu_vung": "おつかれさまでした (お疲れさまでした)",
+    "y_nghia": "Anh/chị đã vất vả rồi"
+  },
+  {
+    "phan_nhom": "Bài 39 - Khách sạn & Giao thông",
+    "tu_vung": "うかがう (伺います)",
+    "y_nghia": "Tôi sẽ đến"
+  },
+  {
+    "phan_nhom": "Bài 39 - Khách sạn & Giao thông",
+    "tu_vung": "とちゅうで (途中で)",
+    "y_nghia": "Trên đường, giữa chừng"
+  },
+  {
+    "phan_nhom": "Bài 39 - Khách sạn & Giao thông",
+    "tu_vung": "トラック",
+    "y_nghia": "Xe tải"
+  },
+  {
+    "phan_nhom": "Bài 39 - Khách sạn & Giao thông",
+    "tu_vung": "ぶつかる",
+    "y_nghia": "Đâm, va chạm"
+  },
+  {
+    "phan_nhom": "Bài 39 - Văn hóa & Xã hội",
+    "tu_vung": "おとな (大人)",
+    "y_nghia": "Người lớn"
+  },
+  {
+    "phan_nhom": "Bài 39 - Văn hóa & Xã hội",
+    "tu_vung": "しかし",
+    "y_nghia": "Nhưng, tuy nhiên"
+  },
+  {
+    "phan_nhom": "Bài 39 - Văn hóa & Xã hội",
+    "tu_vung": "また",
+    "y_nghia": "Hơn nữa, và, lại"
+  },
+  {
+    "phan_nhom": "Bài 39 - Văn hóa & Xã hội",
+    "tu_vung": "ようふく (洋服)",
+    "y_nghia": "Quần áo kiểu Tây"
+  },
+  {
+    "phan_nhom": "Bài 39 - Văn hóa & Xã hội",
+    "tu_vung": "せいようかする (西洋化します)",
+    "y_nghia": "Âu hóa, Tây phương hóa"
+  },
+  {
+    "phan_nhom": "Bài 39 - Văn hóa & Xã hội",
+    "tu_vung": "あう (合います)",
+    "y_nghia": "Phù hợp, hợp với"
+  },
+  {
+    "phan_nhom": "Bài 39 - Văn hóa & Xã hội",
+    "tu_vung": "いまでは (今では)",
+    "y_nghia": "Bây giờ, hiện nay"
+  },
+  {
+    "phan_nhom": "Bài 39 - Văn hóa & Xã hội",
+    "tu_vung": "せいじんしき (成人式)",
+    "y_nghia": "Lễ thành nhân"
+  },
+  {
+    "phan_nhom": "Bài 39 - Văn hóa & Xã hội",
+    "tu_vung": "でんとうてき (伝統的)",
+    "y_nghia": "Mang tính truyền thống"
+  }
 ]

@@ -1,47 +1,227 @@
 [
-  {"phan_nhom": "Bài 44 - Hành động & Trạng thái", "tu_vung": "なきます (泣きます)", "y_nghia": "Khóc"},
-  {"phan_nhom": "Bài 44 - Hành động & Trạng thái", "tu_vung": "わらいます (笑います)", "y_nghia": "Cười"},
-  {"phan_nhom": "Bài 44 - Hành động & Trạng thái", "tu_vung": "ねむります (眠ります)", "y_nghia": "Ngủ"},
-  {"phan_nhom": "Bài 44 - Hành động & Trạng thái", "tu_vung": "かわきます (乾きます)", "y_nghia": "Khô"},
-  {"phan_nhom": "Bài 44 - Hành động & Trạng thái", "tu_vung": "ぬれます (濡れます)", "y_nghia": "Ướt, bị ướt"},
-  {"phan_nhom": "Bài 44 - Hành động & Trạng thái", "tu_vung": "すべります (滑ります)", "y_nghia": "Trượt"},
-  {"phan_nhom": "Bài 44 - Hành động & Trạng thái", "tu_vung": "おきます (起きます)", "y_nghia": "Xảy ra"},
-  {"phan_nhom": "Bài 44 - Hành động & Trạng thái", "tu_vung": "ちょうせつします (調節します)", "y_nghia": "Điều chỉnh"},
-  {"phan_nhom": "Bài 44 - Tính chất", "tu_vung": "あんぜん (安全)", "y_nghia": "An toàn"},
-  {"phan_nhom": "Bài 44 - Tính chất", "tu_vung": "きけん (危険)", "y_nghia": "Nguy hiểm"},
-  {"phan_nhom": "Bài 44 - Tính chất", "tu_vung": "こい (濃い)", "y_nghia": "Đặc, đậm"},
-  {"phan_nhom": "Bài 44 - Tính chất", "tu_vung": "うすい (薄い)", "y_nghia": "Loãng, nhạt, mỏng"},
-  {"phan_nhom": "Bài 44 - Tính chất", "tu_vung": "あつい (厚い)", "y_nghia": "Dày"},
-  {"phan_nhom": "Bài 44 - Tính chất", "tu_vung": "ふとい (太い)", "y_nghia": "Béo, dày, to, mập"},
-  {"phan_nhom": "Bài 44 - Tính chất", "tu_vung": "ほそい (細い)", "y_nghia": "Thon, dài, mảnh"},
-  {"phan_nhom": "Bài 44 - Đời sống & Khách sạn", "tu_vung": "くうき (空気)", "y_nghia": "Không khí"},
-  {"phan_nhom": "Bài 44 - Đời sống & Khách sạn", "tu_vung": "なみだ (涙)", "y_nghia": "Nước mắt"},
-  {"phan_nhom": "Bài 44 - Đời sống & Khách sạn", "tu_vung": "わしょく (和食)", "y_nghia": "Món ăn kiểu Nhật"},
-  {"phan_nhom": "Bài 44 - Đời sống & Khách sạn", "tu_vung": "ようしょく (洋食)", "y_nghia": "Món ăn kiểu Tây"},
-  {"phan_nhom": "Bài 44 - Đời sống & Khách sạn", "tu_vung": "おかず", "y_nghia": "Thức ăn, món ăn kèm"},
-  {"phan_nhom": "Bài 44 - Đời sống & Khách sạn", "tu_vung": "りょう (量)", "y_nghia": "Lượng"},
-  {"phan_nhom": "Bài 44 - Đời sống & Khách sạn", "tu_vung": "～ばい (～倍)", "y_nghia": "Gấp...lần"},
-  {"phan_nhom": "Bài 44 - Đời sống & Khách sạn", "tu_vung": "シングル", "y_nghia": "Phòng đơn"},
-  {"phan_nhom": "Bài 44 - Đời sống & Khách sạn", "tu_vung": "ツイン", "y_nghia": "Phòng đôi"},
-  {"phan_nhom": "Bài 44 - Đời sống & Khách sạn", "tu_vung": "せんたくもの (洗濯物)", "y_nghia": "Quần áo giặt"},
-  {"phan_nhom": "Bài 44 - Đời sống & Khách sạn", "tu_vung": "DVD", "y_nghia": "DVD"},
-  {"phan_nhom": "Bài 44 - Đời sống & Khách sạn", "tu_vung": "ホテルひろしま", "y_nghia": "Khách sạn Hiroshima"},
-  {"phan_nhom": "Bài 44 - Làm tóc", "tu_vung": "どうなさいますか", "y_nghia": "Quý khách muốn làm gì ạ?"},
-  {"phan_nhom": "Bài 44 - Làm tóc", "tu_vung": "カット", "y_nghia": "Cắt tóc"},
-  {"phan_nhom": "Bài 44 - Làm tóc", "tu_vung": "シャンプー", "y_nghia": "Dầu gội, gội đầu"},
-  {"phan_nhom": "Bài 44 - Làm tóc", "tu_vung": "どういうふうになさいますか", "y_nghia": "Quý khách muốn cắt như thế nào ạ?"},
-  {"phan_nhom": "Bài 44 - Làm tóc", "tu_vung": "ショート", "y_nghia": "Kiểu tóc ngắn"},
-  {"phan_nhom": "Bài 44 - Làm tóc", "tu_vung": "～みたいにしてください", "y_nghia": "Hãy làm giống như..."},
-  {"phan_nhom": "Bài 44 - Làm tóc", "tu_vung": "これでよろしいでしょうか", "y_nghia": "Như thế này được chưa ạ?"},
-  {"phan_nhom": "Bài 44 - Làm tóc", "tu_vung": "どうもおつかれさまでした (どうもお疲れさまでした)", "y_nghia": "Xong rồi ạ, cảm ơn quý khách"},
-  {"phan_nhom": "Bài 44 - Biểu hiện & Cách nói", "tu_vung": "いやがります (嫌がります)", "y_nghia": "Ghét, không thích"},
-  {"phan_nhom": "Bài 44 - Biểu hiện & Cách nói", "tu_vung": "また", "y_nghia": "Hơn nữa, lại"},
-  {"phan_nhom": "Bài 44 - Biểu hiện & Cách nói", "tu_vung": "うまく", "y_nghia": "Tốt, giỏi, khéo"},
-  {"phan_nhom": "Bài 44 - Biểu hiện & Cách nói", "tu_vung": "じゅんじょ (順序)", "y_nghia": "Trình tự"},
-  {"phan_nhom": "Bài 44 - Biểu hiện & Cách nói", "tu_vung": "あんしん (安心)", "y_nghia": "Yên tâm"},
-  {"phan_nhom": "Bài 44 - Biểu hiện & Cách nói", "tu_vung": "ひょうげん (表現)", "y_nghia": "Biểu hiện, cách nói"},
-  {"phan_nhom": "Bài 44 - Biểu hiện & Cách nói", "tu_vung": "たとえば (例えば)", "y_nghia": "Ví dụ"},
-  {"phan_nhom": "Bài 44 - Biểu hiện & Cách nói", "tu_vung": "わかれます (別れます)", "y_nghia": "Chia tay"},
-  {"phan_nhom": "Bài 44 - Biểu hiện & Cách nói", "tu_vung": "これら", "y_nghia": "Những từ này, những thứ này"},
-  {"phan_nhom": "Bài 44 - Biểu hiện & Cách nói", "tu_vung": "えんぎがわるい (縁起が悪い)", "y_nghia": "Xui, không may"}
+  {
+    "phan_nhom": "Bài 44 - Hành động & Trạng thái",
+    "tu_vung": "なく (泣きます)",
+    "y_nghia": "Khóc"
+  },
+  {
+    "phan_nhom": "Bài 44 - Hành động & Trạng thái",
+    "tu_vung": "わらう (笑います)",
+    "y_nghia": "Cười"
+  },
+  {
+    "phan_nhom": "Bài 44 - Hành động & Trạng thái",
+    "tu_vung": "ねむる (眠ります)",
+    "y_nghia": "Ngủ"
+  },
+  {
+    "phan_nhom": "Bài 44 - Hành động & Trạng thái",
+    "tu_vung": "かわく (乾きます)",
+    "y_nghia": "Khô"
+  },
+  {
+    "phan_nhom": "Bài 44 - Hành động & Trạng thái",
+    "tu_vung": "ぬれる (濡れます)",
+    "y_nghia": "Ướt, bị ướt"
+  },
+  {
+    "phan_nhom": "Bài 44 - Hành động & Trạng thái",
+    "tu_vung": "すべる (滑ります)",
+    "y_nghia": "Trượt"
+  },
+  {
+    "phan_nhom": "Bài 44 - Hành động & Trạng thái",
+    "tu_vung": "おきる (起きます)",
+    "y_nghia": "Xảy ra"
+  },
+  {
+    "phan_nhom": "Bài 44 - Hành động & Trạng thái",
+    "tu_vung": "ちょうせつする (調節します)",
+    "y_nghia": "Điều chỉnh"
+  },
+  {
+    "phan_nhom": "Bài 44 - Tính chất",
+    "tu_vung": "あんぜん (安全)",
+    "y_nghia": "An toàn"
+  },
+  {
+    "phan_nhom": "Bài 44 - Tính chất",
+    "tu_vung": "きけん (危険)",
+    "y_nghia": "Nguy hiểm"
+  },
+  {
+    "phan_nhom": "Bài 44 - Tính chất",
+    "tu_vung": "こい (濃い)",
+    "y_nghia": "Đặc, đậm"
+  },
+  {
+    "phan_nhom": "Bài 44 - Tính chất",
+    "tu_vung": "うすい (薄い)",
+    "y_nghia": "Loãng, nhạt, mỏng"
+  },
+  {
+    "phan_nhom": "Bài 44 - Tính chất",
+    "tu_vung": "あつい (厚い)",
+    "y_nghia": "Dày"
+  },
+  {
+    "phan_nhom": "Bài 44 - Tính chất",
+    "tu_vung": "ふとい (太い)",
+    "y_nghia": "Béo, dày, to, mập"
+  },
+  {
+    "phan_nhom": "Bài 44 - Tính chất",
+    "tu_vung": "ほそい (細い)",
+    "y_nghia": "Thon, dài, mảnh"
+  },
+  {
+    "phan_nhom": "Bài 44 - Đời sống & Khách sạn",
+    "tu_vung": "くうき (空気)",
+    "y_nghia": "Không khí"
+  },
+  {
+    "phan_nhom": "Bài 44 - Đời sống & Khách sạn",
+    "tu_vung": "なみだ (涙)",
+    "y_nghia": "Nước mắt"
+  },
+  {
+    "phan_nhom": "Bài 44 - Đời sống & Khách sạn",
+    "tu_vung": "わしょく (和食)",
+    "y_nghia": "Món ăn kiểu Nhật"
+  },
+  {
+    "phan_nhom": "Bài 44 - Đời sống & Khách sạn",
+    "tu_vung": "ようしょく (洋食)",
+    "y_nghia": "Món ăn kiểu Tây"
+  },
+  {
+    "phan_nhom": "Bài 44 - Đời sống & Khách sạn",
+    "tu_vung": "おかず",
+    "y_nghia": "Thức ăn, món ăn kèm"
+  },
+  {
+    "phan_nhom": "Bài 44 - Đời sống & Khách sạn",
+    "tu_vung": "りょう (量)",
+    "y_nghia": "Lượng"
+  },
+  {
+    "phan_nhom": "Bài 44 - Đời sống & Khách sạn",
+    "tu_vung": "～ばい (～倍)",
+    "y_nghia": "Gấp...lần"
+  },
+  {
+    "phan_nhom": "Bài 44 - Đời sống & Khách sạn",
+    "tu_vung": "シングル",
+    "y_nghia": "Phòng đơn"
+  },
+  {
+    "phan_nhom": "Bài 44 - Đời sống & Khách sạn",
+    "tu_vung": "ツイン",
+    "y_nghia": "Phòng đôi"
+  },
+  {
+    "phan_nhom": "Bài 44 - Đời sống & Khách sạn",
+    "tu_vung": "せんたくもの (洗濯物)",
+    "y_nghia": "Quần áo giặt"
+  },
+  {
+    "phan_nhom": "Bài 44 - Đời sống & Khách sạn",
+    "tu_vung": "DVD",
+    "y_nghia": "DVD"
+  },
+  {
+    "phan_nhom": "Bài 44 - Đời sống & Khách sạn",
+    "tu_vung": "ホテルひろしま",
+    "y_nghia": "Khách sạn Hiroshima"
+  },
+  {
+    "phan_nhom": "Bài 44 - Làm tóc",
+    "tu_vung": "どうなさいますか",
+    "y_nghia": "Quý khách muốn làm gì ạ?"
+  },
+  {
+    "phan_nhom": "Bài 44 - Làm tóc",
+    "tu_vung": "カット",
+    "y_nghia": "Cắt tóc"
+  },
+  {
+    "phan_nhom": "Bài 44 - Làm tóc",
+    "tu_vung": "シャンプー",
+    "y_nghia": "Dầu gội, gội đầu"
+  },
+  {
+    "phan_nhom": "Bài 44 - Làm tóc",
+    "tu_vung": "どういうふうになさいますか",
+    "y_nghia": "Quý khách muốn cắt như thế nào ạ?"
+  },
+  {
+    "phan_nhom": "Bài 44 - Làm tóc",
+    "tu_vung": "ショート",
+    "y_nghia": "Kiểu tóc ngắn"
+  },
+  {
+    "phan_nhom": "Bài 44 - Làm tóc",
+    "tu_vung": "～みたいにしてください",
+    "y_nghia": "Hãy làm giống như..."
+  },
+  {
+    "phan_nhom": "Bài 44 - Làm tóc",
+    "tu_vung": "これでよろしいでしょうか",
+    "y_nghia": "Như thế này được chưa ạ?"
+  },
+  {
+    "phan_nhom": "Bài 44 - Làm tóc",
+    "tu_vung": "どうもおつかれさまでした (どうもお疲れさまでした)",
+    "y_nghia": "Xong rồi ạ, cảm ơn quý khách"
+  },
+  {
+    "phan_nhom": "Bài 44 - Biểu hiện & Cách nói",
+    "tu_vung": "いやがる (嫌がります)",
+    "y_nghia": "Ghét, không thích"
+  },
+  {
+    "phan_nhom": "Bài 44 - Biểu hiện & Cách nói",
+    "tu_vung": "また",
+    "y_nghia": "Hơn nữa, lại"
+  },
+  {
+    "phan_nhom": "Bài 44 - Biểu hiện & Cách nói",
+    "tu_vung": "うまく",
+    "y_nghia": "Tốt, giỏi, khéo"
+  },
+  {
+    "phan_nhom": "Bài 44 - Biểu hiện & Cách nói",
+    "tu_vung": "じゅんじょ (順序)",
+    "y_nghia": "Trình tự"
+  },
+  {
+    "phan_nhom": "Bài 44 - Biểu hiện & Cách nói",
+    "tu_vung": "あんしん (安心)",
+    "y_nghia": "Yên tâm"
+  },
+  {
+    "phan_nhom": "Bài 44 - Biểu hiện & Cách nói",
+    "tu_vung": "ひょうげん (表現)",
+    "y_nghia": "Biểu hiện, cách nói"
+  },
+  {
+    "phan_nhom": "Bài 44 - Biểu hiện & Cách nói",
+    "tu_vung": "たとえば (例えば)",
+    "y_nghia": "Ví dụ"
+  },
+  {
+    "phan_nhom": "Bài 44 - Biểu hiện & Cách nói",
+    "tu_vung": "わかれる (別れます)",
+    "y_nghia": "Chia tay"
+  },
+  {
+    "phan_nhom": "Bài 44 - Biểu hiện & Cách nói",
+    "tu_vung": "これら",
+    "y_nghia": "Những từ này, những thứ này"
+  },
+  {
+    "phan_nhom": "Bài 44 - Biểu hiện & Cách nói",
+    "tu_vung": "えんぎがわるい (縁起が悪い)",
+    "y_nghia": "Xui, không may"
+  }
 ]

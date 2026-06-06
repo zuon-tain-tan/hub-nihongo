@@ -1,5 +1,6 @@
 import re
 import sys
+import unicodedata
 from datetime import datetime
 
 from config import ASSETS_DIR, DATA_DIR, OUTPUT_DIR
@@ -42,8 +43,6 @@ def ask_main_feature():
 
 
 def ask_export_options():
-    valid_options = {"1", "2", "3", "4", "5", "6", "7"}
-    all_options = ["1", "2", "3", "4", "5", "6", "7"]
     print("Chọn phần muốn tạo trong sổ tay:")
     print("1. 5S-K-C")
     print("2. HORENSO")
@@ -61,19 +60,33 @@ def ask_export_options():
     )
 
     while True:
-        raw = input("Nhập lựa chọn: ").strip().lower()
-        if raw in {"", "all", "a", "tat ca", "tất cả"}:
-            return all_options
-
-        choices = []
-        for part in [part for part in re.split(r"[\s,;]+", raw) if part]:
-            if part not in choices:
-                choices.append(part)
-
-        if choices and set(choices).issubset(valid_options):
+        raw = input("Nhập lựa chọn: ")
+        choices = parse_export_options(raw)
+        if choices:
             return choices
 
         print("Lựa chọn không hợp lệ. Ví dụ đúng: 1,2 hoặc 1 3 hoặc 2,4,3,5 hoặc all.")
+
+
+def parse_export_options(raw):
+    valid_options = {"1", "2", "3", "4", "5", "6", "7"}
+    all_options = ["1", "2", "3", "4", "5", "6", "7"]
+    all_keywords = {"", "all", "a", "tat ca", "tất cả"}
+
+    normalized = unicodedata.normalize("NFKC", raw or "").strip().lower()
+    if normalized in all_keywords:
+        return all_options
+
+    normalized = normalized.replace("、", ",")
+    parts = [part for part in re.split(r"[\s,;]+", normalized) if part]
+    choices = []
+    for part in parts:
+        if part not in valid_options:
+            return None
+        if part not in choices:
+            choices.append(part)
+
+    return choices or None
 
 
 def get_display_date():

@@ -1,27 +1,127 @@
 [
-  {"phan_nhom": "Bài 43 - Tăng giảm & Thay đổi", "tu_vung": "ふえます (増えます)", "y_nghia": "Tăng"},
-  {"phan_nhom": "Bài 43 - Tăng giảm & Thay đổi", "tu_vung": "へります (減ります)", "y_nghia": "Giảm"},
-  {"phan_nhom": "Bài 43 - Tăng giảm & Thay đổi", "tu_vung": "あがります (上がります)", "y_nghia": "Tăng, lên"},
-  {"phan_nhom": "Bài 43 - Tăng giảm & Thay đổi", "tu_vung": "さがります (下がります)", "y_nghia": "Giảm, xuống"},
-  {"phan_nhom": "Bài 43 - Tăng giảm & Thay đổi", "tu_vung": "きれます (切れます)", "y_nghia": "Bị đứt"},
-  {"phan_nhom": "Bài 43 - Tăng giảm & Thay đổi", "tu_vung": "とれます", "y_nghia": "Bị rơi ra, bị tuột"},
-  {"phan_nhom": "Bài 43 - Tăng giảm & Thay đổi", "tu_vung": "おちます (落ちます)", "y_nghia": "Bị rơi"},
-  {"phan_nhom": "Bài 43 - Tăng giảm & Thay đổi", "tu_vung": "なくなります", "y_nghia": "Hết, mất"},
-  {"phan_nhom": "Bài 43 - Tính chất & Cảm nhận", "tu_vung": "へん (変)", "y_nghia": "Lạ"},
-  {"phan_nhom": "Bài 43 - Tính chất & Cảm nhận", "tu_vung": "しあわせ (幸せ)", "y_nghia": "Hạnh phúc"},
-  {"phan_nhom": "Bài 43 - Tính chất & Cảm nhận", "tu_vung": "らく (楽)", "y_nghia": "Nhàn, nhàn nhã, thoải mái"},
-  {"phan_nhom": "Bài 43 - Tính chất & Cảm nhận", "tu_vung": "うまい", "y_nghia": "Ngon, giỏi"},
-  {"phan_nhom": "Bài 43 - Tính chất & Cảm nhận", "tu_vung": "まずい", "y_nghia": "Dở, không ngon"},
-  {"phan_nhom": "Bài 43 - Tính chất & Cảm nhận", "tu_vung": "つまらない", "y_nghia": "Chán, không hay; không đáng kể"},
-  {"phan_nhom": "Bài 43 - Tính chất & Cảm nhận", "tu_vung": "やさしい (優しい)", "y_nghia": "Hiền lành, dịu dàng"},
-  {"phan_nhom": "Bài 43 - Đồ vật & Cách nói", "tu_vung": "ガソリン", "y_nghia": "Xăng"},
-  {"phan_nhom": "Bài 43 - Đồ vật & Cách nói", "tu_vung": "ひ (火)", "y_nghia": "Lửa"},
-  {"phan_nhom": "Bài 43 - Đồ vật & Cách nói", "tu_vung": "パンフレット", "y_nghia": "Tờ rơi quảng cáo, tập giới thiệu"},
-  {"phan_nhom": "Bài 43 - Đồ vật & Cách nói", "tu_vung": "いまにも (今にも)", "y_nghia": "Ngay bây giờ, bất cứ lúc nào"},
-  {"phan_nhom": "Bài 43 - Đồ vật & Cách nói", "tu_vung": "わあ", "y_nghia": "Ôi!"},
-  {"phan_nhom": "Bài 43 - Đời sống & Quan hệ", "tu_vung": "ばら", "y_nghia": "Hoa hồng"},
-  {"phan_nhom": "Bài 43 - Đời sống & Quan hệ", "tu_vung": "ドライブ", "y_nghia": "Lái xe đi chơi"},
-  {"phan_nhom": "Bài 43 - Đời sống & Quan hệ", "tu_vung": "りゆう (理由)", "y_nghia": "Lý do"},
-  {"phan_nhom": "Bài 43 - Đời sống & Quan hệ", "tu_vung": "あやまります (謝ります)", "y_nghia": "Xin lỗi"},
-  {"phan_nhom": "Bài 43 - Đời sống & Quan hệ", "tu_vung": "しりあいます (知り合います)", "y_nghia": "Quen biết"}
+  {
+    "phan_nhom": "Bài 43 - Tăng giảm & Thay đổi",
+    "tu_vung": "ふえる (増えます)",
+    "y_nghia": "Tăng"
+  },
+  {
+    "phan_nhom": "Bài 43 - Tăng giảm & Thay đổi",
+    "tu_vung": "へる (減ります)",
+    "y_nghia": "Giảm"
+  },
+  {
+    "phan_nhom": "Bài 43 - Tăng giảm & Thay đổi",
+    "tu_vung": "あがる (上がります)",
+    "y_nghia": "Tăng, lên"
+  },
+  {
+    "phan_nhom": "Bài 43 - Tăng giảm & Thay đổi",
+    "tu_vung": "さがる (下がります)",
+    "y_nghia": "Giảm, xuống"
+  },
+  {
+    "phan_nhom": "Bài 43 - Tăng giảm & Thay đổi",
+    "tu_vung": "きれる (切れます)",
+    "y_nghia": "Bị đứt"
+  },
+  {
+    "phan_nhom": "Bài 43 - Tăng giảm & Thay đổi",
+    "tu_vung": "とれる",
+    "y_nghia": "Bị rơi ra, bị tuột"
+  },
+  {
+    "phan_nhom": "Bài 43 - Tăng giảm & Thay đổi",
+    "tu_vung": "おちる (落ちます)",
+    "y_nghia": "Bị rơi"
+  },
+  {
+    "phan_nhom": "Bài 43 - Tăng giảm & Thay đổi",
+    "tu_vung": "なくなる",
+    "y_nghia": "Hết, mất"
+  },
+  {
+    "phan_nhom": "Bài 43 - Tính chất & Cảm nhận",
+    "tu_vung": "へん (変)",
+    "y_nghia": "Lạ"
+  },
+  {
+    "phan_nhom": "Bài 43 - Tính chất & Cảm nhận",
+    "tu_vung": "しあわせ (幸せ)",
+    "y_nghia": "Hạnh phúc"
+  },
+  {
+    "phan_nhom": "Bài 43 - Tính chất & Cảm nhận",
+    "tu_vung": "らく (楽)",
+    "y_nghia": "Nhàn, nhàn nhã, thoải mái"
+  },
+  {
+    "phan_nhom": "Bài 43 - Tính chất & Cảm nhận",
+    "tu_vung": "うまい",
+    "y_nghia": "Ngon, giỏi"
+  },
+  {
+    "phan_nhom": "Bài 43 - Tính chất & Cảm nhận",
+    "tu_vung": "まずい",
+    "y_nghia": "Dở, không ngon"
+  },
+  {
+    "phan_nhom": "Bài 43 - Tính chất & Cảm nhận",
+    "tu_vung": "つまらない",
+    "y_nghia": "Chán, không hay; không đáng kể"
+  },
+  {
+    "phan_nhom": "Bài 43 - Tính chất & Cảm nhận",
+    "tu_vung": "やさしい (優しい)",
+    "y_nghia": "Hiền lành, dịu dàng"
+  },
+  {
+    "phan_nhom": "Bài 43 - Đồ vật & Cách nói",
+    "tu_vung": "ガソリン",
+    "y_nghia": "Xăng"
+  },
+  {
+    "phan_nhom": "Bài 43 - Đồ vật & Cách nói",
+    "tu_vung": "ひ (火)",
+    "y_nghia": "Lửa"
+  },
+  {
+    "phan_nhom": "Bài 43 - Đồ vật & Cách nói",
+    "tu_vung": "パンフレット",
+    "y_nghia": "Tờ rơi quảng cáo, tập giới thiệu"
+  },
+  {
+    "phan_nhom": "Bài 43 - Đồ vật & Cách nói",
+    "tu_vung": "いまにも (今にも)",
+    "y_nghia": "Ngay bây giờ, bất cứ lúc nào"
+  },
+  {
+    "phan_nhom": "Bài 43 - Đồ vật & Cách nói",
+    "tu_vung": "わあ",
+    "y_nghia": "Ôi!"
+  },
+  {
+    "phan_nhom": "Bài 43 - Đời sống & Quan hệ",
+    "tu_vung": "ばら",
+    "y_nghia": "Hoa hồng"
+  },
+  {
+    "phan_nhom": "Bài 43 - Đời sống & Quan hệ",
+    "tu_vung": "ドライブ",
+    "y_nghia": "Lái xe đi chơi"
+  },
+  {
+    "phan_nhom": "Bài 43 - Đời sống & Quan hệ",
+    "tu_vung": "りゆう (理由)",
+    "y_nghia": "Lý do"
+  },
+  {
+    "phan_nhom": "Bài 43 - Đời sống & Quan hệ",
+    "tu_vung": "あやまる (謝ります)",
+    "y_nghia": "Xin lỗi"
+  },
+  {
+    "phan_nhom": "Bài 43 - Đời sống & Quan hệ",
+    "tu_vung": "しりあう (知り合います)",
+    "y_nghia": "Quen biết"
+  }
 ]

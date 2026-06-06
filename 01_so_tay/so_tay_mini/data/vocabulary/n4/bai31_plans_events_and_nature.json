@@ -1,37 +1,37 @@
 [
   {
     "phan_nhom": "Bài 31 - Sự kiện & Học tập",
-    "tu_vung": "はじまります (始まります)",
+    "tu_vung": "はじまる (始まります)",
     "y_nghia": "Bắt đầu"
   },
   {
     "phan_nhom": "Bài 31 - Sự kiện & Học tập",
-    "tu_vung": "つづけます (続けます)",
+    "tu_vung": "つづける (続けます)",
     "y_nghia": "Tiếp tục"
   },
   {
     "phan_nhom": "Bài 31 - Sự kiện & Học tập",
-    "tu_vung": "みつけます (見つけます)",
+    "tu_vung": "みつける (見つけます)",
     "y_nghia": "Tìm thấy"
   },
   {
     "phan_nhom": "Bài 31 - Sự kiện & Học tập",
-    "tu_vung": "うけます (受けます)",
+    "tu_vung": "うける (受けます)",
     "y_nghia": "Thi, tham dự kỳ thi"
   },
   {
     "phan_nhom": "Bài 31 - Sự kiện & Học tập",
-    "tu_vung": "にゅうがくします (入学します)",
+    "tu_vung": "にゅうがくする (入学します)",
     "y_nghia": "Nhập học"
   },
   {
     "phan_nhom": "Bài 31 - Sự kiện & Học tập",
-    "tu_vung": "そつぎょうします (卒業します)",
+    "tu_vung": "そつぎょうする (卒業します)",
     "y_nghia": "Tốt nghiệp"
   },
   {
     "phan_nhom": "Bài 31 - Sự kiện & Học tập",
-    "tu_vung": "きゅうけいします (休憩します)",
+    "tu_vung": "きゅうけいする (休憩します)",
     "y_nghia": "Nghỉ giải lao"
   },
   {
@@ -116,7 +116,7 @@
   },
   {
     "phan_nhom": "Bài 31 - Cách nói & Thời lượng",
-    "tu_vung": "のこります (残ります)",
+    "tu_vung": "のこる (残ります)",
     "y_nghia": "Ở lại, còn lại"
   },
   {
@@ -156,7 +156,7 @@
   },
   {
     "phan_nhom": "Bài 31 - Thiên nhiên & Thế giới",
-    "tu_vung": "とじます (閉じます)",
+    "tu_vung": "とじる (閉じます)",
     "y_nghia": "Nhắm, đóng"
   },
   {
@@ -181,7 +181,7 @@
   },
   {
     "phan_nhom": "Bài 31 - Thiên nhiên & Thế giới",
-    "tu_vung": "あつまります (集まります)",
+    "tu_vung": "あつまる (集まります)",
     "y_nghia": "Tập hợp, tụ họp"
   },
   {
@@ -201,7 +201,7 @@
   },
   {
     "phan_nhom": "Bài 31 - Thiên nhiên & Thế giới",
-    "tu_vung": "きがつきます (気が付きます)",
+    "tu_vung": "きがつく (気が付きます)",
     "y_nghia": "Để ý, nhận ra"
   }
 ]

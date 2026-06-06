@@ -138,7 +138,7 @@
   },
   {
     "tieu_de_tieng_viet": "6. Trước khi về nước",
-    "ngat_trang_truoc": false,
+    "ngat_trang_truoc": true,
     "noi_dung": [
       {
         "jp": "たいへんおせわになりました。",
