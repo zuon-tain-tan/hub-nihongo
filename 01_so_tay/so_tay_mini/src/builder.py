@@ -7,10 +7,13 @@ from config import ASSETS_DIR, DATA_DIR, OUTPUT_DIR
 from data_loader import load_5s_data, load_special_topics, load_vocabulary_data
 from export import merge_pdfs, prepare_cover_pdf, update_docx_fields_and_export_pdf
 from formatting import setup_document
+from image_vocabulary_builder import build_image_vocabulary_document
 from kanji_builder import build_kanji_document
+from kaiwa_builder import build_kaiwa_before_departure_document
 from sections import (
     add_5s_section,
     add_aisatsu_section,
+    add_completion_image_page,
     add_garbage_section,
     add_grouped_vocabulary,
     add_horenso_section,
@@ -33,13 +36,19 @@ def ask_main_feature():
     print("Chọn tính năng muốn tạo:")
     print("1. Soạn Kanji")
     print("2. Soạn sổ tay")
+    print("3. Kaiwa trước xuất cảnh")
+    print("4. Hình ảnh từ vựng")
     while True:
         raw = input("Nhập lựa chọn: ").strip().lower()
         if raw in {"", "2", "so tay", "sổ tay"}:
             return "2"
         if raw in {"1", "kanji", "soan kanji", "soạn kanji"}:
             return "1"
-        print("Lựa chọn không hợp lệ. Vui lòng nhập 1 hoặc 2.")
+        if raw in {"3", "kaiwa", "kaiwa truoc xuat canh", "kaiwa trước xuất cảnh"}:
+            return "3"
+        if raw in {"4", "hinh anh tu vung", "hình ảnh từ vựng"}:
+            return "4"
+        print("Lựa chọn không hợp lệ. Vui lòng nhập 1, 2, 3 hoặc 4.")
 
 
 def ask_export_options():
@@ -129,6 +138,8 @@ def build_document():
 
     qr_path = ASSETS_DIR / "images" / "qr" / "so_tay_a5_online_qr.png"
     add_section_with_break(doc, add_online_version_page, qr_path, display_date)
+    completion_image_path = ASSETS_DIR / "images" / "notebook" / "hoan_thanh_so_tay.png"
+    add_section_with_break(doc, add_completion_image_page, completion_image_path)
 
     docx_path = docx_dir / "so_tay_a5_content.docx"
     content_pdf_path = pdf_dir / "so_tay_a5_content.pdf"
@@ -153,5 +164,9 @@ def main():
     feature = ask_main_feature()
     if feature == "1":
         build_kanji_document()
+    elif feature == "3":
+        build_kaiwa_before_departure_document()
+    elif feature == "4":
+        build_image_vocabulary_document()
     else:
         build_document()

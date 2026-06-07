@@ -1,0 +1,70 @@
+{
+  "lesson": 48,
+  "source_url": "https://langoal.com/vocbs/lesson-48",
+  "image_dir": "assets/images/vocabulary/lesson_48",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「下ろします」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l48-1.png",
+      "image_file": "assets/images/vocabulary/lesson_48/lesson_48_01.png",
+      "reading": "おろします"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「届けます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l48-2.png",
+      "image_file": "assets/images/vocabulary/lesson_48/lesson_48_02.png",
+      "reading": "とどける"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「世話をします」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l48-3.png",
+      "image_file": "assets/images/vocabulary/lesson_48/lesson_48_03.png",
+      "reading": "せわをする"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「嫌［な］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l48-4.png",
+      "image_file": "assets/images/vocabulary/lesson_48/lesson_48_04.png",
+      "reading": "いや"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「厳しい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l48-5.png",
+      "image_file": "assets/images/vocabulary/lesson_48/lesson_48_05.png",
+      "reading": "きびしい"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「塾」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l48-6.png",
+      "image_file": "assets/images/vocabulary/lesson_48/lesson_48_06.png",
+      "reading": "じゅく"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「スケジュール」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l48-7.png",
+      "image_file": "assets/images/vocabulary/lesson_48/lesson_48_07.png",
+      "reading": "スケジュール"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「生徒」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l48-8.png",
+      "image_file": "assets/images/vocabulary/lesson_48/lesson_48_08.png",
+      "reading": "せいと"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「久しぶり」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l48-9.png",
+      "image_file": "assets/images/vocabulary/lesson_48/lesson_48_09.png",
+      "reading": "ひさしぶり"
+    }
+  ]
+}

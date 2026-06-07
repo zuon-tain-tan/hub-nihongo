@@ -1,0 +1,63 @@
+{
+  "lesson": 25,
+  "source_url": "https://langoal.com/vocbs/lesson-25",
+  "image_dir": "assets/images/vocabulary/lesson_25",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「考えます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l25-1.png",
+      "image_file": "assets/images/vocabulary/lesson_25/lesson_25_01.png",
+      "reading": "かんがえる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「着きます［駅に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l25-2.png",
+      "image_file": "assets/images/vocabulary/lesson_25/lesson_25_02.png",
+      "reading": "つく"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「留学します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l25-3.png",
+      "image_file": "assets/images/vocabulary/lesson_25/lesson_25_03.png",
+      "reading": "りゅうがくする"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「取ります［年を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l25-4.png",
+      "image_file": "assets/images/vocabulary/lesson_25/lesson_25_04.png",
+      "reading": "とる"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「田舎」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l25-5.png",
+      "image_file": "assets/images/vocabulary/lesson_25/lesson_25_05.png",
+      "reading": "いなか"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「大使館」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l25-6.png",
+      "image_file": "assets/images/vocabulary/lesson_25/lesson_25_06.png",
+      "reading": "たいしかん"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「転勤」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l25-7.png",
+      "image_file": "assets/images/vocabulary/lesson_25/lesson_25_07.png",
+      "reading": "てんきん"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「頑張ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l25-8.png",
+      "image_file": "assets/images/vocabulary/lesson_25/lesson_25_08.png",
+      "reading": "がんばる"
+    }
+  ]
+}

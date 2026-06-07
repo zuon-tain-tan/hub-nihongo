@@ -1,0 +1,231 @@
+{
+  "lesson": 7,
+  "source_url": "https://langoal.com/vocbs/lesson-7",
+  "image_dir": "assets/images/vocabulary/lesson_07",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「切ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-1.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_01.png",
+      "reading": "きる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「送ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-2.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_02.png",
+      "reading": "おくる"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「あげます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-3.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_03.png",
+      "reading": "あげます"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「もらいます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-4.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_04.png",
+      "reading": "もらいます"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「貸します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-5.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_05.png",
+      "reading": "かします"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「借ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-6.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_06.png",
+      "reading": "かります"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「教えます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-7.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_07.png",
+      "reading": "おしえる"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「習います」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-8.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_08.png",
+      "reading": "ならう"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「かけます［電話を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-9.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_09.png",
+      "reading": "かけます"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「手」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-10.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_10.png",
+      "reading": "て"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「はし」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-11.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_11.png",
+      "reading": "はし"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「スプーン」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-12.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_12.png",
+      "reading": "スプーン"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「ナイフ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-13.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_13.png",
+      "reading": "ナイフ"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「フォーク」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-14.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_14.png",
+      "reading": "フォーク"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「はさみ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-15.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_15.png",
+      "reading": "はさみ"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「パンチ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-17.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_17.png",
+      "reading": "パンチ"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「ホッチキス」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-18.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_18.png",
+      "reading": "ホッチキス"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「セロテープ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-19.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_19.png",
+      "reading": "セロテープ"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「消しゴム」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-20.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_20.png",
+      "reading": "けしゴム"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「花」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-21.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_21.png",
+      "reading": "はな"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「シャツ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-22.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_22.png",
+      "reading": "シャツ"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「プレゼント」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-23.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_23.png",
+      "reading": "プレゼント"
+    },
+    {
+      "index": 24,
+      "vocabulary": "「荷物」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-24.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_24.png",
+      "reading": "にもつ"
+    },
+    {
+      "index": 25,
+      "vocabulary": "「お金」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-25.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_25.png",
+      "reading": "おかね"
+    },
+    {
+      "index": 26,
+      "vocabulary": "「切符」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-26.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_26.png",
+      "reading": "きっぷ"
+    },
+    {
+      "index": 27,
+      "vocabulary": "「クリスマス」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-27.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_27.png",
+      "reading": "クリスマス"
+    },
+    {
+      "index": 28,
+      "vocabulary": "「父」「お父さん」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-28.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_28.png",
+      "reading": "ちち / おとうさん"
+    },
+    {
+      "index": 29,
+      "vocabulary": "「母」「お母さん」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-29.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_29.png",
+      "reading": "はは / おかあさん"
+    },
+    {
+      "index": 30,
+      "vocabulary": "「いただきます。」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-30.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_30.png",
+      "reading": "いただきます。"
+    },
+    {
+      "index": 31,
+      "vocabulary": "「旅行」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-31.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_31.png",
+      "reading": "りょこう"
+    },
+    {
+      "index": 32,
+      "vocabulary": "「お土産」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-32.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_32.png",
+      "reading": "おみやげ"
+    },
+    {
+      "index": 33,
+      "vocabulary": "「紙」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l7-33.png",
+      "image_file": "assets/images/vocabulary/lesson_07/lesson_07_33.png",
+      "reading": "かみ"
+    }
+  ]
+}

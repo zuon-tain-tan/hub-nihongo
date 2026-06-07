@@ -1,0 +1,84 @@
+{
+  "lesson": 24,
+  "source_url": "https://langoal.com/vocbs/lesson-24",
+  "image_dir": "assets/images/vocabulary/lesson_24",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「くれます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l24-1.png",
+      "image_file": "assets/images/vocabulary/lesson_24/lesson_24_01.png",
+      "reading": "くれます"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「連れて行きます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l24-2.png",
+      "image_file": "assets/images/vocabulary/lesson_24/lesson_24_02.png",
+      "reading": "つれていきます"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「連れて来ます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l24-3.png",
+      "image_file": "assets/images/vocabulary/lesson_24/lesson_24_03.png",
+      "reading": "つれてきます"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「送ります［人を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l24-4.png",
+      "image_file": "assets/images/vocabulary/lesson_24/lesson_24_04.png",
+      "reading": "おくる"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「紹介します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l24-5.png",
+      "image_file": "assets/images/vocabulary/lesson_24/lesson_24_05.png",
+      "reading": "しょうかいする"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「説明します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l24-7.png",
+      "image_file": "assets/images/vocabulary/lesson_24/lesson_24_07.png",
+      "reading": "せつめいする"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「淹れます［を］］",
+      "image_url": "https://cdn.langoal.com/images/mnn-l24-8.png",
+      "image_file": "assets/images/vocabulary/lesson_24/lesson_24_08.png",
+      "reading": "いれます"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「おじいちゃん」「おじいさん」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l24-9.png",
+      "image_file": "assets/images/vocabulary/lesson_24/lesson_24_09.png",
+      "reading": "おじいちゃん / おじいさん"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「おばあちゃん」「おばあさん」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l24-10.png",
+      "image_file": "assets/images/vocabulary/lesson_24/lesson_24_10.png",
+      "reading": "おばあちゃん / おばあさん"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「（お）菓子」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l24-11.png",
+      "image_file": "assets/images/vocabulary/lesson_24/lesson_24_11.png",
+      "reading": "おかし"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「（お）弁当」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l24-12.png",
+      "image_file": "assets/images/vocabulary/lesson_24/lesson_24_12.png",
+      "reading": "べんとう"
+    }
+  ]
+}

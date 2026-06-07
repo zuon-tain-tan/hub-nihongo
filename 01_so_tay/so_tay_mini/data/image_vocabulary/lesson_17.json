@@ -1,0 +1,203 @@
+{
+  "lesson": 17,
+  "source_url": "https://langoal.com/vocbs/lesson-17",
+  "image_dir": "assets/images/vocabulary/lesson_17",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「覚えます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-1.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_01.png",
+      "reading": "おぼえる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「忘れます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-2.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_02.png",
+      "reading": "わすれる"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「なくします」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-3.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_03.png",
+      "reading": "なくします"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「出します［レポートを］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-4.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_04.png",
+      "reading": "だす"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「払います」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-5.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_05.png",
+      "reading": "はらう"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「返します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-6.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_06.png",
+      "reading": "かえす"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「出かけます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-7.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_07.png",
+      "reading": "でかける"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「脱ぎます］",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-8.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_08.png",
+      "reading": "ぬぐ"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「持って行きます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-9.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_09.png",
+      "reading": "もっていく"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「持って来ます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-10.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_10.png",
+      "reading": "もってくる"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「心配します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-11.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_11.png",
+      "reading": "しんぱいする"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「残業します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-12.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_12.png",
+      "reading": "ざんぎょうする"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「出張します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-13.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_13.png",
+      "reading": "しゅっちょうする"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「飲みます［薬を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-14.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_14.png",
+      "reading": "のむ"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「入ります［お風呂に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-15.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_15.png",
+      "reading": "はいる"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「大切な」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-16.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_16.png",
+      "reading": "たいせつな"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「大丈夫な」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-17.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_17.png",
+      "reading": "だいじょうぶな"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「危ない」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-18.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_18.png",
+      "reading": "あぶない"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「問題」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-19.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_19.png",
+      "reading": "もんだい"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「答え」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-20.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_20.png",
+      "reading": "こたえ"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「禁煙」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-21.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_21.png",
+      "reading": "きんえん"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「風邪」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-22.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_22.png",
+      "reading": "かぜ"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「熱」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-23.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_23.png",
+      "reading": "ねつ"
+    },
+    {
+      "index": 24,
+      "vocabulary": "「病気」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-24.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_24.png",
+      "reading": "びょうき"
+    },
+    {
+      "index": 25,
+      "vocabulary": "「薬」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-25.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_25.png",
+      "reading": "くすり"
+    },
+    {
+      "index": 26,
+      "vocabulary": "「（お）風呂」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-26.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_26.png",
+      "reading": "ふろ"
+    },
+    {
+      "index": 27,
+      "vocabulary": "「上着」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-27.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_27.png",
+      "reading": "うわぎ"
+    },
+    {
+      "index": 28,
+      "vocabulary": "「下着」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l17-28.png",
+      "image_file": "assets/images/vocabulary/lesson_17/lesson_17_28.png",
+      "reading": "したぎ"
+    }
+  ]
+}

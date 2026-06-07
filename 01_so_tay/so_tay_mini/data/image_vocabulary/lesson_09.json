@@ -1,0 +1,126 @@
+{
+  "lesson": 9,
+  "source_url": "https://langoal.com/vocbs/lesson-9",
+  "image_dir": "assets/images/vocabulary/lesson_09",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「分かります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l9-1.png",
+      "image_file": "assets/images/vocabulary/lesson_09/lesson_09_01.png",
+      "reading": "わかる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「あります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l9-2.png",
+      "image_file": "assets/images/vocabulary/lesson_09/lesson_09_02.png",
+      "reading": "ある"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「好きな」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l9-3.png",
+      "image_file": "assets/images/vocabulary/lesson_09/lesson_09_03.png",
+      "reading": "すきな"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「嫌いな」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l9-4.png",
+      "image_file": "assets/images/vocabulary/lesson_09/lesson_09_04.png",
+      "reading": "きらいな"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「上手な」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l9-5.png",
+      "image_file": "assets/images/vocabulary/lesson_09/lesson_09_05.png",
+      "reading": "じょうずな"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「下手な」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l9-6.png",
+      "image_file": "assets/images/vocabulary/lesson_09/lesson_09_06.png",
+      "reading": "へたな"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「料理」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l9-7.png",
+      "image_file": "assets/images/vocabulary/lesson_09/lesson_09_07.png",
+      "reading": "りょうり"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「飲み物」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l9-8.png",
+      "image_file": "assets/images/vocabulary/lesson_09/lesson_09_08.png",
+      "reading": "のみもの"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「スポーツ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l9-9.png",
+      "image_file": "assets/images/vocabulary/lesson_09/lesson_09_09.png",
+      "reading": "スポーツ"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「野球」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l9-10.png",
+      "image_file": "assets/images/vocabulary/lesson_09/lesson_09_10.png",
+      "reading": "やきゅう"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「ダンス」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l9-11.png",
+      "image_file": "assets/images/vocabulary/lesson_09/lesson_09_11.png",
+      "reading": "ダンス"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「音楽」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l9-12.png",
+      "image_file": "assets/images/vocabulary/lesson_09/lesson_09_12.png",
+      "reading": "おんがく"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「歌」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l9-13.png",
+      "image_file": "assets/images/vocabulary/lesson_09/lesson_09_13.png",
+      "reading": "うた"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「カラオケ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l9-14.png",
+      "image_file": "assets/images/vocabulary/lesson_09/lesson_09_14.png",
+      "reading": "カラオケ"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「絵」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l9-15.png",
+      "image_file": "assets/images/vocabulary/lesson_09/lesson_09_15.png",
+      "reading": "え"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「細かいお金」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l9-16.png",
+      "image_file": "assets/images/vocabulary/lesson_09/lesson_09_16.png",
+      "reading": "こまかいおかね"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「チケット」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l9-17.png",
+      "image_file": "assets/images/vocabulary/lesson_09/lesson_09_17.png",
+      "reading": "チケット"
+    }
+  ]
+}

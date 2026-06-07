@@ -1,0 +1,196 @@
+{
+  "lesson": 44,
+  "source_url": "https://langoal.com/vocbs/lesson-44",
+  "image_dir": "assets/images/vocabulary/lesson_44",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「泣きます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-1.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_01.png",
+      "reading": "なく"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「笑います」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-2.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_02.png",
+      "reading": "わらう"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「乾きます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-3.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_03.png",
+      "reading": "かわく"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「濡れます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-4.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_04.png",
+      "reading": "ぬれる"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「滑ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-5.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_05.png",
+      "reading": "すべる"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「起きます［事故が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-6.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_06.png",
+      "reading": "おきる"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「調節します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-7.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_07.png",
+      "reading": "ちょうせつする"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「安全［な］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-8.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_08.png",
+      "reading": "あんぜん"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「丁寧［な］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-9.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_09.png",
+      "reading": "ていねい"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「細かい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-10.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_10.png",
+      "reading": "こまかい"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「濃い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-11.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_11.png",
+      "reading": "こい"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「薄い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-12.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_12.png",
+      "reading": "うすい"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「空気」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-13.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_13.png",
+      "reading": "くうき"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「涙」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-14.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_14.png",
+      "reading": "なみだ"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「和食」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-15.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_15.png",
+      "reading": "わしょく"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「洋食」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-16.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_16.png",
+      "reading": "ようしょく"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「おかず」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-17.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_17.png",
+      "reading": "おかず"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「量」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-18.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_18.png",
+      "reading": "りょう"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「－倍」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-19.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_19.png",
+      "reading": "ばい"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「半分」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-20.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_20.png",
+      "reading": "はんぶん"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「シングル」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-21.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_21.png",
+      "reading": "シングル"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「ツイン」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-22.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_22.png",
+      "reading": "ツイン"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「箪笥」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-23.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_23.png",
+      "reading": "たんす"
+    },
+    {
+      "index": 24,
+      "vocabulary": "「洗濯物」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-24.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_24.png",
+      "reading": "せんたくもの"
+    },
+    {
+      "index": 25,
+      "vocabulary": "「カット」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-25.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_25.png",
+      "reading": "カット"
+    },
+    {
+      "index": 26,
+      "vocabulary": "「シャンプー」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-26.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_26.png",
+      "reading": "シャンプー"
+    },
+    {
+      "index": 27,
+      "vocabulary": "「ショート」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l44-27.png",
+      "image_file": "assets/images/vocabulary/lesson_44/lesson_44_27.png",
+      "reading": "ショート"
+    }
+  ]
+}

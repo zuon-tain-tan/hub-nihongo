@@ -1,0 +1,91 @@
+{
+  "lesson": 22,
+  "source_url": "https://langoal.com/vocbs/lesson-22",
+  "image_dir": "assets/images/vocabulary/lesson_22",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「着ます［シャツを］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l22-1.png",
+      "image_file": "assets/images/vocabulary/lesson_22/lesson_22_01.png",
+      "reading": "きる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「履きます［ズボンを］［靴を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l22-2.png",
+      "image_file": "assets/images/vocabulary/lesson_22/lesson_22_02.png",
+      "reading": "はく"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「かぶります［帽子を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l22-3.png",
+      "image_file": "assets/images/vocabulary/lesson_22/lesson_22_03.png",
+      "reading": "かぶります"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「かけます［眼鏡を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l22-4.png",
+      "image_file": "assets/images/vocabulary/lesson_22/lesson_22_04.png",
+      "reading": "かけます"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「生まれます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l22-5.png",
+      "image_file": "assets/images/vocabulary/lesson_22/lesson_22_05.png",
+      "reading": "うまれる"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「コート」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l22-6.png",
+      "image_file": "assets/images/vocabulary/lesson_22/lesson_22_06.png",
+      "reading": "コート"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「スーツ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l22-7.png",
+      "image_file": "assets/images/vocabulary/lesson_22/lesson_22_07.png",
+      "reading": "スーツ"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「セーター」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l22-8.png",
+      "image_file": "assets/images/vocabulary/lesson_22/lesson_22_08.png",
+      "reading": "セーター"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「帽子」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l22-9.png",
+      "image_file": "assets/images/vocabulary/lesson_22/lesson_22_09.png",
+      "reading": "ぼうし"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「眼鏡」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l22-10.png",
+      "image_file": "assets/images/vocabulary/lesson_22/lesson_22_10.png",
+      "reading": "めがね"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「おめでとう（ございます）。」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l22-11.png",
+      "image_file": "assets/images/vocabulary/lesson_22/lesson_22_11.png",
+      "reading": "おめでとう(ございます)。 / おめでとう。"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「アパート」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l22-12.png",
+      "image_file": "assets/images/vocabulary/lesson_22/lesson_22_12.png",
+      "reading": "アパート"
+    }
+  ]
+}

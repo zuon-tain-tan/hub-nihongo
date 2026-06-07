@@ -1,0 +1,98 @@
+{
+  "lesson": 36,
+  "source_url": "https://langoal.com/vocbs/lesson-36",
+  "image_dir": "assets/images/vocabulary/lesson_36",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「届きます［荷物が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l36-1.png",
+      "image_file": "assets/images/vocabulary/lesson_36/lesson_36_01.png",
+      "reading": "とどく"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「出ます［試合に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l36-2.png",
+      "image_file": "assets/images/vocabulary/lesson_36/lesson_36_02.png",
+      "reading": "でる"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「打ちます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l36-3.png",
+      "image_file": "assets/images/vocabulary/lesson_36/lesson_36_03.png",
+      "reading": "うつ"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「貯金します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l36-4.png",
+      "image_file": "assets/images/vocabulary/lesson_36/lesson_36_04.png",
+      "reading": "ちょきんする"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「太ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l36-5.png",
+      "image_file": "assets/images/vocabulary/lesson_36/lesson_36_05.png",
+      "reading": "ふとる"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「痩せます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l36-6.png",
+      "image_file": "assets/images/vocabulary/lesson_36/lesson_36_06.png",
+      "reading": "やせる"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「過ぎます［7時を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l36-7.png",
+      "image_file": "assets/images/vocabulary/lesson_36/lesson_36_07.png",
+      "reading": "すぎる"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「慣れます［習慣に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l36-8.png",
+      "image_file": "assets/images/vocabulary/lesson_36/lesson_36_08.png",
+      "reading": "なれる"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「硬い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l36-9.png",
+      "image_file": "assets/images/vocabulary/lesson_36/lesson_36_09.png",
+      "reading": "かたい"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「柔らかい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l36-10.png",
+      "image_file": "assets/images/vocabulary/lesson_36/lesson_36_10.png",
+      "reading": "やわらかい"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「剣道」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l36-11.png",
+      "image_file": "assets/images/vocabulary/lesson_36/lesson_36_11.png",
+      "reading": "けんどう"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「特別［な］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l36-12.png",
+      "image_file": "assets/images/vocabulary/lesson_36/lesson_36_12.png",
+      "reading": "とくべつ"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「水泳」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l36-13.png",
+      "image_file": "assets/images/vocabulary/lesson_36/lesson_36_13.png",
+      "reading": "すいえい"
+    }
+  ]
+}

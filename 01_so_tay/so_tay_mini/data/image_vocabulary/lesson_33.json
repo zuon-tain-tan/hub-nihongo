@@ -1,0 +1,196 @@
+{
+  "lesson": 33,
+  "source_url": "https://langoal.com/vocbs/lesson-33",
+  "image_dir": "assets/images/vocabulary/lesson_33",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「逃げます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-1.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_01.png",
+      "reading": "にげる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「騒ぎます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-2.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_02.png",
+      "reading": "さわぐ"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「諦めます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-3.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_03.png",
+      "reading": "あきらめます"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「投げます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-4.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_04.png",
+      "reading": "なげる"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「守ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-5.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_05.png",
+      "reading": "まもる"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「上げます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-6.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_06.png",
+      "reading": "あげる"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「下げます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-7.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_07.png",
+      "reading": "さげる"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「伝えます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-8.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_08.png",
+      "reading": "つたえる"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「注意します［車に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-9.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_09.png",
+      "reading": "ちゅういする"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「外します［席を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-10.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_10.png",
+      "reading": "はずす"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「だめ［な］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-11.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_11.png",
+      "reading": "だめ"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「席」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-12.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_12.png",
+      "reading": "せき"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「マーク」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-13.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_13.png",
+      "reading": "マーク"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「ボール」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-14.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_14.png",
+      "reading": "ボール"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「洗濯機」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-15.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_15.png",
+      "reading": "せんたくき"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「規則」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-16.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_16.png",
+      "reading": "きそく"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「使用禁止」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-17.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_17.png",
+      "reading": "しようきんし"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「立入禁止」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-18.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_18.png",
+      "reading": "たちいりきんし"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「入口」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-19.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_19.png",
+      "reading": "いりぐち"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「出口」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-20.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_20.png",
+      "reading": "でぐち"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「非常口」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-21.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_21.png",
+      "reading": "ひじょうぐち"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「本日休業」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-22.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_22.png",
+      "reading": "ほんじつきゅうぎょう"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「営業中」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-23.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_23.png",
+      "reading": "えいぎょうちゅう"
+    },
+    {
+      "index": 24,
+      "vocabulary": "「使用中」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-24.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_24.png",
+      "reading": "しようちゅう"
+    },
+    {
+      "index": 25,
+      "vocabulary": "「駐車違反」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-25.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_25.png",
+      "reading": "ちゅうしゃいはん"
+    },
+    {
+      "index": 26,
+      "vocabulary": "「警察」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-26.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_26.png",
+      "reading": "けいさつ"
+    },
+    {
+      "index": 27,
+      "vocabulary": "「罰金」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l33-27.png",
+      "image_file": "assets/images/vocabulary/lesson_33/lesson_33_27.png",
+      "reading": "ばっきん"
+    }
+  ]
+}

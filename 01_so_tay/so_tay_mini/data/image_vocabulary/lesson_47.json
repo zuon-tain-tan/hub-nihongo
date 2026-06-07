@@ -1,0 +1,161 @@
+{
+  "lesson": 47,
+  "source_url": "https://langoal.com/vocbs/lesson-47",
+  "image_dir": "assets/images/vocabulary/lesson_47",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「集まります［人が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-1.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_01.png",
+      "reading": "あつまる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「別れます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-2.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_02.png",
+      "reading": "わかれる"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「長生きします」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-3.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_03.png",
+      "reading": "ながいきします"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「します［音が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-4.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_04.png",
+      "reading": "します"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「します［声が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-5.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_05.png",
+      "reading": "します"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「します［味が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-6.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_06.png",
+      "reading": "します"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「します［匂いが］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-7.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_07.png",
+      "reading": "します"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「さします［傘を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-8.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_08.png",
+      "reading": "さします"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「ひどい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-9.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_09.png",
+      "reading": "ひどい"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「怖い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-10.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_10.png",
+      "reading": "こわい"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「天気予報」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-11.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_11.png",
+      "reading": "てんきよほう"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「発表」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-12.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_12.png",
+      "reading": "はっぴょう"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「実験」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-13.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_13.png",
+      "reading": "じっけん"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「人口」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-14.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_14.png",
+      "reading": "じんこう"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「科学」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-15.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_15.png",
+      "reading": "かがく"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「パトカー」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-16.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_16.png",
+      "reading": "パトカー"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「救急車」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-17.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_17.png",
+      "reading": "きゅうきゅうしゃ"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「男性」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-18.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_18.png",
+      "reading": "だんせい"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「女性」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-19.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_19.png",
+      "reading": "じょせい"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「恋人」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-20.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_20.png",
+      "reading": "こいびと"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「婚約します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-21.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_21.png",
+      "reading": "こんやくする"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「相手」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l47-22.png",
+      "image_file": "assets/images/vocabulary/lesson_47/lesson_47_22.png",
+      "reading": "あいて"
+    }
+  ]
+}

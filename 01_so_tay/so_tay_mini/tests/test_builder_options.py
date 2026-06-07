@@ -80,6 +80,7 @@ class ExportOptionParsingTest(unittest.TestCase):
                 "add_japanese_index",
                 "add_vietnamese_index",
                 "add_online_version_page",
+                "add_completion_image_page",
             ],
         )
         self.assertNotIn("add_grouped_vocabulary", added_sections)

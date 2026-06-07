@@ -1,0 +1,280 @@
+{
+  "lesson": 6,
+  "source_url": "https://langoal.com/vocbs/lesson-6",
+  "image_dir": "assets/images/vocabulary/lesson_06",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「食べます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-1.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_01.png",
+      "reading": "たべる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「飲みます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-2.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_02.png",
+      "reading": "のむ"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「吸います［たばこを］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-3.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_03.png",
+      "reading": "すう"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「見ます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-4.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_04.png",
+      "reading": "みる"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「聞きます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-5.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_05.png",
+      "reading": "きく"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「読みます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-6.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_06.png",
+      "reading": "よむ"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「書きます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-7.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_07.png",
+      "reading": "かく"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「買います」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-8.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_08.png",
+      "reading": "かう"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「撮ります[写真を]」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-9.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_09.png",
+      "reading": "とる"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「会います［友達に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-10.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_10.png",
+      "reading": "あう"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「ごはん」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-11.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_11.png",
+      "reading": "ごはん"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「朝ごはん」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-12.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_12.png",
+      "reading": "あさごはん"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「昼ごはん」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-13.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_13.png",
+      "reading": "ひるごはん"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「晩ごはん」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-14.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_14.png",
+      "reading": "ばんごはん"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「パン」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-15.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_15.png",
+      "reading": "パン"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「卵」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-16.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_16.png",
+      "reading": "たまご"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「肉」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-17.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_17.png",
+      "reading": "にく"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「牛肉」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-18.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_18.png",
+      "reading": "ぎゅうにく"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「豚肉」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-19.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_19.png",
+      "reading": "ぶたにく"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「鶏肉」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-20.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_20.png",
+      "reading": "とりにく"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「魚」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-21.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_21.png",
+      "reading": "さかな"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「野菜」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-22.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_22.png",
+      "reading": "やさい"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「果物」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-23.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_23.png",
+      "reading": "くだもの"
+    },
+    {
+      "index": 24,
+      "vocabulary": "「水」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-24.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_24.png",
+      "reading": "みず"
+    },
+    {
+      "index": 25,
+      "vocabulary": "「お茶」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-25.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_25.png",
+      "reading": "おちゃ"
+    },
+    {
+      "index": 26,
+      "vocabulary": "「紅茶」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-26.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_26.png",
+      "reading": "こうちゃ"
+    },
+    {
+      "index": 27,
+      "vocabulary": "「牛乳（ミルク）」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-27.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_27.png",
+      "reading": "ぎゅうにゅう"
+    },
+    {
+      "index": 28,
+      "vocabulary": "「ジュース」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-28.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_28.png",
+      "reading": "ジュース"
+    },
+    {
+      "index": 29,
+      "vocabulary": "「ビール」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-29.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_29.png",
+      "reading": "ビール"
+    },
+    {
+      "index": 30,
+      "vocabulary": "「お酒」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-30.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_30.png",
+      "reading": "おさけ"
+    },
+    {
+      "index": 31,
+      "vocabulary": "「映画」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-31.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_31.png",
+      "reading": "えいが"
+    },
+    {
+      "index": 32,
+      "vocabulary": "「CD」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-32.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_32.png",
+      "reading": "シーディー"
+    },
+    {
+      "index": 33,
+      "vocabulary": "「手紙」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-33.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_33.png",
+      "reading": "てがみ"
+    },
+    {
+      "index": 34,
+      "vocabulary": "「写真」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-34.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_34.png",
+      "reading": "しゃしん"
+    },
+    {
+      "index": 35,
+      "vocabulary": "「店」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-35.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_35.png",
+      "reading": "みせ"
+    },
+    {
+      "index": 36,
+      "vocabulary": "「レストラン」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-36.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_36.png",
+      "reading": "レストラン"
+    },
+    {
+      "index": 37,
+      "vocabulary": "「宿題」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-37.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_37.png",
+      "reading": "しゅくだい"
+    },
+    {
+      "index": 38,
+      "vocabulary": "「テニス」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-38.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_38.png",
+      "reading": "テニス"
+    },
+    {
+      "index": 39,
+      "vocabulary": "「サッカー」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l6-39.png",
+      "image_file": "assets/images/vocabulary/lesson_06/lesson_06_39.png",
+      "reading": "サッカー"
+    }
+  ]
+}

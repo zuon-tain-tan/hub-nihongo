@@ -1,0 +1,238 @@
+{
+  "lesson": 37,
+  "source_url": "https://langoal.com/vocbs/lesson-37",
+  "image_dir": "assets/images/vocabulary/lesson_37",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「褒めます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-1.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_01.png",
+      "reading": "ほめる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「叱ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-2.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_02.png",
+      "reading": "しかります"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「誘います」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-3.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_03.png",
+      "reading": "さそう"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「起こします」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-4.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_04.png",
+      "reading": "おこす"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「招待します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-5.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_05.png",
+      "reading": "しょうたいする"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「頼みます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-6.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_06.png",
+      "reading": "たのむ"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「注意します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-7.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_07.png",
+      "reading": "ちゅういする"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「とります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-8.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_08.png",
+      "reading": "とります"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「踏みます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-9.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_09.png",
+      "reading": "ふむ"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「壊します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-10.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_10.png",
+      "reading": "こわす"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「汚します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-11.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_11.png",
+      "reading": "よごす"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「行います」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-12.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_12.png",
+      "reading": "おこなう"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「輸出します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-13.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_13.png",
+      "reading": "ゆしゅつする"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「輸入します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-14.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_14.png",
+      "reading": "ゆにゅうする"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「翻訳します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-15.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_15.png",
+      "reading": "ほんやくする"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「発明します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-16.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_16.png",
+      "reading": "はつめいする"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「発見します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-17.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_17.png",
+      "reading": "はっけんする"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「設計します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-18.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_18.png",
+      "reading": "せっけいする"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「米」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-19.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_19.png",
+      "reading": "こめ"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「麦」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-20.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_20.png",
+      "reading": "むぎ"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「石油」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-21.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_21.png",
+      "reading": "せきゆ"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「原料」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-22.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_22.png",
+      "reading": "げんりょう"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「デート」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-23.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_23.png",
+      "reading": "デート"
+    },
+    {
+      "index": 24,
+      "vocabulary": "「泥棒」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-24.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_24.png",
+      "reading": "どろぼう"
+    },
+    {
+      "index": 25,
+      "vocabulary": "「警官」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-25.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_25.png",
+      "reading": "けいかん"
+    },
+    {
+      "index": 26,
+      "vocabulary": "「建築家」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-26.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_26.png",
+      "reading": "けんちくか"
+    },
+    {
+      "index": 27,
+      "vocabulary": "「科学者」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-27.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_27.png",
+      "reading": "かがくしゃ"
+    },
+    {
+      "index": 28,
+      "vocabulary": "「漫画」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-28.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_28.png",
+      "reading": "まんが"
+    },
+    {
+      "index": 29,
+      "vocabulary": "「埋め立てます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-29.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_29.png",
+      "reading": "うめたてる"
+    },
+    {
+      "index": 30,
+      "vocabulary": "「技術」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-30.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_30.png",
+      "reading": "ぎじゅつ"
+    },
+    {
+      "index": 31,
+      "vocabulary": "「土地」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-31.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_31.png",
+      "reading": "とち"
+    },
+    {
+      "index": 32,
+      "vocabulary": "「騒音」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-32.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_32.png",
+      "reading": "そうおん"
+    },
+    {
+      "index": 33,
+      "vocabulary": "「利用します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l37-33.png",
+      "image_file": "assets/images/vocabulary/lesson_37/lesson_37_33.png",
+      "reading": "りようする"
+    }
+  ]
+}

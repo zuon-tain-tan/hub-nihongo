@@ -1,0 +1,140 @@
+{
+  "lesson": 31,
+  "source_url": "https://langoal.com/vocbs/lesson-31",
+  "image_dir": "assets/images/vocabulary/lesson_31",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「始まります［仕事が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l31-1.png",
+      "image_file": "assets/images/vocabulary/lesson_31/lesson_31_01.png",
+      "reading": "はじまる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「続けます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l31-2.png",
+      "image_file": "assets/images/vocabulary/lesson_31/lesson_31_02.png",
+      "reading": "つづける"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「受けます［試験を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l31-4.png",
+      "image_file": "assets/images/vocabulary/lesson_31/lesson_31_04.png",
+      "reading": "うける"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「入学します［大学に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l31-5.png",
+      "image_file": "assets/images/vocabulary/lesson_31/lesson_31_05.png",
+      "reading": "にゅうがくする"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「卒業します［大学を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l31-6.png",
+      "image_file": "assets/images/vocabulary/lesson_31/lesson_31_06.png",
+      "reading": "そつぎょうする"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「出席します［～に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l31-7.png",
+      "image_file": "assets/images/vocabulary/lesson_31/lesson_31_07.png",
+      "reading": "しゅっせきします"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「休憩します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l31-8.png",
+      "image_file": "assets/images/vocabulary/lesson_31/lesson_31_08.png",
+      "reading": "きゅうけいする"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「展覧会」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l31-9.png",
+      "image_file": "assets/images/vocabulary/lesson_31/lesson_31_09.png",
+      "reading": "てんらんかい"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「結婚式」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l31-10.png",
+      "image_file": "assets/images/vocabulary/lesson_31/lesson_31_10.png",
+      "reading": "けっこんしき"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「（お）葬式」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l31-11.png",
+      "image_file": "assets/images/vocabulary/lesson_31/lesson_31_11.png",
+      "reading": "おそうしき"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「本社」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l31-12.png",
+      "image_file": "assets/images/vocabulary/lesson_31/lesson_31_12.png",
+      "reading": "ほんしゃ"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「支店」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l31-13.png",
+      "image_file": "assets/images/vocabulary/lesson_31/lesson_31_13.png",
+      "reading": "してん"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「教会」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l31-14.png",
+      "image_file": "assets/images/vocabulary/lesson_31/lesson_31_14.png",
+      "reading": "きょうかい"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「大学院」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l31-15.png",
+      "image_file": "assets/images/vocabulary/lesson_31/lesson_31_15.png",
+      "reading": "だいがくいん"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「動物園」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l31-16.png",
+      "image_file": "assets/images/vocabulary/lesson_31/lesson_31_16.png",
+      "reading": "どうぶつえん"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「温泉」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l31-17.png",
+      "image_file": "assets/images/vocabulary/lesson_31/lesson_31_17.png",
+      "reading": "おんせん"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「お客さん」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l31-18.png",
+      "image_file": "assets/images/vocabulary/lesson_31/lesson_31_18.png",
+      "reading": "おきゃくさん"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「残ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l31-19.png",
+      "image_file": "assets/images/vocabulary/lesson_31/lesson_31_19.png",
+      "reading": "のこる"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「インターネット」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l31-20.png",
+      "image_file": "assets/images/vocabulary/lesson_31/lesson_31_20.png",
+      "reading": "インターネット"
+    }
+  ]
+}

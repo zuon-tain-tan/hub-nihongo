@@ -1,0 +1,161 @@
+{
+  "lesson": 43,
+  "source_url": "https://langoal.com/vocbs/lesson-43",
+  "image_dir": "assets/images/vocabulary/lesson_43",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「増えます［輸出が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-1.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_01.png",
+      "reading": "ふえる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「減ります［輸出が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-2.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_02.png",
+      "reading": "へる"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「上がります［値段が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-3.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_03.png",
+      "reading": "あがる"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「下がります［値段が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-4.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_04.png",
+      "reading": "さがる"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「切れます［紐が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-5.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_05.png",
+      "reading": "きれる"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「取れます［ボタンが］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-6.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_06.png",
+      "reading": "とれます"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「落ちます［荷物が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-7.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_07.png",
+      "reading": "おちる"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「なくなります［～が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-8.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_08.png",
+      "reading": "なくなります"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「丈夫［な］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-9.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_09.png",
+      "reading": "じょうぶ"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「変［な］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-10.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_10.png",
+      "reading": "へん"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「幸せ［な］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-11.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_11.png",
+      "reading": "しあわせ"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「うまい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-12.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_12.png",
+      "reading": "うまい"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「まずい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-13.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_13.png",
+      "reading": "まずい"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「つまらない」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-14.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_14.png",
+      "reading": "つまらない"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「ガソリン」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-15.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_15.png",
+      "reading": "ガソリン"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「火」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-16.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_16.png",
+      "reading": "ひ"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「暖房」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-17.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_17.png",
+      "reading": "だんぼう"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「冷房」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-18.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_18.png",
+      "reading": "れいぼう"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「適当な」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-19.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_19.png",
+      "reading": "てきとうな"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「年齢」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-20.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_20.png",
+      "reading": "ねんれい"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「収入」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-21.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_21.png",
+      "reading": "しゅうにゅう"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「ぴったり」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l43-22.png",
+      "image_file": "assets/images/vocabulary/lesson_43/lesson_43_22.png",
+      "reading": "ぴったり"
+    }
+  ]
+}

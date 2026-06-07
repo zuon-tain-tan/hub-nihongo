@@ -1,0 +1,189 @@
+{
+  "lesson": 26,
+  "source_url": "https://langoal.com/vocbs/lesson-26",
+  "image_dir": "assets/images/vocabulary/lesson_26",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「見ます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-1.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_01.png",
+      "reading": "みる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「診ます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-2.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_02.png",
+      "reading": "みる"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「探します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-3.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_03.png",
+      "reading": "さがす"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「捜します［仕事を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-4.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_04.png",
+      "reading": "さがす"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「遅れます［に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-5.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_05.png",
+      "reading": "おくれる"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「間に合います［に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-6.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_06.png",
+      "reading": "まにあう"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「参加します［に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-7.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_07.png",
+      "reading": "さんかします"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「申し込みます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-8.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_08.png",
+      "reading": "もうしこみます"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「都合がいい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-9.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_09.png",
+      "reading": "つごうがいい"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「都合が悪い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-10.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_10.png",
+      "reading": "つごうがわるい"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「気分がいい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-11.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_11.png",
+      "reading": "きぶんがいい"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「気分が悪い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-12.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_12.png",
+      "reading": "きぶんがわるい"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「柔道」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-13.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_13.png",
+      "reading": "じゅうどう"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「運動会」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-14.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_14.png",
+      "reading": "うんどうかい"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「場所」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-15.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_15.png",
+      "reading": "ばしょ"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「ボランティア」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-16.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_16.png",
+      "reading": "ボランティア"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「片付きます［荷物が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-17.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_17.png",
+      "reading": "かたづく"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「ごみ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-18.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_18.png",
+      "reading": "ごみ"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「出します［ごみを］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-19.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_19.png",
+      "reading": "だす"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「燃えます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-20.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_20.png",
+      "reading": "もえる"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「置き場」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-21.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_21.png",
+      "reading": "おきば"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「瓶」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-22.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_22.png",
+      "reading": "びん"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「缶」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-23.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_23.png",
+      "reading": "かん"
+    },
+    {
+      "index": 24,
+      "vocabulary": "「（お）湯」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-24.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_24.png",
+      "reading": "ゆ"
+    },
+    {
+      "index": 25,
+      "vocabulary": "「ガス」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-25.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_25.png",
+      "reading": "ガス"
+    },
+    {
+      "index": 26,
+      "vocabulary": "「連絡します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l26-26.png",
+      "image_file": "assets/images/vocabulary/lesson_26/lesson_26_26.png",
+      "reading": "れんらくする"
+    }
+  ]
+}

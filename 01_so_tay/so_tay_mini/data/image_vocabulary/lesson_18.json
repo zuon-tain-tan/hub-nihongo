@@ -1,0 +1,147 @@
+{
+  "lesson": 18,
+  "source_url": "https://langoal.com/vocbs/lesson-18",
+  "image_dir": "assets/images/vocabulary/lesson_18",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「できます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l18-1.png",
+      "image_file": "assets/images/vocabulary/lesson_18/lesson_18_01.png",
+      "reading": "できます"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「洗います」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l18-2.png",
+      "image_file": "assets/images/vocabulary/lesson_18/lesson_18_02.png",
+      "reading": "あらう"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「弾きます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l18-3.png",
+      "image_file": "assets/images/vocabulary/lesson_18/lesson_18_03.png",
+      "reading": "ひく"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「歌います」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l18-4.png",
+      "image_file": "assets/images/vocabulary/lesson_18/lesson_18_04.png",
+      "reading": "うたう"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「集めます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l18-5.png",
+      "image_file": "assets/images/vocabulary/lesson_18/lesson_18_05.png",
+      "reading": "あつめる"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「捨てます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l18-6.png",
+      "image_file": "assets/images/vocabulary/lesson_18/lesson_18_06.png",
+      "reading": "すてる"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「換えます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l18-7.png",
+      "image_file": "assets/images/vocabulary/lesson_18/lesson_18_07.png",
+      "reading": "かえます"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「運転します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l18-8.png",
+      "image_file": "assets/images/vocabulary/lesson_18/lesson_18_08.png",
+      "reading": "うんてんする"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「予約します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l18-9.png",
+      "image_file": "assets/images/vocabulary/lesson_18/lesson_18_09.png",
+      "reading": "よやくする"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「見学します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l18-10.png",
+      "image_file": "assets/images/vocabulary/lesson_18/lesson_18_10.png",
+      "reading": "けんがくする"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「ピアノ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l18-11.png",
+      "image_file": "assets/images/vocabulary/lesson_18/lesson_18_11.png",
+      "reading": "ピアノ"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「現金」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l18-12.png",
+      "image_file": "assets/images/vocabulary/lesson_18/lesson_18_12.png",
+      "reading": "げんきん"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「趣味」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l18-13.png",
+      "image_file": "assets/images/vocabulary/lesson_18/lesson_18_13.png",
+      "reading": "しゅみ"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「日記」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l18-14.png",
+      "image_file": "assets/images/vocabulary/lesson_18/lesson_18_14.png",
+      "reading": "にっき"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「（お）祈り」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l18-15.png",
+      "image_file": "assets/images/vocabulary/lesson_18/lesson_18_15.png",
+      "reading": "いのり"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「課長」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l18-16.png",
+      "image_file": "assets/images/vocabulary/lesson_18/lesson_18_16.png",
+      "reading": "かちょう"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「部長」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l18-17.png",
+      "image_file": "assets/images/vocabulary/lesson_18/lesson_18_17.png",
+      "reading": "ぶちょう"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「社長」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l18-18.png",
+      "image_file": "assets/images/vocabulary/lesson_18/lesson_18_18.png",
+      "reading": "しゃちょう"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「動物」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l18-19.png",
+      "image_file": "assets/images/vocabulary/lesson_18/lesson_18_19.png",
+      "reading": "どうぶつ"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「馬」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l18-20.png",
+      "image_file": "assets/images/vocabulary/lesson_18/lesson_18_20.png",
+      "reading": "うま"
+    }
+  ]
+}

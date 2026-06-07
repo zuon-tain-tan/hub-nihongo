@@ -1,0 +1,70 @@
+{
+  "lesson": 1,
+  "source_url": "https://langoal.com/vocbs/lesson-1",
+  "image_dir": "assets/images/vocabulary/lesson_01",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「教師」「先生」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l1-1.png",
+      "image_file": "assets/images/vocabulary/lesson_01/lesson_01_01.png",
+      "reading": "きょうし / せんせい"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「学生」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l1-2.png",
+      "image_file": "assets/images/vocabulary/lesson_01/lesson_01_02.png",
+      "reading": "がくせい"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「会社員」「社員」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l1-3.png",
+      "image_file": "assets/images/vocabulary/lesson_01/lesson_01_03.png",
+      "reading": "かいしゃいん / しゃいん"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「銀行員」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l1-4.png",
+      "image_file": "assets/images/vocabulary/lesson_01/lesson_01_04.png",
+      "reading": "ぎんこういん"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「医者」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l1-5.png",
+      "image_file": "assets/images/vocabulary/lesson_01/lesson_01_05.png",
+      "reading": "いしゃ"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「研究者」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l1-6.png",
+      "image_file": "assets/images/vocabulary/lesson_01/lesson_01_06.png",
+      "reading": "けんきゅうしゃ"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「エンジニア」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l1-7.png",
+      "image_file": "assets/images/vocabulary/lesson_01/lesson_01_07.png",
+      "reading": "エンジニア"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「大学」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l1-8.png",
+      "image_file": "assets/images/vocabulary/lesson_01/lesson_01_08.png",
+      "reading": "だいがく"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「病院」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l1-9.png",
+      "image_file": "assets/images/vocabulary/lesson_01/lesson_01_09.png",
+      "reading": "びょういん"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "lesson": 23,
+  "source_url": "https://langoal.com/vocbs/lesson-23",
+  "image_dir": "assets/images/vocabulary/lesson_23",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「聞きます［先生に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-1.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_01.png",
+      "reading": "きく"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「回します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-2.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_02.png",
+      "reading": "まわす"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「引きます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-3.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_03.png",
+      "reading": "ひく"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「変えます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-4.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_04.png",
+      "reading": "かえる"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「触ります［に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-5.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_05.png",
+      "reading": "さわる"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「出ます［ジュースが］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-6.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_06.png",
+      "reading": "でる"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「動きます［車が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-7.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_07.png",
+      "reading": "うごく"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「歩きます［道を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-8.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_08.png",
+      "reading": "あるく"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「渡ります［橋を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-9.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_09.png",
+      "reading": "わたる"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「気をつけます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-10.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_10.png",
+      "reading": "きをつけます"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「引越しします」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-11.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_11.png",
+      "reading": "ひっこしする"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「電気屋」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-12.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_12.png",
+      "reading": "でんきや"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「音」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-13.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_13.png",
+      "reading": "おと"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「機械」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-14.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_14.png",
+      "reading": "きかい"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「つまみ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-15.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_15.png",
+      "reading": "つまみ"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「故障」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-16.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_16.png",
+      "reading": "こしょう"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「道」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-17.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_17.png",
+      "reading": "みち"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「交差点」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-18.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_18.png",
+      "reading": "こうさてん"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「信号」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-19.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_19.png",
+      "reading": "しんごう"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「角」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-20.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_20.png",
+      "reading": "かど"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「橋」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-21.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_21.png",
+      "reading": "はし"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「駐車場」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-22.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_22.png",
+      "reading": "ちゅうしゃじょう"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「（お）正月」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-23.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_23.png",
+      "reading": "おしょうがつ"
+    },
+    {
+      "index": 24,
+      "vocabulary": "「ごちそうさま（でした）。」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-24.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_24.png",
+      "reading": "ごちそうさま(でした)。 / ごちそうさま。"
+    },
+    {
+      "index": 25,
+      "vocabulary": "「建物」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l23-25.png",
+      "image_file": "assets/images/vocabulary/lesson_23/lesson_23_25.png",
+      "reading": "たてもの"
+    }
+  ]
+}

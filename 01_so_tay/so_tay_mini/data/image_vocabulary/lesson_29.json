@@ -1,0 +1,196 @@
+{
+  "lesson": 29,
+  "source_url": "https://langoal.com/vocbs/lesson-29",
+  "image_dir": "assets/images/vocabulary/lesson_29",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「開きます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-1.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_01.png",
+      "reading": "ひらく"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「閉まります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-2.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_02.png",
+      "reading": "しまる"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「つきます［電気が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-3.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_03.png",
+      "reading": "つきます"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「消えます［電気が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-4.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_04.png",
+      "reading": "きえる"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「込みます［道が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-5.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_05.png",
+      "reading": "こむ"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「すきます［道が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-6.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_06.png",
+      "reading": "すきます"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「壊れます［椅子が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-7.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_07.png",
+      "reading": "こわれる"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「割れます［コップが］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-8.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_08.png",
+      "reading": "われる"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「折れます［木が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-9.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_09.png",
+      "reading": "おれる"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「破れます［紙が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-10.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_10.png",
+      "reading": "やぶれる"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「汚れます［服が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-11.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_11.png",
+      "reading": "よごれる"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「付きます［～が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-12.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_12.png",
+      "reading": "つく"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「外れます［～が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-13.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_13.png",
+      "reading": "はずれる"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「止まります［～が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-14.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_14.png",
+      "reading": "とまる"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「間違えます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-15.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_15.png",
+      "reading": "まちがえる"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「落とします」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-16.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_16.png",
+      "reading": "おとす"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「掛かります［鍵が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-17.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_17.png",
+      "reading": "かかる"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「（お）皿」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-18.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_18.png",
+      "reading": "さら"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「（お）茶碗」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-19.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_19.png",
+      "reading": "ちゃわん"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「コップ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-20.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_20.png",
+      "reading": "コップ"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「ガラス」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-21.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_21.png",
+      "reading": "ガラス"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「袋」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-22.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_22.png",
+      "reading": "ふくろ"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「財布」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-23.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_23.png",
+      "reading": "さいふ"
+    },
+    {
+      "index": 24,
+      "vocabulary": "「枝」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-24.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_24.png",
+      "reading": "えだ"
+    },
+    {
+      "index": 25,
+      "vocabulary": "「駅員」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-25.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_25.png",
+      "reading": "えきいん"
+    },
+    {
+      "index": 26,
+      "vocabulary": "「忘れ物」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-26.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_26.png",
+      "reading": "わすれもの"
+    },
+    {
+      "index": 27,
+      "vocabulary": "「網棚」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l29-27.png",
+      "image_file": "assets/images/vocabulary/lesson_29/lesson_29_27.png",
+      "reading": "あみだな"
+    }
+  ]
+}

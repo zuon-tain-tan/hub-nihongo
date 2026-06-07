@@ -1,0 +1,119 @@
+{
+  "lesson": 45,
+  "source_url": "https://langoal.com/vocbs/lesson-45",
+  "image_dir": "assets/images/vocabulary/lesson_45",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「謝ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l45-1.png",
+      "image_file": "assets/images/vocabulary/lesson_45/lesson_45_01.png",
+      "reading": "あやまる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「合います［事故に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l45-2.png",
+      "image_file": "assets/images/vocabulary/lesson_45/lesson_45_02.png",
+      "reading": "あう"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「信じます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l45-3.png",
+      "image_file": "assets/images/vocabulary/lesson_45/lesson_45_03.png",
+      "reading": "しんじる"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「用意します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l45-4.png",
+      "image_file": "assets/images/vocabulary/lesson_45/lesson_45_04.png",
+      "reading": "よういする"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「キャンセルします」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l45-5.png",
+      "image_file": "assets/images/vocabulary/lesson_45/lesson_45_05.png",
+      "reading": "キャンセルします"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「領収書」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l45-6.png",
+      "image_file": "assets/images/vocabulary/lesson_45/lesson_45_06.png",
+      "reading": "りょうしゅうしょ"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「贈り物」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l45-7.png",
+      "image_file": "assets/images/vocabulary/lesson_45/lesson_45_07.png",
+      "reading": "おくりもの"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「間違い電話」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l45-8.png",
+      "image_file": "assets/images/vocabulary/lesson_45/lesson_45_08.png",
+      "reading": "まちがいでんわ"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「キャンプ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l45-9.png",
+      "image_file": "assets/images/vocabulary/lesson_45/lesson_45_09.png",
+      "reading": "キャンプ"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「中止」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l45-10.png",
+      "image_file": "assets/images/vocabulary/lesson_45/lesson_45_10.png",
+      "reading": "ちゅうし"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「札」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l45-11.png",
+      "image_file": "assets/images/vocabulary/lesson_45/lesson_45_11.png",
+      "reading": "さつ"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「係員」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l45-12.png",
+      "image_file": "assets/images/vocabulary/lesson_45/lesson_45_12.png",
+      "reading": "かかりいん"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「コース」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l45-13.png",
+      "image_file": "assets/images/vocabulary/lesson_45/lesson_45_13.png",
+      "reading": "コース"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「スタート」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l45-14.png",
+      "image_file": "assets/images/vocabulary/lesson_45/lesson_45_14.png",
+      "reading": "スタート"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「～位」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l45-15.png",
+      "image_file": "assets/images/vocabulary/lesson_45/lesson_45_15.png",
+      "reading": "い"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「優勝します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l45-16.png",
+      "image_file": "assets/images/vocabulary/lesson_45/lesson_45_16.png",
+      "reading": "ゆうしょうする"
+    }
+  ]
+}

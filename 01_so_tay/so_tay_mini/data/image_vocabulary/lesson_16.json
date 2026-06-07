@@ -1,0 +1,217 @@
+{
+  "lesson": 16,
+  "source_url": "https://langoal.com/vocbs/lesson-16",
+  "image_dir": "assets/images/vocabulary/lesson_16",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「乗ります［電車に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-1.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_01.png",
+      "reading": "のる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「降ります［電車を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-2.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_02.png",
+      "reading": "ふる"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「乗り換えます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-3.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_03.png",
+      "reading": "のりかえる"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「浴びます［シャワーを］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-4.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_04.png",
+      "reading": "あびる"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「入れます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-5.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_05.png",
+      "reading": "いれる"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「出します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-6.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_06.png",
+      "reading": "だす"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「入ります［大学に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-7.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_07.png",
+      "reading": "はいる"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「出ます［大学を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-8.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_08.png",
+      "reading": "でる"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「やめます［会社を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-9.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_09.png",
+      "reading": "やめます"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「押します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-10.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_10.png",
+      "reading": "おす"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「若い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-11.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_11.png",
+      "reading": "わかい"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「長い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-12.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_12.png",
+      "reading": "ながい"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「短い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-13.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_13.png",
+      "reading": "みじかい"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「明るい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-14.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_14.png",
+      "reading": "あかるい"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「暗い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-15.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_15.png",
+      "reading": "くらい"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「背が高い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-16.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_16.png",
+      "reading": "せがたかい"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「体」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-17.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_17.png",
+      "reading": "からだ"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「頭」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-18.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_18.png",
+      "reading": "あたま"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「髪」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-19.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_19.png",
+      "reading": "かみ"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「顔」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-20.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_20.png",
+      "reading": "かお"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「目」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-21.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_21.png",
+      "reading": "め"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「耳」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-22.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_22.png",
+      "reading": "みみ"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「口」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-23.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_23.png",
+      "reading": "くち"
+    },
+    {
+      "index": 24,
+      "vocabulary": "「歯」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-24.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_24.png",
+      "reading": "は"
+    },
+    {
+      "index": 25,
+      "vocabulary": "「お腹」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-25.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_25.png",
+      "reading": "おなか"
+    },
+    {
+      "index": 26,
+      "vocabulary": "「足」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-26.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_26.png",
+      "reading": "あし"
+    },
+    {
+      "index": 27,
+      "vocabulary": "「ジョギング」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-27.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_27.png",
+      "reading": "ジョギング"
+    },
+    {
+      "index": 28,
+      "vocabulary": "「（お）寺」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-28.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_28.png",
+      "reading": "てら"
+    },
+    {
+      "index": 29,
+      "vocabulary": "「神社」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-29.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_29.png",
+      "reading": "じんじゃ"
+    },
+    {
+      "index": 30,
+      "vocabulary": "「留学生」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l16-30.png",
+      "image_file": "assets/images/vocabulary/lesson_16/lesson_16_30.png",
+      "reading": "りゅうがくせい"
+    }
+  ]
+}

@@ -13,6 +13,9 @@ dependencies = [
     "docx2pdf",
     "pypdf",
     "pywin32",
+    "selenium",
+    "beautifulsoup4",
+    "requests",
 ]
 
 [project.scripts]
@@ -27,6 +30,9 @@ py-modules = [
     "export",
     "formatting",
     "kanji_builder",
+    "kaiwa_builder",
+    "image_vocabulary_builder",
+    "image_vocabulary_scraper",
     "sections",
     "sort_keys",
 ]

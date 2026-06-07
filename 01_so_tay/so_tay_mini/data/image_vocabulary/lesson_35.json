@@ -1,0 +1,161 @@
+{
+  "lesson": 35,
+  "source_url": "https://langoal.com/vocbs/lesson-35",
+  "image_dir": "assets/images/vocabulary/lesson_35",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「咲きます［花が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-1.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_01.png",
+      "reading": "さく"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「変わります［色が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-2.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_02.png",
+      "reading": "かわる"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「困ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-3.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_03.png",
+      "reading": "こまる"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「付けます［丸を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-4.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_04.png",
+      "reading": "つける"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「拾います」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-5.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_05.png",
+      "reading": "ひろう"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「かかります［電話が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-6.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_06.png",
+      "reading": "かかる"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「楽［な］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-7.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_07.png",
+      "reading": "らく"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「正しい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-8.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_08.png",
+      "reading": "ただしい"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「珍しい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-9.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_09.png",
+      "reading": "めずらしい"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「島」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-10.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_10.png",
+      "reading": "しま"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「港」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-11.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_11.png",
+      "reading": "みなと"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「海外」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-12.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_12.png",
+      "reading": "かいがい"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「山登り」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-13.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_13.png",
+      "reading": "やまのぼり"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「ハイキング」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-14.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_14.png",
+      "reading": "ハイキング"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「カーテン」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-15.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_15.png",
+      "reading": "カーテン"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「ひも」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-16.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_16.png",
+      "reading": "ひも"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「ふた」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-17.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_17.png",
+      "reading": "ふた"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「葉」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-18.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_18.png",
+      "reading": "は"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「夜行バス」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-19.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_19.png",
+      "reading": "やこうバス"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「旅行社」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-20.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_20.png",
+      "reading": "りょこうしゃ"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「詳しい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-21.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_21.png",
+      "reading": "くわしい"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「スキー場」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l35-22.png",
+      "image_file": "assets/images/vocabulary/lesson_35/lesson_35_22.png",
+      "reading": "スキーじょう"
+    }
+  ]
+}

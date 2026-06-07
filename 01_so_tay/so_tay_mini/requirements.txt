@@ -2,3 +2,6 @@ python-docx
 docx2pdf
 pypdf
 pywin32
+selenium
+beautifulsoup4
+requests

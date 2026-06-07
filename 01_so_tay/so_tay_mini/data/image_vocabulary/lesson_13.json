@@ -1,0 +1,182 @@
+{
+  "lesson": 13,
+  "source_url": "https://langoal.com/vocbs/lesson-13",
+  "image_dir": "assets/images/vocabulary/lesson_13",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「遊びます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-1.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_01.png",
+      "reading": "あそぶ"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「泳ぎます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-2.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_02.png",
+      "reading": "およぐ"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「迎えます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-3.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_03.png",
+      "reading": "むかえる"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「疲れます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-4.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_04.png",
+      "reading": "つかれる"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「出します［手紙を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-5.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_05.png",
+      "reading": "だす"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「入ります［喫茶店に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-6.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_06.png",
+      "reading": "はいる"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「出ます［喫茶店を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-7.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_07.png",
+      "reading": "でる"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「結婚します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-8.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_08.png",
+      "reading": "けっこんする"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「買い物します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-9.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_09.png",
+      "reading": "かいものする"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「食事します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-10.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_10.png",
+      "reading": "しょくじする"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「散歩します［公園を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-11.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_11.png",
+      "reading": "さんぽする"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「大変な」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-12.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_12.png",
+      "reading": "たいへんな"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「欲しい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-13.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_13.png",
+      "reading": "ほしい"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「寂しい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-14.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_14.png",
+      "reading": "さびしい"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「広い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-15.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_15.png",
+      "reading": "ひろい"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「狭い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-16.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_16.png",
+      "reading": "せまい"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「プール」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-17.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_17.png",
+      "reading": "プール"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「川」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-18.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_18.png",
+      "reading": "かわ"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「美術」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-19.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_19.png",
+      "reading": "びじゅつ"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「釣り」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-20.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_20.png",
+      "reading": "つり"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「スキー」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-21.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_21.png",
+      "reading": "スキー"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「会議」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-22.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_22.png",
+      "reading": "かいぎ"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「お腹がすきました。」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-23.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_23.png",
+      "reading": "おなかがすきました"
+    },
+    {
+      "index": 24,
+      "vocabulary": "「おなかがいっぱいです。」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-24.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_24.png",
+      "reading": "おなかがいっぱいです。"
+    },
+    {
+      "index": 25,
+      "vocabulary": "「喉が渇きました。」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l13-25.png",
+      "image_file": "assets/images/vocabulary/lesson_13/lesson_13_25.png",
+      "reading": "のどがかわきました"
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "title": "KAIWA TRƯỚC XUẤT CẢNH",
+  "subtitle": "Bộ câu hỏi - trả lời ôn tập trước khi sang Nhật",
+  "description": "Nội dung tiếng Nhật ưu tiên hiragana/katakana, phù hợp trình độ đến bài 31.",
+  "sections": [
+    {
+      "title_vi": "THÔNG TIN CÁ NHÂN & CÔNG TY",
+      "items": [
+        {
+          "title_vi": "Tên, giới thiệu bản thân",
+          "qa": [
+            {
+              "question_jp": "じこしょうかいを して ください。",
+              "question_vi": "Hãy giới thiệu bản thân.",
+              "answer_jp": "はじめまして。わたしは ［Tên của bạn］と もうします。ベトナムの ［Tên quê quán］から きました。どうぞ よろしく おねがいいたします。",
+              "answer_vi": "Rất hân hạnh. Tôi tên là [Tên của bạn]. Tôi đến từ [Tên quê quán] của Việt Nam. Rất mong được anh/chị giúp đỡ."
+            }
+          ]
+        },
+        {
+          "title_vi": "Thời gian học tiếng Nhật",
+          "qa": [
+            {
+              "question_jp": "どのくらい にほんごを べんきょうしましたか。",
+              "question_vi": "Bạn đã học tiếng Nhật bao lâu rồi?",
+              "answer_jp": "［Số tháng］かげつ べんきょうしました。",
+              "answer_vi": "Tôi đã học [Số tháng] tháng."
+            }
+          ]
+        },
+        {
+          "title_vi": "Tên nghiệp đoàn, công ty, giám đốc",
+          "qa": [
+            {
+              "question_jp": "くみあいの なまえを おしえて ください。",
+              "question_vi": "Hãy cho biết tên nghiệp đoàn.",
+              "answer_jp": "［Tên nghiệp đoàn］です。",
+              "answer_vi": "Là [Tên nghiệp đoàn]."
+            },
+            {
+              "question_jp": "かいしゃの なまえと じゅうしょを おしえて ください。",
+              "question_vi": "Hãy cho biết tên và địa chỉ công ty.",
+              "answer_jp": "なまえは ［Tên công ty］です。じゅうしょは ［Địa chỉ］です。",
+              "answer_vi": "Tên công ty là [Tên công ty]. Địa chỉ là [Địa chỉ]."
+            },
+            {
+              "question_jp": "しゃちょうの なまえは わかりますか。どなたですか。",
+              "question_vi": "Bạn có biết tên giám đốc không? Là vị nào?",
+              "answer_jp": "はい、わかります。［Tên giám đốc］しゃちょう です。",
+              "answer_vi": "Vâng, tôi biết. Là giám đốc [Tên giám đốc]."
+            }
+          ]
+        },
+        {
+          "title_vi": "Công việc ở Nhật",
+          "qa": [
+            {
+              "question_jp": "にほんでの しごとは なんですか。",
+              "question_vi": "Công việc ở Nhật của bạn là gì?",
+              "answer_jp": "［Tên công việc］です。",
+              "answer_vi": "Là [Tên công việc]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_vi": "SỞ THÍCH & CUỘC SỐNG HẰNG NGÀY",
+      "items": [
+        {
+          "title_vi": "Sở thích",
+          "qa": [
+            {
+              "question_jp": "しゅみは なんですか。",
+              "question_vi": "Sở thích của bạn là gì?",
+              "answer_jp": "しゅみは サッカーです。サッカーを みる ことが すきです。しゅうまつ、ともだちと サッカーを します。サッカーは とても たのしいです。にほんで サッカーを したいです。",
+              "answer_vi": "Sở thích của tôi là bóng đá. Tôi thích xem bóng đá. Cuối tuần tôi chơi bóng đá với bạn bè. Bóng đá rất vui. Tôi muốn chơi bóng đá ở Nhật."
+            }
+          ]
+        },
+        {
+          "title_vi": "Cách học chữ Hán",
+          "qa": [
+            {
+              "question_jp": "どうやって かんじを べんきょうしますか。",
+              "question_vi": "Bạn học chữ Hán bằng cách nào?",
+              "answer_jp": "あさ おきてから、えを みて、かんじを べんきょうします。",
+              "answer_vi": "Sau khi thức dậy buổi sáng, tôi nhìn tranh và học chữ Hán."
+            }
+          ]
+        },
+        {
+          "title_vi": "Ứng dụng tiếng Nhật trên điện thoại",
+          "qa": [
+            {
+              "question_jp": "けいたいに にほんの アプリが ありますか。なまえは なんですか。",
+              "question_vi": "Điện thoại có ứng dụng tiếng Nhật không? Tên là gì?",
+              "answer_jp": "はい、あります。「［Tên app］」という アプリです。",
+              "answer_vi": "Vâng, có. Đó là ứng dụng tên là [Tên app]."
+            }
+          ]
+        },
+        {
+          "title_vi": "Giới thiệu một ngày của bản thân",
+          "qa": [
+            {
+              "question_jp": "じぶんの １にちを しょうかいして ください。",
+              "question_vi": "Hãy giới thiệu một ngày của bạn.",
+              "answer_jp": "あさ ６じに おきます。ごはんを たべてから、がっこうへ いきます。８じから ５じまで べんきょうします。よるは じしゅうを して、１１じに ねます。",
+              "answer_vi": "Tôi thức dậy lúc 6 giờ sáng. Sau khi ăn cơm, tôi đi học. Tôi học từ 8 giờ đến 5 giờ. Buổi tối tôi tự học và ngủ lúc 11 giờ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_vi": "MỤC ĐÍCH & GÓC NHÌN VỀ NHẬT BẢN",
+      "items": [
+        {
+          "title_vi": "Lý do đi Nhật và đặc điểm người Nhật",
+          "qa": [
+            {
+              "question_jp": "どうして にほんへ いきますか。",
+              "question_vi": "Tại sao bạn đi Nhật?",
+              "answer_jp": "にほんじんは とても まじめで、じかんを まもりますから、にほんの はたらきかたを べんきょうしたいです。",
+              "answer_vi": "Vì người Nhật rất nghiêm túc và tuân thủ thời gian, nên tôi muốn học cách làm việc của Nhật."
+            }
+          ]
+        },
+        {
+          "title_vi": "Điểm tốt của Nhật Bản",
+          "qa": [
+            {
+              "question_jp": "にほんの いいところは なんですか。",
+              "question_vi": "Điểm tốt của Nhật Bản là gì?",
+              "answer_jp": "きれいで、あんぜんな ところです。",
+              "answer_vi": "Là nơi sạch sẽ và an toàn."
+            }
+          ]
+        },
+        {
+          "title_vi": "Mục đích khác",
+          "qa": [
+            {
+              "question_jp": "ほかの もくてきが ありますか。",
+              "question_vi": "Còn mục đích nào khác không?",
+              "answer_jp": "ベトナムに フジさんが ありませんから、にほんで フジさんに のぼりたいです。",
+              "answer_vi": "Vì Việt Nam không có núi Phú Sĩ nên tôi muốn leo núi Phú Sĩ ở Nhật."
+            }
+          ]
+        },
+        {
+          "title_vi": "Học tiếng Nhật sau khi sang Nhật",
+          "qa": [
+            {
+              "question_jp": "にほんへ いってから、にほんごの べんきょうを つづけますか。",
+              "question_vi": "Sau khi sang Nhật, bạn có tiếp tục học tiếng Nhật không?",
+              "answer_jp": "はい、にほんへ いっても、にほんごの べんきょうを つづける つもりです。",
+              "answer_vi": "Vâng, dù sang Nhật tôi vẫn dự định tiếp tục học tiếng Nhật."
+            }
+          ]
+        },
+        {
+          "title_vi": "Thời tiết và động đất",
+          "qa": [
+            {
+              "question_jp": "にほんの てんきは いま どうですか。ベトナムは どうですか。",
+              "question_vi": "Thời tiết Nhật hiện tại thế nào? Việt Nam thế nào?",
+              "answer_jp": "にほんは いま あきですから、すずしいです。ベトナムは あついです。",
+              "answer_vi": "Nhật hiện là mùa thu nên mát mẻ. Việt Nam thì nóng."
+            },
+            {
+              "question_jp": "ベトナムに じしんが ありますか。",
+              "question_vi": "Việt Nam có động đất không?",
+              "answer_jp": "いいえ、ありません。",
+              "answer_vi": "Không, không có."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_vi": "5S, HORENSO VÀ QUY TẮC LÀM VIỆC",
+      "items": [
+        {
+          "title_vi": "Áp dụng 5S hằng ngày ở trường, ký túc xá, công ty",
+          "qa": [
+            {
+              "question_jp": "にほんで ５Ｓは だいじょうぶですか。まいにち していますか。",
+              "question_vi": "Ở Nhật 5S có ổn không? Mỗi ngày có làm không?",
+              "answer_jp": "はい、だいじょうぶです。まいにち しています。",
+              "answer_vi": "Vâng, ổn ạ. Tôi làm mỗi ngày."
+            },
+            {
+              "question_jp": "がっこうで どんな ５Ｓを していますか。",
+              "question_vi": "Ở trường áp dụng 5S thế nào?",
+              "answer_jp": "つくえの うえを せいとんします。きょうしつを せいそうします。",
+              "answer_vi": "Tôi sắp xếp trên bàn và vệ sinh phòng học."
+            },
+            {
+              "question_jp": "りょうで どんな ５Ｓを していますか。",
+              "question_vi": "Ở ký túc xá áp dụng 5S thế nào?",
+              "answer_jp": "いらない ものを すてます。ふとんや ベッドを せいとんします。",
+              "answer_vi": "Tôi vứt đồ không cần thiết và sắp xếp chăn nệm, giường."
+            },
+            {
+              "question_jp": "かいしゃで どんな ５Ｓを しますか。",
+              "question_vi": "Ở công ty áp dụng 5S thế nào?",
+              "answer_jp": "つかう ものと つかわない ものを わけて、つかわない ものを すてます。きかいを そうじします。",
+              "answer_vi": "Tôi phân loại đồ dùng và đồ không dùng, vứt đồ không dùng, và vệ sinh máy móc."
+            }
+          ]
+        },
+        {
+          "title_vi": "Báo cáo - liên lạc - bàn bạc",
+          "qa": [
+            {
+              "question_jp": "ほうれんそうは なんですか。",
+              "question_vi": "HORENSO là gì?",
+              "answer_jp": "ほうこく、れんらく、そうだんです。",
+              "answer_vi": "Là báo cáo, liên lạc, bàn bạc."
+            },
+            {
+              "question_jp": "どんな とき、ほうこくしますか。",
+              "question_vi": "Khi nào dùng báo cáo?",
+              "answer_jp": "がっこうで、しゅくだいが おわった とき、せんせいに ほうこくします。かいしゃで、しごとが おわった とき、かかりにんに ほうこくします。",
+              "answer_vi": "Ở trường, khi làm xong bài tập thì báo cáo giáo viên. Ở công ty, khi làm xong việc thì báo cáo người phụ trách."
+            },
+            {
+              "question_jp": "どんな とき、れんらくしますか。",
+              "question_vi": "Khi nào dùng liên lạc?",
+              "answer_jp": "がっこう や かいしゃを やすみたい とき、れんらくします。",
+              "answer_vi": "Khi muốn nghỉ học hoặc nghỉ làm thì liên lạc."
+            },
+            {
+              "question_jp": "どんな とき、そうだんしますか。",
+              "question_vi": "Khi nào dùng bàn bạc?",
+              "answer_jp": "しごとの やりかたが わからない とき、そうだんします。",
+              "answer_vi": "Khi không biết cách làm việc thì bàn bạc."
+            },
+            {
+              "question_jp": "だれに れんらくしますか。",
+              "question_vi": "Liên lạc cho ai?",
+              "answer_jp": "せんせい や かかりにんに れんらくします。",
+              "answer_vi": "Tôi liên lạc cho giáo viên hoặc người phụ trách."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_vi": "TÌNH HUỐNG KHẨN CẤP",
+      "items": [
+        {
+          "title_vi": "Xử lý khi hỏa hoạn, động đất, bị thương",
+          "qa": [
+            {
+              "question_jp": "かじの とき、なにを しなければ なりませんか。",
+              "question_vi": "Khi hỏa hoạn phải làm gì?",
+              "answer_jp": "すぐ にげなければ なりません。エレベーターを つかっては いけません。",
+              "answer_vi": "Phải chạy trốn ngay. Không được dùng thang máy."
+            },
+            {
+              "question_jp": "じしんの とき、なにを しては いけませんか。",
+              "question_vi": "Khi động đất không được làm gì?",
+              "answer_jp": "あわてて、そとへ でては いけません。",
+              "answer_vi": "Không được hoảng hốt chạy ra ngoài."
+            },
+            {
+              "question_jp": "けがを した とき、だれに れんらくしますか。",
+              "question_vi": "Khi bị thương liên lạc cho ai?",
+              "answer_jp": "１１９ばんに でんわを して、かかりにんに れんらくします。",
+              "answer_vi": "Tôi gọi số 119 và liên lạc cho người phụ trách."
+            }
+          ]
+        },
+        {
+          "title_vi": "Rác cỡ lớn",
+          "qa": [
+            {
+              "question_jp": "そだいごみは なにが ありますか。",
+              "question_vi": "Rác cỡ lớn gồm những gì?",
+              "answer_jp": "つくえ や いす や じてんしゃ など です。",
+              "answer_vi": "Là bàn, ghế, xe đạp, v.v."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_vi": "QUAN SÁT & TÍNH TOÁN",
+      "items": [
+        {
+          "title_vi": "Quan sát xung quanh",
+          "qa": [
+            {
+              "question_jp": "いま きている ふくは なにいろですか。",
+              "question_vi": "Quần áo đang mặc màu gì?",
+              "answer_jp": "しろ と くろ です。",
+              "answer_vi": "Màu trắng và đen."
+            },
+            {
+              "question_jp": "いま へやに なんにん いますか。",
+              "question_vi": "Phòng hiện tại có mấy người?",
+              "answer_jp": "［Số lượng］にん います。",
+              "answer_vi": "Có [Số lượng] người."
+            },
+            {
+              "question_jp": "へやを でて、ひだりに なにが ありますか。",
+              "question_vi": "Ra khỏi phòng, bên trái có gì?",
+              "answer_jp": "トイレ または かいだんが あります。",
+              "answer_vi": "Có nhà vệ sinh hoặc cầu thang."
+            },
+            {
+              "question_jp": "りょうの つくえの うえに なにが ありますか。",
+              "question_vi": "Trên bàn ở ký túc xá có gì?",
+              "answer_jp": "ほん や ぺん が あります。",
+              "answer_vi": "Có sách và bút."
+            }
+          ]
+        },
+        {
+          "title_vi": "Đếm ngày và tính toán",
+          "qa": [
+            {
+              "question_jp": "いつかの つぎは なんにち ですか。",
+              "question_vi": "Sau ngày mùng 5 là ngày mấy?",
+              "answer_jp": "むいか です。",
+              "answer_vi": "Là ngày mùng 6."
+            },
+            {
+              "question_jp": "１しゅうかんに ３にち にほんごを べんきょうします。１かげつに なんにち にほんごを べんきょうしますか。",
+              "question_vi": "Một tuần học 3 ngày tiếng Nhật. Một tháng học mấy ngày?",
+              "answer_jp": "１かげつは ４しゅうかん ありますから、１２にち べんきょうします。",
+              "answer_vi": "Một tháng có 4 tuần, nên học 12 ngày."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_vi": "CHÀO HỎI KHI ĐẾN NHẬT",
+      "items": [
+        {
+          "title_vi": "Chào giáo viên trước khi đi",
+          "qa": [
+            {
+              "question_jp": "にほんへ いく まえに、せんせいに なんと いいますか。",
+              "question_vi": "Trước khi đi Nhật nói gì với giáo viên?",
+              "answer_jp": "この いちねんかん、いろいろ おせわに なりました。どうも ありがとう ございました。せんせいがた、どうぞ おげんきで。",
+              "answer_vi": "Trong một năm qua em đã được giúp đỡ nhiều. Em xin cảm ơn. Chúc thầy cô luôn mạnh khỏe."
+            }
+          ]
+        },
+        {
+          "title_vi": "Ở sân bay và lên xuống xe",
+          "qa": [
+            {
+              "question_jp": "くうこうで、くるまに のる とき、なんと いいますか。",
+              "question_vi": "Ở sân bay khi lên xe nói gì?",
+              "answer_jp": "くるまに のります。おねがいします。",
+              "answer_vi": "Tôi xin phép lên xe. Nhờ anh/chị giúp đỡ."
+            },
+            {
+              "question_jp": "くるまを おりる とき、なんと いいますか。",
+              "question_vi": "Lúc xuống xe nói gì?",
+              "answer_jp": "くるまを おります。むかえに きて いただき、ありがとう ございました。",
+              "answer_vi": "Tôi xin phép xuống xe. Cảm ơn anh/chị đã đến đón."
+            }
+          ]
+        },
+        {
+          "title_vi": "Ngày đầu ở công ty hoặc nghiệp đoàn",
+          "qa": [
+            {
+              "question_jp": "かいしゃ、または くみあいの はじめの ひ、なんと いいますか。",
+              "question_vi": "Ngày đầu ở công ty hoặc nghiệp đoàn nói gì?",
+              "answer_jp": "これから おせわに なります。いっしょうけんめい がんばります。どうぞ よろしく おねがいいたします。",
+              "answer_vi": "Từ nay tôi mong được giúp đỡ. Tôi sẽ cố gắng hết sức. Rất mong được anh/chị giúp đỡ."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "advice": [
+    "Học thuộc phần Q và A tiếng Nhật trước.",
+    "Khi luyện nói, thay các phần trong dấu ［ ］ bằng thông tin thật của bản thân.",
+    "Trả lời chậm, rõ, đủ ý; ưu tiên câu ngắn, chắc ngữ pháp."
+  ]
+}

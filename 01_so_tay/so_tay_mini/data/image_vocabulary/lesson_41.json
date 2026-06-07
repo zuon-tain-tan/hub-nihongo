@@ -1,0 +1,175 @@
+{
+  "lesson": 41,
+  "source_url": "https://langoal.com/vocbs/lesson-41",
+  "image_dir": "assets/images/vocabulary/lesson_41",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「やります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-1.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_01.png",
+      "reading": "やります"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「取り替えます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-2.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_02.png",
+      "reading": "とりかえる"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「親切にします」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-3.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_03.png",
+      "reading": "しんせつにする"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「かわいい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-4.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_04.png",
+      "reading": "かわいい"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「（お）祝い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-5.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_05.png",
+      "reading": "おいわい"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「お年玉」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-6.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_06.png",
+      "reading": "おとしだま"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「（お）見舞い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-7.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_07.png",
+      "reading": "みまい"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「猿」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-8.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_08.png",
+      "reading": "さる"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「餌」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-9.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_09.png",
+      "reading": "えさ"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「おもちゃ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-10.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_10.png",
+      "reading": "おもちゃ"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「絵本」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-11.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_11.png",
+      "reading": "えほん"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「絵はがき」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-12.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_12.png",
+      "reading": "えはがき"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「ハンカチ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-13.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_13.png",
+      "reading": "ハンカチ"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「靴下」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-14.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_14.png",
+      "reading": "くつした"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「手袋」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-15.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_15.png",
+      "reading": "てぶくろ"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「指輪」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-16.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_16.png",
+      "reading": "ゆびわ"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「バッグ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-17.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_17.png",
+      "reading": "バッグ"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「祖父」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-18.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_18.png",
+      "reading": "そふ"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「祖母」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-19.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_19.png",
+      "reading": "そぼ"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「孫」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-20.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_20.png",
+      "reading": "まご"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「おじ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-21.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_21.png",
+      "reading": "おじ"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「おば」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-22.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_22.png",
+      "reading": "おば"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「預かります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-23.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_23.png",
+      "reading": "あずかります"
+    },
+    {
+      "index": 24,
+      "vocabulary": "「助かります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l41-24.png",
+      "image_file": "assets/images/vocabulary/lesson_41/lesson_41_24.png",
+      "reading": "たすかります"
+    }
+  ]
+}

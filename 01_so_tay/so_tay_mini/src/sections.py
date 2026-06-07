@@ -273,6 +273,15 @@ def add_online_version_page(doc, qr_path, updated_date):
     add_centered_line("ChatGPT 5.5")
 
 
+def add_completion_image_page(doc, image_path):
+    paragraph = doc.add_paragraph()
+    apply_paragraph_format(paragraph, WD_ALIGN_PARAGRAPH.CENTER)
+    if image_path.exists():
+        paragraph.add_run().add_picture(str(image_path), height=Cm(18))
+    else:
+        apply_run_font(paragraph.add_run("[Thiếu ảnh hoàn tất]"), bold=True)
+
+
 def add_horenso_section(doc, data):
     if not data:
         return

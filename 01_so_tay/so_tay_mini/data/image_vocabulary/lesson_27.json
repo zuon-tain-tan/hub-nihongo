@@ -1,0 +1,175 @@
+{
+  "lesson": 27,
+  "source_url": "https://langoal.com/vocbs/lesson-27",
+  "image_dir": "assets/images/vocabulary/lesson_27",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「飼います」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-1.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_01.png",
+      "reading": "かう"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「建てます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-2.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_02.png",
+      "reading": "たてる"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「走ります［道を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-3.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_03.png",
+      "reading": "はしる"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「取ります［休みを］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-4.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_04.png",
+      "reading": "とる"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「見えます［山が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-5.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_05.png",
+      "reading": "みえる"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「聞こえます［音が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-6.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_06.png",
+      "reading": "きこえる"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「できます［ビルが］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-7.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_07.png",
+      "reading": "できます"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「開きます［教室を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-8.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_08.png",
+      "reading": "ひらく"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「ペット」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-9.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_09.png",
+      "reading": "ペット"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「鳥」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-10.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_10.png",
+      "reading": "とり"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「声」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-11.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_11.png",
+      "reading": "こえ"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「波」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-12.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_12.png",
+      "reading": "なみ"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「花火」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-13.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_13.png",
+      "reading": "はなび"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「景色」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-14.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_14.png",
+      "reading": "けしき"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「昔」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-15.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_15.png",
+      "reading": "むかし"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「道具」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-16.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_16.png",
+      "reading": "どうぐ"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「自動販売機」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-17.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_17.png",
+      "reading": "じどうはんばいき"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「通信販売」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-18.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_18.png",
+      "reading": "つうしんはんばい"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「クリーニング」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-19.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_19.png",
+      "reading": "クリーニング"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「マンション」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-20.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_20.png",
+      "reading": "マンション"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「台所」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-21.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_21.png",
+      "reading": "だいどころ"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「日曜大工」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-22.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_22.png",
+      "reading": "にちようだいく"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「本棚」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-23.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_23.png",
+      "reading": "ほんだな"
+    },
+    {
+      "index": 24,
+      "vocabulary": "「素晴らしい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l27-24.png",
+      "image_file": "assets/images/vocabulary/lesson_27/lesson_27_24.png",
+      "reading": "すばらしい"
+    }
+  ]
+}

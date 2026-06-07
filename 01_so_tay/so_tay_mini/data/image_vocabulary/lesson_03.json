@@ -1,0 +1,140 @@
+{
+  "lesson": 3,
+  "source_url": "https://langoal.com/vocbs/lesson-3",
+  "image_dir": "assets/images/vocabulary/lesson_03",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「教室」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l3-1.png",
+      "image_file": "assets/images/vocabulary/lesson_03/lesson_03_01.png",
+      "reading": "きょうしつ"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「食堂」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l3-2.png",
+      "image_file": "assets/images/vocabulary/lesson_03/lesson_03_02.png",
+      "reading": "しょくどう"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「事務所」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l3-3.png",
+      "image_file": "assets/images/vocabulary/lesson_03/lesson_03_03.png",
+      "reading": "じむしょ"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「会議室」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l3-4.png",
+      "image_file": "assets/images/vocabulary/lesson_03/lesson_03_04.png",
+      "reading": "かいぎしつ"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「受付」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l3-5.png",
+      "image_file": "assets/images/vocabulary/lesson_03/lesson_03_05.png",
+      "reading": "うけつけ"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「ロビー」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l3-6.png",
+      "image_file": "assets/images/vocabulary/lesson_03/lesson_03_06.png",
+      "reading": "ロビー"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「部屋」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l3-7.png",
+      "image_file": "assets/images/vocabulary/lesson_03/lesson_03_07.png",
+      "reading": "へや"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「トイレ」「お手洗い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l3-8.png",
+      "image_file": "assets/images/vocabulary/lesson_03/lesson_03_08.png",
+      "reading": "トイレ / おてあらい"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「階段」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l3-9.png",
+      "image_file": "assets/images/vocabulary/lesson_03/lesson_03_09.png",
+      "reading": "かいだん"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「エレベーター」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l3-10.png",
+      "image_file": "assets/images/vocabulary/lesson_03/lesson_03_10.png",
+      "reading": "エレベーター"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「エスカレーター」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l3-11.png",
+      "image_file": "assets/images/vocabulary/lesson_03/lesson_03_11.png",
+      "reading": "エスカレーター"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「（お）国」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l3-12.png",
+      "image_file": "assets/images/vocabulary/lesson_03/lesson_03_12.png",
+      "reading": "くに"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「会社」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l3-13.png",
+      "image_file": "assets/images/vocabulary/lesson_03/lesson_03_13.png",
+      "reading": "かいしゃ"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「家」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l3-14.png",
+      "image_file": "assets/images/vocabulary/lesson_03/lesson_03_14.png",
+      "reading": "いえ"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「電話」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l3-15.png",
+      "image_file": "assets/images/vocabulary/lesson_03/lesson_03_15.png",
+      "reading": "でんわ"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「靴」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l3-16.png",
+      "image_file": "assets/images/vocabulary/lesson_03/lesson_03_16.png",
+      "reading": "くつ"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「ネクタイ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l3-17.png",
+      "image_file": "assets/images/vocabulary/lesson_03/lesson_03_17.png",
+      "reading": "ネクタイ"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「ワイン」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l3-18.png",
+      "image_file": "assets/images/vocabulary/lesson_03/lesson_03_18.png",
+      "reading": "ワイン"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「煙草」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l3-19.png",
+      "image_file": "assets/images/vocabulary/lesson_03/lesson_03_19.png",
+      "reading": "たばこ"
+    }
+  ]
+}

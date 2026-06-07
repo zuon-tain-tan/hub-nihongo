@@ -1,0 +1,175 @@
+{
+  "lesson": 40,
+  "source_url": "https://langoal.com/vocbs/lesson-40",
+  "image_dir": "assets/images/vocabulary/lesson_40",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「数えます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-1.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_01.png",
+      "reading": "かぞえる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「はかります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-2.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_02.png",
+      "reading": "はかります"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「確かめます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-3.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_03.png",
+      "reading": "たしかめる"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「合います［サイズが］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-4.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_04.png",
+      "reading": "あう"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「出発します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-5.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_05.png",
+      "reading": "しゅっぱつする"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「到着します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-6.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_06.png",
+      "reading": "とうちゃくする"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「酔います」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-7.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_07.png",
+      "reading": "よう"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「危険［な］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-8.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_08.png",
+      "reading": "きけん"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「必要［な］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-9.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_09.png",
+      "reading": "ひつよう"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「宇宙」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-10.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_10.png",
+      "reading": "うちゅう"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「地球」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-11.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_11.png",
+      "reading": "ちきゅう"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「忘年会」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-12.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_12.png",
+      "reading": "ぼうねんかい"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「新年会」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-13.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_13.png",
+      "reading": "しんねんかい"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「二次会」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-14.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_14.png",
+      "reading": "にじかい"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「マラソン」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-15.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_15.png",
+      "reading": "マラソン"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「コンテスト」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-16.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_16.png",
+      "reading": "コンテスト"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「表」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-17.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_17.png",
+      "reading": "おもて"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「裏」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-18.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_18.png",
+      "reading": "うら"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「申し込み」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-19.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_19.png",
+      "reading": "もうしこみ"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「傷」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-20.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_20.png",
+      "reading": "きず"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「ズボン」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-21.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_21.png",
+      "reading": "ズボン"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「クラス」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-22.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_22.png",
+      "reading": "クラス"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「テスト」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-23.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_23.png",
+      "reading": "テスト"
+    },
+    {
+      "index": 24,
+      "vocabulary": "「成績」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l40-24.png",
+      "image_file": "assets/images/vocabulary/lesson_40/lesson_40_24.png",
+      "reading": "せいせき"
+    }
+  ]
+}

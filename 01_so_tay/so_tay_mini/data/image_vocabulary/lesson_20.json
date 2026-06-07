@@ -1,0 +1,63 @@
+{
+  "lesson": 20,
+  "source_url": "https://langoal.com/vocbs/lesson-20",
+  "image_dir": "assets/images/vocabulary/lesson_20",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「要ります［パスポートが］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l20-1.png",
+      "image_file": "assets/images/vocabulary/lesson_20/lesson_20_01.png",
+      "reading": "いる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「調べます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l20-2.png",
+      "image_file": "assets/images/vocabulary/lesson_20/lesson_20_02.png",
+      "reading": "しらべる"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「直します［自転車を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l20-3.png",
+      "image_file": "assets/images/vocabulary/lesson_20/lesson_20_03.png",
+      "reading": "なおす"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「直します［答えを］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l20-4.png",
+      "image_file": "assets/images/vocabulary/lesson_20/lesson_20_04.png",
+      "reading": "なおす"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「修理します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l20-5.png",
+      "image_file": "assets/images/vocabulary/lesson_20/lesson_20_05.png",
+      "reading": "しゅうりする"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「電話します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l20-6.png",
+      "image_file": "assets/images/vocabulary/lesson_20/lesson_20_06.png",
+      "reading": "でんわする"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「サラリーマン」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l20-7.png",
+      "image_file": "assets/images/vocabulary/lesson_20/lesson_20_07.png",
+      "reading": "サラリーマン"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「着物」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l20-8.png",
+      "image_file": "assets/images/vocabulary/lesson_20/lesson_20_08.png",
+      "reading": "きもの"
+    }
+  ]
+}

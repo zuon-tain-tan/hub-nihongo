@@ -1,0 +1,77 @@
+{
+  "lesson": 46,
+  "source_url": "https://langoal.com/vocbs/lesson-46",
+  "image_dir": "assets/images/vocabulary/lesson_46",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「焼きます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l46-1.png",
+      "image_file": "assets/images/vocabulary/lesson_46/lesson_46_01.png",
+      "reading": "やく"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「渡します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l46-2.png",
+      "image_file": "assets/images/vocabulary/lesson_46/lesson_46_02.png",
+      "reading": "わたす"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「出ます［バスが］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l46-3.png",
+      "image_file": "assets/images/vocabulary/lesson_46/lesson_46_03.png",
+      "reading": "でる"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「留守」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l46-4.png",
+      "image_file": "assets/images/vocabulary/lesson_46/lesson_46_04.png",
+      "reading": "るす"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「宅配便」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l46-5.png",
+      "image_file": "assets/images/vocabulary/lesson_46/lesson_46_05.png",
+      "reading": "たくはいびん"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「注射」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l46-6.png",
+      "image_file": "assets/images/vocabulary/lesson_46/lesson_46_06.png",
+      "reading": "ちゅうしゃ"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「食欲」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l46-7.png",
+      "image_file": "assets/images/vocabulary/lesson_46/lesson_46_07.png",
+      "reading": "しょくよく"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「パンフレット」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l46-8.png",
+      "image_file": "assets/images/vocabulary/lesson_46/lesson_46_08.png",
+      "reading": "パンフレット"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「ガスレンジ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l46-9.png",
+      "image_file": "assets/images/vocabulary/lesson_46/lesson_46_09.png",
+      "reading": "ガスレンジ"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「向かいます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l46-10.png",
+      "image_file": "assets/images/vocabulary/lesson_46/lesson_46_10.png",
+      "reading": "むかう"
+    }
+  ]
+}

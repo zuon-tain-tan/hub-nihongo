@@ -1,0 +1,161 @@
+{
+  "lesson": 2,
+  "source_url": "https://langoal.com/vocbs/lesson-2",
+  "image_dir": "assets/images/vocabulary/lesson_02",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「本」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-1.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_01.png",
+      "reading": "ほん"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「辞書」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-2.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_02.png",
+      "reading": "じしょ"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「雑誌」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-3.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_03.png",
+      "reading": "ざっし"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「新聞」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-4.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_04.png",
+      "reading": "しんぶん"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「ノート」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-5.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_05.png",
+      "reading": "ノート"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「手帳」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-6.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_06.png",
+      "reading": "てちょう"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「名刺」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-7.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_07.png",
+      "reading": "めいし"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「カード」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-8.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_08.png",
+      "reading": "カード"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「えんぴつ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-9.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_09.png",
+      "reading": "えんぴつ"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「ボールペン」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-10.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_10.png",
+      "reading": "ボールペン"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「シャープペンシル」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-11.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_11.png",
+      "reading": "シャープペンシル"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「鍵」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-12.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_12.png",
+      "reading": "かぎ"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「時計」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-13.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_13.png",
+      "reading": "とけい"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「傘」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-14.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_14.png",
+      "reading": "かさ"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「かばん」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-15.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_15.png",
+      "reading": "かばん"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「テレビ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-16.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_16.png",
+      "reading": "テレビ"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「ラジオ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-17.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_17.png",
+      "reading": "ラジオ"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「カメラ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-18.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_18.png",
+      "reading": "カメラ"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「机」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-21.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_21.png",
+      "reading": "つくえ"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「椅子」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-22.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_22.png",
+      "reading": "いす"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「チョコレート」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-23.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_23.png",
+      "reading": "チョコレート"
+    },
+    {
+      "index": 24,
+      "vocabulary": "「コーヒー」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l2-24.png",
+      "image_file": "assets/images/vocabulary/lesson_02/lesson_02_24.png",
+      "reading": "コーヒー"
+    }
+  ]
+}

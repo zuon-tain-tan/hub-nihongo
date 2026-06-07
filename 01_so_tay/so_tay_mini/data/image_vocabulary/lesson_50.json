@@ -1,0 +1,70 @@
+{
+  "lesson": 50,
+  "source_url": "https://langoal.com/vocbs/lesson-50",
+  "image_dir": "assets/images/vocabulary/lesson_50",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「ガイド」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l50-1.png",
+      "image_file": "assets/images/vocabulary/lesson_50/lesson_50_01.png",
+      "reading": "ガイド"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「アルバム」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l50-2.png",
+      "image_file": "assets/images/vocabulary/lesson_50/lesson_50_02.png",
+      "reading": "アルバム"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「緊張します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l50-3.png",
+      "image_file": "assets/images/vocabulary/lesson_50/lesson_50_03.png",
+      "reading": "きんちょうする"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「放送します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l50-4.png",
+      "image_file": "assets/images/vocabulary/lesson_50/lesson_50_04.png",
+      "reading": "ほうそうします"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「撮ります［ビデオに］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l50-5.png",
+      "image_file": "assets/images/vocabulary/lesson_50/lesson_50_05.png",
+      "reading": "とる"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「自然」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l50-6.png",
+      "image_file": "assets/images/vocabulary/lesson_50/lesson_50_06.png",
+      "reading": "しぜん"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「きりん」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l50-7.png",
+      "image_file": "assets/images/vocabulary/lesson_50/lesson_50_07.png",
+      "reading": "きりん"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「象」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l50-8.png",
+      "image_file": "assets/images/vocabulary/lesson_50/lesson_50_08.png",
+      "reading": "ぞう"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「叶います［夢が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l50-9.png",
+      "image_file": "assets/images/vocabulary/lesson_50/lesson_50_09.png",
+      "reading": "かなう"
+    }
+  ]
+}

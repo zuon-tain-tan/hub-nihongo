@@ -1,0 +1,252 @@
+{
+  "lesson": 30,
+  "source_url": "https://langoal.com/vocbs/lesson-30",
+  "image_dir": "assets/images/vocabulary/lesson_30",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「貼ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-1.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_01.png",
+      "reading": "はる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「掛けます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-2.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_02.png",
+      "reading": "かける"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「飾ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-3.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_03.png",
+      "reading": "かざる"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「並べます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-4.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_04.png",
+      "reading": "ならべる"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「植えます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-5.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_05.png",
+      "reading": "うえる"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「戻します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-6.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_06.png",
+      "reading": "もどす"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「まとめます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-7.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_07.png",
+      "reading": "まとめます"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「まとめます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-8.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_08.png",
+      "reading": "まとめます"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「片付けます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-9.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_09.png",
+      "reading": "かたづける"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「しまいます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-10.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_10.png",
+      "reading": "しまいます"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「決めます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-11.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_11.png",
+      "reading": "きめる"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「知らせます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-12.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_12.png",
+      "reading": "しらせる"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「相談します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-13.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_13.png",
+      "reading": "そうだんする"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「予習します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-14.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_14.png",
+      "reading": "よしゅうする"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「復習します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-15.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_15.png",
+      "reading": "ふくしゅうする"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「そのままにします」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-16.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_16.png",
+      "reading": "そのままにします"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「授業」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-17.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_17.png",
+      "reading": "じゅぎょう"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「講義」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-18.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_18.png",
+      "reading": "こうぎ"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「ミーティング」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-19.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_19.png",
+      "reading": "ミーティング"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「予定」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-20.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_20.png",
+      "reading": "よてい"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「カレンダー」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-21.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_21.png",
+      "reading": "カレンダー"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「ごみ箱」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-22.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_22.png",
+      "reading": "ごみばこ"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「人形」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-23.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_23.png",
+      "reading": "にんぎょう"
+    },
+    {
+      "index": 24,
+      "vocabulary": "「花瓶」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-24.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_24.png",
+      "reading": "かびん"
+    },
+    {
+      "index": 25,
+      "vocabulary": "「鏡」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-25.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_25.png",
+      "reading": "かがみ"
+    },
+    {
+      "index": 26,
+      "vocabulary": "「引き出し」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-26.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_26.png",
+      "reading": "ひきだし"
+    },
+    {
+      "index": 27,
+      "vocabulary": "「玄関」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-27.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_27.png",
+      "reading": "げんかん"
+    },
+    {
+      "index": 28,
+      "vocabulary": "「廊下」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-28.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_28.png",
+      "reading": "ろうか"
+    },
+    {
+      "index": 29,
+      "vocabulary": "「壁」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-29.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_29.png",
+      "reading": "かべ"
+    },
+    {
+      "index": 30,
+      "vocabulary": "「池」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-30.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_30.png",
+      "reading": "いけ"
+    },
+    {
+      "index": 31,
+      "vocabulary": "「交番」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-31.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_31.png",
+      "reading": "こうばん"
+    },
+    {
+      "index": 32,
+      "vocabulary": "「周り」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-32.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_32.png",
+      "reading": "まわり"
+    },
+    {
+      "index": 33,
+      "vocabulary": "「真ん中」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-33.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_33.png",
+      "reading": "まんなか"
+    },
+    {
+      "index": 34,
+      "vocabulary": "「隅」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-34.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_34.png",
+      "reading": "すみ"
+    },
+    {
+      "index": 35,
+      "vocabulary": "「ミュージカル」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l30-35.png",
+      "image_file": "assets/images/vocabulary/lesson_30/lesson_30_35.png",
+      "reading": "ミュージカル"
+    }
+  ]
+}

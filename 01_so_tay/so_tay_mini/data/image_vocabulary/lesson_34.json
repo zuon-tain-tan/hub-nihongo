@@ -1,0 +1,217 @@
+{
+  "lesson": 34,
+  "source_url": "https://langoal.com/vocbs/lesson-34",
+  "image_dir": "assets/images/vocabulary/lesson_34",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「磨きます［歯を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-1.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_01.png",
+      "reading": "みがく"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「磨きます［靴を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-2.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_02.png",
+      "reading": "みがく"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「組み立てます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-3.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_03.png",
+      "reading": "くみたてる"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「折ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-4.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_04.png",
+      "reading": "おる"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「気が付きます［に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-5.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_05.png",
+      "reading": "きがつく"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「つけます［醤油を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-6.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_06.png",
+      "reading": "つけます"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「見つかります［鍵が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-7.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_07.png",
+      "reading": "みつかる"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「します［ネクタイを］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-8.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_08.png",
+      "reading": "します"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「質問します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-9.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_09.png",
+      "reading": "しつもんする"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「細い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-10.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_10.png",
+      "reading": "ほそい"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「太い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-11.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_11.png",
+      "reading": "ふとい"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「盆踊り」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-12.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_12.png",
+      "reading": "ぼんおどり"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「スポーツクラブ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-13.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_13.png",
+      "reading": "スポーツクラブ"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「家具」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-14.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_14.png",
+      "reading": "かぐ"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「キー」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-15.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_15.png",
+      "reading": "キー"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「シートベルト」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-16.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_16.png",
+      "reading": "シートベルト"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「説明書」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-17.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_17.png",
+      "reading": "せつめいしょ"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「図」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-18.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_18.png",
+      "reading": "ず"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「矢印」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-19.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_19.png",
+      "reading": "やじるし"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「黒」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-20.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_20.png",
+      "reading": "くろ"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「白」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-21.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_21.png",
+      "reading": "しろ"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「赤」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-22.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_22.png",
+      "reading": "あか"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「青」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-23.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_23.png",
+      "reading": "あお"
+    },
+    {
+      "index": 24,
+      "vocabulary": "「黄色」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-24.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_24.png",
+      "reading": "きいろ"
+    },
+    {
+      "index": 25,
+      "vocabulary": "「茶色」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-25.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_25.png",
+      "reading": "ちゃいろ"
+    },
+    {
+      "index": 26,
+      "vocabulary": "「ソース」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-26.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_26.png",
+      "reading": "ソース"
+    },
+    {
+      "index": 27,
+      "vocabulary": "「茶道」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-27.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_27.png",
+      "reading": "さどう"
+    },
+    {
+      "index": 28,
+      "vocabulary": "「お茶をたてます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-28.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_28.png",
+      "reading": "おちゃをたてる"
+    },
+    {
+      "index": 29,
+      "vocabulary": "「載せます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-29.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_29.png",
+      "reading": "のせる"
+    },
+    {
+      "index": 30,
+      "vocabulary": "「苦い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l34-30.png",
+      "image_file": "assets/images/vocabulary/lesson_34/lesson_34_30.png",
+      "reading": "にがい"
+    }
+  ]
+}

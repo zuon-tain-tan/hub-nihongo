@@ -1,0 +1,168 @@
+{
+  "lesson": 14,
+  "source_url": "https://langoal.com/vocbs/lesson-14",
+  "image_dir": "assets/images/vocabulary/lesson_14",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「つけます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-1.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_01.png",
+      "reading": "つけます"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「消します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-2.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_02.png",
+      "reading": "けす"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「開けます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-3.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_03.png",
+      "reading": "あける"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「閉めます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-4.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_04.png",
+      "reading": "しめる"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「急ぎます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-5.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_05.png",
+      "reading": "いそぐ"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「待ちます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-6.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_06.png",
+      "reading": "まつ"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「止めます［音楽を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-7.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_07.png",
+      "reading": "とめる"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「駐めます［車を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-8.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_08.png",
+      "reading": "とめます"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「曲がります［右へ］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-9.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_09.png",
+      "reading": "まがる"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「持ちます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-10.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_10.png",
+      "reading": "もつ"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「取ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-11.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_11.png",
+      "reading": "とる"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「手伝います」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-12.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_12.png",
+      "reading": "てつだう"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「呼びます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-13.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_13.png",
+      "reading": "よぶ"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「話します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-14.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_14.png",
+      "reading": "はなす"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「見せます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-15.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_15.png",
+      "reading": "みせる"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「教えます［住所を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-16.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_16.png",
+      "reading": "おしえる"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「始めます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-17.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_17.png",
+      "reading": "はじめる"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「降ります［雨が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-18.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_18.png",
+      "reading": "ふる"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「コピーします」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-19.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_19.png",
+      "reading": "コピーします"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「エアコン」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-20.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_20.png",
+      "reading": "エアコン"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「パスポート」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-21.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_21.png",
+      "reading": "パスポート"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「塩」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-22.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_22.png",
+      "reading": "しお"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「砂糖」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l14-23.png",
+      "image_file": "assets/images/vocabulary/lesson_14/lesson_14_23.png",
+      "reading": "さとう"
+    }
+  ]
+}

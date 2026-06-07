@@ -1,0 +1,119 @@
+{
+  "lesson": 15,
+  "source_url": "https://langoal.com/vocbs/lesson-15",
+  "image_dir": "assets/images/vocabulary/lesson_15",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「立ちます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l15-1.png",
+      "image_file": "assets/images/vocabulary/lesson_15/lesson_15_01.png",
+      "reading": "たつ"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「座ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l15-2.png",
+      "image_file": "assets/images/vocabulary/lesson_15/lesson_15_02.png",
+      "reading": "すわる"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「使います」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l15-3.png",
+      "image_file": "assets/images/vocabulary/lesson_15/lesson_15_03.png",
+      "reading": "つかう"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「置きます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l15-4.png",
+      "image_file": "assets/images/vocabulary/lesson_15/lesson_15_04.png",
+      "reading": "おく"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「作ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l15-5.png",
+      "image_file": "assets/images/vocabulary/lesson_15/lesson_15_05.png",
+      "reading": "つくる"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「売ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l15-6.png",
+      "image_file": "assets/images/vocabulary/lesson_15/lesson_15_06.png",
+      "reading": "うる"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「住みます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l15-7.png",
+      "image_file": "assets/images/vocabulary/lesson_15/lesson_15_07.png",
+      "reading": "すむ"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「研究します］",
+      "image_url": "https://cdn.langoal.com/images/mnn-l15-8.png",
+      "image_file": "assets/images/vocabulary/lesson_15/lesson_15_08.png",
+      "reading": "けんきゅうする"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「資料」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l15-9.png",
+      "image_file": "assets/images/vocabulary/lesson_15/lesson_15_09.png",
+      "reading": "しりょう"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「カタログ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l15-10.png",
+      "image_file": "assets/images/vocabulary/lesson_15/lesson_15_10.png",
+      "reading": "カタログ"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「時刻表」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l15-11.png",
+      "image_file": "assets/images/vocabulary/lesson_15/lesson_15_11.png",
+      "reading": "じこくひょう"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「服」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l15-12.png",
+      "image_file": "assets/images/vocabulary/lesson_15/lesson_15_12.png",
+      "reading": "ふく"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「歯医者」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l15-13.png",
+      "image_file": "assets/images/vocabulary/lesson_15/lesson_15_13.png",
+      "reading": "はいしゃ"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「床屋」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l15-14.png",
+      "image_file": "assets/images/vocabulary/lesson_15/lesson_15_14.png",
+      "reading": "とこや"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「思い出します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l15-15.png",
+      "image_file": "assets/images/vocabulary/lesson_15/lesson_15_15.png",
+      "reading": "おもいだす"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「高校」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l15-16.png",
+      "image_file": "assets/images/vocabulary/lesson_15/lesson_15_16.png",
+      "reading": "こうこう"
+    }
+  ]
+}

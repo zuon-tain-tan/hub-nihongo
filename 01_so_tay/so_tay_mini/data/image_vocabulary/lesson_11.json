@@ -1,0 +1,140 @@
+{
+  "lesson": 11,
+  "source_url": "https://langoal.com/vocbs/lesson-11",
+  "image_dir": "assets/images/vocabulary/lesson_11",
+  "items": [
+    {
+      "index": 2,
+      "vocabulary": "「います［日本に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l11-2.png",
+      "image_file": "assets/images/vocabulary/lesson_11/lesson_11_02.png",
+      "reading": "いる"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「かかります［時間が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l11-3.png",
+      "image_file": "assets/images/vocabulary/lesson_11/lesson_11_03.png",
+      "reading": "かかる"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「休みます［会社を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l11-4.png",
+      "image_file": "assets/images/vocabulary/lesson_11/lesson_11_04.png",
+      "reading": "やすむ"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「りんご」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l11-5.png",
+      "image_file": "assets/images/vocabulary/lesson_11/lesson_11_05.png",
+      "reading": "りんご"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「みかん」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l11-6.png",
+      "image_file": "assets/images/vocabulary/lesson_11/lesson_11_06.png",
+      "reading": "みかん"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「カレー（ライス）」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l11-7.png",
+      "image_file": "assets/images/vocabulary/lesson_11/lesson_11_07.png",
+      "reading": "カレー(ライス) / カレー"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「切手」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l11-8.png",
+      "image_file": "assets/images/vocabulary/lesson_11/lesson_11_08.png",
+      "reading": "きって"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「はがき」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l11-9.png",
+      "image_file": "assets/images/vocabulary/lesson_11/lesson_11_09.png",
+      "reading": "はがき"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「封筒」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l11-10.png",
+      "image_file": "assets/images/vocabulary/lesson_11/lesson_11_10.png",
+      "reading": "ふうとう"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「速達」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l11-11.png",
+      "image_file": "assets/images/vocabulary/lesson_11/lesson_11_11.png",
+      "reading": "そくたつ"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「書留」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l11-12.png",
+      "image_file": "assets/images/vocabulary/lesson_11/lesson_11_12.png",
+      "reading": "かきとめ"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「エアメール」「航空便」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l11-13.png",
+      "image_file": "assets/images/vocabulary/lesson_11/lesson_11_13.png",
+      "reading": "エアメール / こうくうびん"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「船便」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l11-14.png",
+      "image_file": "assets/images/vocabulary/lesson_11/lesson_11_14.png",
+      "reading": "ふなびん"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「兄弟」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l11-15.png",
+      "image_file": "assets/images/vocabulary/lesson_11/lesson_11_15.png",
+      "reading": "きょうだい"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「兄」「お兄さん」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l11-16.png",
+      "image_file": "assets/images/vocabulary/lesson_11/lesson_11_16.png",
+      "reading": "あに / おにいさん"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「姉」「お姉さん」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l11-17.png",
+      "image_file": "assets/images/vocabulary/lesson_11/lesson_11_17.png",
+      "reading": "あね / おねえさん"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「弟」「弟さん」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l11-18.png",
+      "image_file": "assets/images/vocabulary/lesson_11/lesson_11_18.png",
+      "reading": "おとうと / おとうとさん"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「妹」「妹さん」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l11-19.png",
+      "image_file": "assets/images/vocabulary/lesson_11/lesson_11_19.png",
+      "reading": "いもうと / いもうとさん"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「かかります［お金が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l11-20.png",
+      "image_file": "assets/images/vocabulary/lesson_11/lesson_11_20.png",
+      "reading": "かかる"
+    }
+  ]
+}

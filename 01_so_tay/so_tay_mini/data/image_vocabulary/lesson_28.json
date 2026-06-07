@@ -1,0 +1,224 @@
+{
+  "lesson": 28,
+  "source_url": "https://langoal.com/vocbs/lesson-28",
+  "image_dir": "assets/images/vocabulary/lesson_28",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「売れます［パンが］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-1.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_01.png",
+      "reading": "うれる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「踊ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-2.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_02.png",
+      "reading": "おどる"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「噛みます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-3.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_03.png",
+      "reading": "かむ"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「噛みます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-4.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_04.png",
+      "reading": "かむ"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「選びます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-5.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_05.png",
+      "reading": "えらぶ"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「違います」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-6.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_06.png",
+      "reading": "ちがう"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「通います［会社に］［大学に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-7.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_07.png",
+      "reading": "かよう"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「メモします」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-8.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_08.png",
+      "reading": "メモします"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「まじめ［な］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-9.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_09.png",
+      "reading": "まじめ"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「熱心［な］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-10.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_10.png",
+      "reading": "ねっしん"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「優しい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-11.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_11.png",
+      "reading": "やさしい"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「偉い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-12.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_12.png",
+      "reading": "えらい"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「ちょうどいい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-13.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_13.png",
+      "reading": "ちょうどいい"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「習慣」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-14.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_14.png",
+      "reading": "しゅうかん"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「形」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-15.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_15.png",
+      "reading": "かたち"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「色」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-16.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_16.png",
+      "reading": "いろ"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「味」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-17.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_17.png",
+      "reading": "あじ"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「ガム」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-18.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_18.png",
+      "reading": "ガム"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「品物」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-19.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_19.png",
+      "reading": "しなもの"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「値段」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-20.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_20.png",
+      "reading": "ねだん"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「給料」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-21.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_21.png",
+      "reading": "きゅうりょう"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「ボーナス」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-22.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_22.png",
+      "reading": "ボーナス"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「番組」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-23.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_23.png",
+      "reading": "ばんぐみ"
+    },
+    {
+      "index": 24,
+      "vocabulary": "「ドラマ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-24.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_24.png",
+      "reading": "ドラマ"
+    },
+    {
+      "index": 25,
+      "vocabulary": "「小説」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-25.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_25.png",
+      "reading": "しょうせつ"
+    },
+    {
+      "index": 26,
+      "vocabulary": "「小説家」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-26.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_26.png",
+      "reading": "しょうせつか"
+    },
+    {
+      "index": 27,
+      "vocabulary": "「歌手」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-27.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_27.png",
+      "reading": "かしゅ"
+    },
+    {
+      "index": 28,
+      "vocabulary": "「息子」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-28.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_28.png",
+      "reading": "むすこ"
+    },
+    {
+      "index": 30,
+      "vocabulary": "「娘」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-30.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_30.png",
+      "reading": "むすめ"
+    },
+    {
+      "index": 31,
+      "vocabulary": "「ホームステイ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-31.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_31.png",
+      "reading": "ホームステイ"
+    },
+    {
+      "index": 32,
+      "vocabulary": "「会話」「おしゃべりします」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l28-32.png",
+      "image_file": "assets/images/vocabulary/lesson_28/lesson_28_32.png",
+      "reading": "かいわ / おしゃべりします"
+    }
+  ]
+}

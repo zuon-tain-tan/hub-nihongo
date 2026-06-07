@@ -1,0 +1,91 @@
+{
+  "lesson": 4,
+  "source_url": "https://langoal.com/vocbs/lesson-4",
+  "image_dir": "assets/images/vocabulary/lesson_04",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「起きます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l4-1.png",
+      "image_file": "assets/images/vocabulary/lesson_04/lesson_04_01.png",
+      "reading": "おきる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「寝ます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l4-2.png",
+      "image_file": "assets/images/vocabulary/lesson_04/lesson_04_02.png",
+      "reading": "ねる"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「休みます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l4-4.png",
+      "image_file": "assets/images/vocabulary/lesson_04/lesson_04_04.png",
+      "reading": "やすむ"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「終わります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l4-6.png",
+      "image_file": "assets/images/vocabulary/lesson_04/lesson_04_06.png",
+      "reading": "おわる"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「デパート」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l4-7.png",
+      "image_file": "assets/images/vocabulary/lesson_04/lesson_04_07.png",
+      "reading": "デパート"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「銀行」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l4-8.png",
+      "image_file": "assets/images/vocabulary/lesson_04/lesson_04_08.png",
+      "reading": "ぎんこう"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「郵便局」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l4-9.png",
+      "image_file": "assets/images/vocabulary/lesson_04/lesson_04_09.png",
+      "reading": "ゆうびんきょく"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「図書館」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l4-10.png",
+      "image_file": "assets/images/vocabulary/lesson_04/lesson_04_10.png",
+      "reading": "としょかん"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「美術館」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l4-11.png",
+      "image_file": "assets/images/vocabulary/lesson_04/lesson_04_11.png",
+      "reading": "びじゅつかん"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「朝」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l4-12.png",
+      "image_file": "assets/images/vocabulary/lesson_04/lesson_04_12.png",
+      "reading": "あさ"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「昼」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l4-13.png",
+      "image_file": "assets/images/vocabulary/lesson_04/lesson_04_13.png",
+      "reading": "ひる"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「晩」「夜」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l4-14.png",
+      "image_file": "assets/images/vocabulary/lesson_04/lesson_04_14.png",
+      "reading": "ばん / よる"
+    }
+  ]
+}

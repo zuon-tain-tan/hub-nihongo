@@ -1,0 +1,175 @@
+{
+  "lesson": 5,
+  "source_url": "https://langoal.com/vocbs/lesson-5",
+  "image_dir": "assets/images/vocabulary/lesson_05",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「行きます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-1.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_01.png",
+      "reading": "いく"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「来ます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-2.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_02.png",
+      "reading": "くる"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「帰ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-3.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_03.png",
+      "reading": "かえる"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「学校」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-4.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_04.png",
+      "reading": "がっこう"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「スーパー」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-5.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_05.png",
+      "reading": "スーパー"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「駅」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-6.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_06.png",
+      "reading": "えき"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「飛行機」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-7.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_07.png",
+      "reading": "ひこうき"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「船」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-8.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_08.png",
+      "reading": "ふね"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「電車」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-9.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_09.png",
+      "reading": "でんしゃ"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「地下鉄」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-10.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_10.png",
+      "reading": "ちかてつ"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「新幹線」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-11.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_11.png",
+      "reading": "しんかんせん"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「バス」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-12.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_12.png",
+      "reading": "バス"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「タクシー」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-13.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_13.png",
+      "reading": "タクシー"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「自転車」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-14.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_14.png",
+      "reading": "じてんしゃ"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「歩いて」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-15.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_15.png",
+      "reading": "あるいて"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「友達」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-16.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_16.png",
+      "reading": "ともだち"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「彼」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-17.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_17.png",
+      "reading": "かれ"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「彼女」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-18.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_18.png",
+      "reading": "かのじょ"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「家族」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-19.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_19.png",
+      "reading": "かぞく"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「一人で」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-20.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_20.png",
+      "reading": "ひとりで"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「誕生日」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-21.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_21.png",
+      "reading": "たんじょうび"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「普通」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-22.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_22.png",
+      "reading": "ふつう"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「急行」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-23.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_23.png",
+      "reading": "きゅうこう"
+    },
+    {
+      "index": 24,
+      "vocabulary": "「特急」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l5-24.png",
+      "image_file": "assets/images/vocabulary/lesson_05/lesson_05_24.png",
+      "reading": "とっきゅう"
+    }
+  ]
+}

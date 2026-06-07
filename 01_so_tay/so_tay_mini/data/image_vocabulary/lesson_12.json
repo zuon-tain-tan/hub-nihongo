@@ -1,0 +1,252 @@
+{
+  "lesson": 12,
+  "source_url": "https://langoal.com/vocbs/lesson-12",
+  "image_dir": "assets/images/vocabulary/lesson_12",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「簡単（な）」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-1.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_01.png",
+      "reading": "かんたん"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「近い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-2.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_02.png",
+      "reading": "ちかい"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「遠い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-3.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_03.png",
+      "reading": "とおい"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「早い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-4.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_04.png",
+      "reading": "はやい"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「遅い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-5.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_05.png",
+      "reading": "おそい"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「遅い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-6.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_06.png",
+      "reading": "おそい"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「速い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-7.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_07.png",
+      "reading": "はやい"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「多い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-8.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_08.png",
+      "reading": "おおい"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「少ない」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-9.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_09.png",
+      "reading": "すくない"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「温かい」「暖かい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-10.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_10.png",
+      "reading": "あたたかい"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「涼しい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-11.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_11.png",
+      "reading": "すずしい"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「甘い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-12.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_12.png",
+      "reading": "あまい"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「辛い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-13.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_13.png",
+      "reading": "からい"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「重い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-14.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_14.png",
+      "reading": "おもい"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「軽い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-15.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_15.png",
+      "reading": "かるい"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「季節」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-16.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_16.png",
+      "reading": "きせつ"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「春」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-17.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_17.png",
+      "reading": "はる"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「夏」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-18.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_18.png",
+      "reading": "なつ"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「秋」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-19.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_19.png",
+      "reading": "あき"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「冬」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-20.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_20.png",
+      "reading": "ふゆ"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「天気」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-21.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_21.png",
+      "reading": "てんき"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「雨」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-22.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_22.png",
+      "reading": "あめ"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「雪」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-23.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_23.png",
+      "reading": "ゆき"
+    },
+    {
+      "index": 24,
+      "vocabulary": "「曇り」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-24.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_24.png",
+      "reading": "くもり"
+    },
+    {
+      "index": 25,
+      "vocabulary": "「ホテル」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-25.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_25.png",
+      "reading": "ホテル"
+    },
+    {
+      "index": 26,
+      "vocabulary": "「空港」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-26.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_26.png",
+      "reading": "くうこう"
+    },
+    {
+      "index": 27,
+      "vocabulary": "「海」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-27.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_27.png",
+      "reading": "うみ"
+    },
+    {
+      "index": 28,
+      "vocabulary": "「パーティー」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-28.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_28.png",
+      "reading": "パーティー"
+    },
+    {
+      "index": 29,
+      "vocabulary": "「（お）祭り」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-29.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_29.png",
+      "reading": "おまつり"
+    },
+    {
+      "index": 30,
+      "vocabulary": "「試験」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-30.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_30.png",
+      "reading": "しけん"
+    },
+    {
+      "index": 31,
+      "vocabulary": "「すき焼き」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-31.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_31.png",
+      "reading": "すきやき"
+    },
+    {
+      "index": 32,
+      "vocabulary": "「刺身」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-32.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_32.png",
+      "reading": "さしみ"
+    },
+    {
+      "index": 33,
+      "vocabulary": "「（お）寿司」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-33.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_33.png",
+      "reading": "すし"
+    },
+    {
+      "index": 34,
+      "vocabulary": "「天ぷら」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-34.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_34.png",
+      "reading": "てんぷら"
+    },
+    {
+      "index": 35,
+      "vocabulary": "「紅葉」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l12-35.png",
+      "image_file": "assets/images/vocabulary/lesson_12/lesson_12_35.png",
+      "reading": "もみじ"
+    }
+  ]
+}

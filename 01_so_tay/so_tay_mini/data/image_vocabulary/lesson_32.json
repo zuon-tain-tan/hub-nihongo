@@ -1,0 +1,238 @@
+{
+  "lesson": 32,
+  "source_url": "https://langoal.com/vocbs/lesson-32",
+  "image_dir": "assets/images/vocabulary/lesson_32",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「運動します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-1.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_01.png",
+      "reading": "うんどうする"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「成功します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-2.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_02.png",
+      "reading": "せいこうする"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「失敗します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-3.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_03.png",
+      "reading": "しっぱいする"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「失敗します［～に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-4.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_04.png",
+      "reading": "しっぱいする"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「合格します［～に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-5.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_05.png",
+      "reading": "ごうかくする"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「戻ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-6.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_06.png",
+      "reading": "もどる"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「やみます［雨が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-7.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_07.png",
+      "reading": "やみます"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「曇ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-9.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_09.png",
+      "reading": "くもる"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「吹きます［風が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-10.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_10.png",
+      "reading": "ふく"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「治ります［病気が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-11.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_11.png",
+      "reading": "なおります"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「直ります［故障が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-12.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_12.png",
+      "reading": "なおります"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「続きます［熱が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-13.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_13.png",
+      "reading": "つづく"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「ひきます［風邪を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-14.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_14.png",
+      "reading": "ひきます"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「冷やします」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-15.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_15.png",
+      "reading": "ひやす"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「心配［な］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-16.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_16.png",
+      "reading": "しんぱい"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「十分［な］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-17.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_17.png",
+      "reading": "じゅうぶん"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「おかしい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-18.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_18.png",
+      "reading": "おかしい"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「うるさい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-19.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_19.png",
+      "reading": "うるさい"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「やけど」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-20.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_20.png",
+      "reading": "やけど"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「怪我」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-21.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_21.png",
+      "reading": "けが"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「咳」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-22.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_22.png",
+      "reading": "せき"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「太陽」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-23.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_23.png",
+      "reading": "たいよう"
+    },
+    {
+      "index": 24,
+      "vocabulary": "「星」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-24.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_24.png",
+      "reading": "ほし"
+    },
+    {
+      "index": 25,
+      "vocabulary": "「月」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-25.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_25.png",
+      "reading": "がつ"
+    },
+    {
+      "index": 26,
+      "vocabulary": "「風」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-26.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_26.png",
+      "reading": "かぜ"
+    },
+    {
+      "index": 27,
+      "vocabulary": "「北」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-27.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_27.png",
+      "reading": "きた"
+    },
+    {
+      "index": 28,
+      "vocabulary": "「南」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-28.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_28.png",
+      "reading": "みなみ"
+    },
+    {
+      "index": 29,
+      "vocabulary": "「西」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-29.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_29.png",
+      "reading": "にし"
+    },
+    {
+      "index": 30,
+      "vocabulary": "「東」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-30.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_30.png",
+      "reading": "ひがし"
+    },
+    {
+      "index": 31,
+      "vocabulary": "「水道」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-31.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_31.png",
+      "reading": "すいどう"
+    },
+    {
+      "index": 32,
+      "vocabulary": "「胃」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-32.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_32.png",
+      "reading": "い"
+    },
+    {
+      "index": 33,
+      "vocabulary": "「働きすぎ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-33.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_33.png",
+      "reading": "はたらきすぎ"
+    },
+    {
+      "index": 34,
+      "vocabulary": "「無理をします」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l32-34.png",
+      "image_file": "assets/images/vocabulary/lesson_32/lesson_32_34.png",
+      "reading": "むりをする"
+    }
+  ]
+}

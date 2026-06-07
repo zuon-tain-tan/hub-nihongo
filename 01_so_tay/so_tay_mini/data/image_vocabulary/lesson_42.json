@@ -1,0 +1,154 @@
+{
+  "lesson": 42,
+  "source_url": "https://langoal.com/vocbs/lesson-42",
+  "image_dir": "assets/images/vocabulary/lesson_42",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「包みます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l42-1.png",
+      "image_file": "assets/images/vocabulary/lesson_42/lesson_42_01.png",
+      "reading": "つつむ"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「沸かします」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l42-2.png",
+      "image_file": "assets/images/vocabulary/lesson_42/lesson_42_02.png",
+      "reading": "わかす"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「混ぜます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l42-3.png",
+      "image_file": "assets/images/vocabulary/lesson_42/lesson_42_03.png",
+      "reading": "まぜる"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「計算します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l42-4.png",
+      "image_file": "assets/images/vocabulary/lesson_42/lesson_42_04.png",
+      "reading": "けいさんする"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「厚い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l42-5.png",
+      "image_file": "assets/images/vocabulary/lesson_42/lesson_42_05.png",
+      "reading": "あつい"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「薄い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l42-6.png",
+      "image_file": "assets/images/vocabulary/lesson_42/lesson_42_06.png",
+      "reading": "うすい"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「弁護士」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l42-7.png",
+      "image_file": "assets/images/vocabulary/lesson_42/lesson_42_07.png",
+      "reading": "べんごし"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「音楽家」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l42-8.png",
+      "image_file": "assets/images/vocabulary/lesson_42/lesson_42_08.png",
+      "reading": "おんがくか"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「歴史」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l42-9.png",
+      "image_file": "assets/images/vocabulary/lesson_42/lesson_42_09.png",
+      "reading": "れきし"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「戦争」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l42-10.png",
+      "image_file": "assets/images/vocabulary/lesson_42/lesson_42_10.png",
+      "reading": "せんそう"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「平和」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l42-11.png",
+      "image_file": "assets/images/vocabulary/lesson_42/lesson_42_11.png",
+      "reading": "へいわ"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「ミキサー」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l42-12.png",
+      "image_file": "assets/images/vocabulary/lesson_42/lesson_42_12.png",
+      "reading": "ミキサー"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「やかん」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l42-13.png",
+      "image_file": "assets/images/vocabulary/lesson_42/lesson_42_13.png",
+      "reading": "やかん"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「栓抜き」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l42-14.png",
+      "image_file": "assets/images/vocabulary/lesson_42/lesson_42_14.png",
+      "reading": "せんぬき"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「缶切り」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l42-15.png",
+      "image_file": "assets/images/vocabulary/lesson_42/lesson_42_15.png",
+      "reading": "かんきり"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「缶詰」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l42-16.png",
+      "image_file": "assets/images/vocabulary/lesson_42/lesson_42_16.png",
+      "reading": "かんづめ"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「そろばん」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l42-17.png",
+      "image_file": "assets/images/vocabulary/lesson_42/lesson_42_17.png",
+      "reading": "そろばん"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「体温計」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l42-18.png",
+      "image_file": "assets/images/vocabulary/lesson_42/lesson_42_18.png",
+      "reading": "たいおんけい"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「材料」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l42-19.png",
+      "image_file": "assets/images/vocabulary/lesson_42/lesson_42_19.png",
+      "reading": "ざいりょう"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「石」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l42-20.png",
+      "image_file": "assets/images/vocabulary/lesson_42/lesson_42_20.png",
+      "reading": "いし"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「ピラミッド」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l42-21.png",
+      "image_file": "assets/images/vocabulary/lesson_42/lesson_42_21.png",
+      "reading": "ピラミッド"
+    }
+  ]
+}

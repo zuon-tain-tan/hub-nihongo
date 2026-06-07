@@ -342,3 +342,7 @@ def load_special_topics(data_dir):
         "aisatsu": load_json_file(topic_dir / "aisatsu.json", []),
         "garbage_sorting": load_json_file(topic_dir / "garbage_sorting.json", []),
     }
+
+
+def load_kaiwa_before_departure(data_dir):
+    return load_json_file(Path(data_dir) / "topics" / "kaiwa_before_departure.json", {})

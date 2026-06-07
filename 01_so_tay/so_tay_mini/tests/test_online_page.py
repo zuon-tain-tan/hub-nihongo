@@ -11,7 +11,7 @@ SRC_DIR = ROOT_DIR / "src"
 if str(SRC_DIR) not in sys.path:
     sys.path.insert(0, str(SRC_DIR))
 
-from sections import add_online_version_page
+from sections import add_completion_image_page, add_online_version_page
 
 
 class OnlineVersionPageTest(unittest.TestCase):
@@ -32,6 +32,15 @@ class OnlineVersionPageTest(unittest.TestCase):
             ],
         )
         self.assertNotIn("", texts[-5:])
+
+    def test_completion_image_page_uses_18_cm_height(self):
+        doc = Document()
+        image_path = ROOT_DIR / "assets" / "images" / "notebook" / "hoan_thanh_so_tay.png"
+
+        add_completion_image_page(doc, image_path)
+
+        self.assertEqual(len(doc.inline_shapes), 1)
+        self.assertAlmostEqual(doc.inline_shapes[0].height.cm, 18.0, places=1)
 
 
 if __name__ == "__main__":

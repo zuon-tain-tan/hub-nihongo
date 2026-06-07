@@ -1,0 +1,119 @@
+{
+  "lesson": 21,
+  "source_url": "https://langoal.com/vocbs/lesson-21",
+  "image_dir": "assets/images/vocabulary/lesson_21",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「思います」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l21-1.png",
+      "image_file": "assets/images/vocabulary/lesson_21/lesson_21_01.png",
+      "reading": "おもう"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「言います」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l21-2.png",
+      "image_file": "assets/images/vocabulary/lesson_21/lesson_21_02.png",
+      "reading": "いう"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「足ります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l21-3.png",
+      "image_file": "assets/images/vocabulary/lesson_21/lesson_21_03.png",
+      "reading": "たりる"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「勝ちます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l21-4.png",
+      "image_file": "assets/images/vocabulary/lesson_21/lesson_21_04.png",
+      "reading": "かつ"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「負けます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l21-5.png",
+      "image_file": "assets/images/vocabulary/lesson_21/lesson_21_05.png",
+      "reading": "まける"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「あります［お祭りが］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l21-6.png",
+      "image_file": "assets/images/vocabulary/lesson_21/lesson_21_06.png",
+      "reading": "ある"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「役に立ちます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l21-7.png",
+      "image_file": "assets/images/vocabulary/lesson_21/lesson_21_07.png",
+      "reading": "やくにたつ"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「不便な」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l21-8.png",
+      "image_file": "assets/images/vocabulary/lesson_21/lesson_21_08.png",
+      "reading": "ふべんな"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「すごい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l21-9.png",
+      "image_file": "assets/images/vocabulary/lesson_21/lesson_21_09.png",
+      "reading": "すごい"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「ニュース」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l21-10.png",
+      "image_file": "assets/images/vocabulary/lesson_21/lesson_21_10.png",
+      "reading": "ニュース"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「スピーチ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l21-11.png",
+      "image_file": "assets/images/vocabulary/lesson_21/lesson_21_11.png",
+      "reading": "スピーチ"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「試合」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l21-12.png",
+      "image_file": "assets/images/vocabulary/lesson_21/lesson_21_12.png",
+      "reading": "しあい"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「アルバイト」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l21-13.png",
+      "image_file": "assets/images/vocabulary/lesson_21/lesson_21_13.png",
+      "reading": "アルバイト"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「交通」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l21-14.png",
+      "image_file": "assets/images/vocabulary/lesson_21/lesson_21_14.png",
+      "reading": "こうつう"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「ラッシュ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l21-15.png",
+      "image_file": "assets/images/vocabulary/lesson_21/lesson_21_15.png",
+      "reading": "ラッシュ"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「しばらくですね。」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l21-16.png",
+      "image_file": "assets/images/vocabulary/lesson_21/lesson_21_16.png",
+      "reading": "しばらくですね。"
+    }
+  ]
+}

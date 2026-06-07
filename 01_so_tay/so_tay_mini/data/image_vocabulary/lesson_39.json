@@ -1,0 +1,224 @@
+{
+  "lesson": 39,
+  "source_url": "https://langoal.com/vocbs/lesson-39",
+  "image_dir": "assets/images/vocabulary/lesson_39",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「答えます［質問に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-1.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_01.png",
+      "reading": "こたえる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「倒れます［ビルが］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-2.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_02.png",
+      "reading": "たおれる"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「焼けます［パンが］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-4.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_04.png",
+      "reading": "やける"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「焼けます［肉が］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-5.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_05.png",
+      "reading": "やける"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「通ります［道を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-6.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_06.png",
+      "reading": "とおる"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「死にます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-7.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_07.png",
+      "reading": "しぬ"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「びっくりします」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-8.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_08.png",
+      "reading": "びっくりします"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「がっかりします」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-9.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_09.png",
+      "reading": "がっかりします"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「安心します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-10.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_10.png",
+      "reading": "あんしんする"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「遅刻します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-11.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_11.png",
+      "reading": "ちこくします"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「早退します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-12.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_12.png",
+      "reading": "そうたいします"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「喧嘩します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-13.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_13.png",
+      "reading": "けんかします"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「離婚します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-14.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_14.png",
+      "reading": "りこんする"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「複雑［な］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-15.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_15.png",
+      "reading": "ふくざつ"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「邪魔［な］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-16.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_16.png",
+      "reading": "じゃま"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「汚い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-17.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_17.png",
+      "reading": "きたない"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「嬉しい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-18.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_18.png",
+      "reading": "うれしい"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「悲しい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-19.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_19.png",
+      "reading": "かなしい"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「恥ずかしい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-20.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_20.png",
+      "reading": "はずかしい"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「地震」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-21.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_21.png",
+      "reading": "じしん"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「台風」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-22.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_22.png",
+      "reading": "たいふう"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「火事」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-23.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_23.png",
+      "reading": "かじ"
+    },
+    {
+      "index": 25,
+      "vocabulary": "「（お）見合い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-25.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_25.png",
+      "reading": "みあい"
+    },
+    {
+      "index": 26,
+      "vocabulary": "「フロント」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-26.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_26.png",
+      "reading": "フロント"
+    },
+    {
+      "index": 27,
+      "vocabulary": "「ー号室」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-27.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_27.png",
+      "reading": "ごうしつ"
+    },
+    {
+      "index": 28,
+      "vocabulary": "「汗」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-28.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_28.png",
+      "reading": "あせ"
+    },
+    {
+      "index": 29,
+      "vocabulary": "「タオル」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-29.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_29.png",
+      "reading": "タオル"
+    },
+    {
+      "index": 30,
+      "vocabulary": "「石鹸」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-30.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_30.png",
+      "reading": "せっけん"
+    },
+    {
+      "index": 31,
+      "vocabulary": "「トラック」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-31.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_31.png",
+      "reading": "トラック"
+    },
+    {
+      "index": 32,
+      "vocabulary": "「ぶつかります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-32.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_32.png",
+      "reading": "ぶつかります"
+    },
+    {
+      "index": 33,
+      "vocabulary": "「並びます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l39-33.png",
+      "image_file": "assets/images/vocabulary/lesson_39/lesson_39_33.png",
+      "reading": "ならぶ"
+    }
+  ]
+}

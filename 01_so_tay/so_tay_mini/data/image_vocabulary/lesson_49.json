@@ -1,0 +1,56 @@
+{
+  "lesson": 49,
+  "source_url": "https://langoal.com/vocbs/lesson-49",
+  "image_dir": "assets/images/vocabulary/lesson_49",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「勤めます［会社に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l49-1.png",
+      "image_file": "assets/images/vocabulary/lesson_49/lesson_49_01.png",
+      "reading": "つとめる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「過ごします」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l49-2.png",
+      "image_file": "assets/images/vocabulary/lesson_49/lesson_49_02.png",
+      "reading": "すごす"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「寄ります［コンビニに］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l49-3.png",
+      "image_file": "assets/images/vocabulary/lesson_49/lesson_49_03.png",
+      "reading": "よります"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「旅館」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l49-4.png",
+      "image_file": "assets/images/vocabulary/lesson_49/lesson_49_04.png",
+      "reading": "りょかん"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「バス停」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l49-5.png",
+      "image_file": "assets/images/vocabulary/lesson_49/lesson_49_05.png",
+      "reading": "バスてい"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「貿易」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l49-6.png",
+      "image_file": "assets/images/vocabulary/lesson_49/lesson_49_06.png",
+      "reading": "ぼうえき"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「出します［熱を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l49-7.png",
+      "image_file": "assets/images/vocabulary/lesson_49/lesson_49_07.png",
+      "reading": "だす"
+    }
+  ]
+}

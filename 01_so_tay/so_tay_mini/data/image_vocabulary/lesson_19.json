@@ -1,0 +1,147 @@
+{
+  "lesson": 19,
+  "source_url": "https://langoal.com/vocbs/lesson-19",
+  "image_dir": "assets/images/vocabulary/lesson_19",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「登ります［山に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l19-1.png",
+      "image_file": "assets/images/vocabulary/lesson_19/lesson_19_01.png",
+      "reading": "のぼる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「泊まります［～に］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l19-2.png",
+      "image_file": "assets/images/vocabulary/lesson_19/lesson_19_02.png",
+      "reading": "とまる"
+    },
+    {
+      "index": 3,
+      "vocabulary": "「掃除します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l19-3.png",
+      "image_file": "assets/images/vocabulary/lesson_19/lesson_19_03.png",
+      "reading": "そうじする"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「洗濯します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l19-4.png",
+      "image_file": "assets/images/vocabulary/lesson_19/lesson_19_04.png",
+      "reading": "せんたくする"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「練習します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l19-5.png",
+      "image_file": "assets/images/vocabulary/lesson_19/lesson_19_05.png",
+      "reading": "れんしゅうする"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「なります」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l19-6.png",
+      "image_file": "assets/images/vocabulary/lesson_19/lesson_19_06.png",
+      "reading": "なる"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「眠い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l19-7.png",
+      "image_file": "assets/images/vocabulary/lesson_19/lesson_19_07.png",
+      "reading": "ねむい"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「強い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l19-8.png",
+      "image_file": "assets/images/vocabulary/lesson_19/lesson_19_08.png",
+      "reading": "つよい"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「弱い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l19-9.png",
+      "image_file": "assets/images/vocabulary/lesson_19/lesson_19_09.png",
+      "reading": "よわい"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「調子がいい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l19-10.png",
+      "image_file": "assets/images/vocabulary/lesson_19/lesson_19_10.png",
+      "reading": "ちょうしがいい"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「調子が悪い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l19-11.png",
+      "image_file": "assets/images/vocabulary/lesson_19/lesson_19_11.png",
+      "reading": "ちょうしがわるい"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「ゴルフ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l19-12.png",
+      "image_file": "assets/images/vocabulary/lesson_19/lesson_19_12.png",
+      "reading": "ゴルフ"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「相撲」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l19-13.png",
+      "image_file": "assets/images/vocabulary/lesson_19/lesson_19_13.png",
+      "reading": "すもう"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「パチンコ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l19-14.png",
+      "image_file": "assets/images/vocabulary/lesson_19/lesson_19_14.png",
+      "reading": "パチンコ"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「お茶」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l19-15.png",
+      "image_file": "assets/images/vocabulary/lesson_19/lesson_19_15.png",
+      "reading": "おちゃ"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「乾杯」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l19-16.png",
+      "image_file": "assets/images/vocabulary/lesson_19/lesson_19_16.png",
+      "reading": "かんぱい"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「ダイエット」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l19-17.png",
+      "image_file": "assets/images/vocabulary/lesson_19/lesson_19_17.png",
+      "reading": "ダイエット"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「無理［な］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l19-18.png",
+      "image_file": "assets/images/vocabulary/lesson_19/lesson_19_18.png",
+      "reading": "むり"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「体にいい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l19-19.png",
+      "image_file": "assets/images/vocabulary/lesson_19/lesson_19_19.png",
+      "reading": "からだにいい"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「ケーキ」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l19-20.png",
+      "image_file": "assets/images/vocabulary/lesson_19/lesson_19_20.png",
+      "reading": "ケーキ"
+    }
+  ]
+}

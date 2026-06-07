@@ -1,0 +1,161 @@
+{
+  "lesson": 38,
+  "source_url": "https://langoal.com/vocbs/lesson-38",
+  "image_dir": "assets/images/vocabulary/lesson_38",
+  "items": [
+    {
+      "index": 1,
+      "vocabulary": "「育てます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-1.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_01.png",
+      "reading": "そだてる"
+    },
+    {
+      "index": 2,
+      "vocabulary": "「運びます」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-2.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_02.png",
+      "reading": "はこぶ"
+    },
+    {
+      "index": 4,
+      "vocabulary": "「入院します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-4.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_04.png",
+      "reading": "にゅういんする"
+    },
+    {
+      "index": 5,
+      "vocabulary": "「退院します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-5.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_05.png",
+      "reading": "たいいんする"
+    },
+    {
+      "index": 6,
+      "vocabulary": "「入れます［電源を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-6.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_06.png",
+      "reading": "いれる"
+    },
+    {
+      "index": 7,
+      "vocabulary": "「切ります［電源を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-7.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_07.png",
+      "reading": "きる"
+    },
+    {
+      "index": 8,
+      "vocabulary": "「掛けます［鍵を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-8.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_08.png",
+      "reading": "かける"
+    },
+    {
+      "index": 9,
+      "vocabulary": "「気持ちがいい」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-9.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_09.png",
+      "reading": "きもちがいい"
+    },
+    {
+      "index": 10,
+      "vocabulary": "「気持ちが悪い」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-10.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_10.png",
+      "reading": "きもちがわるい"
+    },
+    {
+      "index": 11,
+      "vocabulary": "「赤ちゃん」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-11.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_11.png",
+      "reading": "あかちゃん"
+    },
+    {
+      "index": 12,
+      "vocabulary": "「小学校」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-12.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_12.png",
+      "reading": "しょうがっこう"
+    },
+    {
+      "index": 13,
+      "vocabulary": "「中学校」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-13.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_13.png",
+      "reading": "ちゅうがっこう"
+    },
+    {
+      "index": 14,
+      "vocabulary": "「駅前」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-14.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_14.png",
+      "reading": "えきまえ"
+    },
+    {
+      "index": 15,
+      "vocabulary": "「海岸」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-15.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_15.png",
+      "reading": "かいがん"
+    },
+    {
+      "index": 16,
+      "vocabulary": "「嘘」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-16.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_16.png",
+      "reading": "うそ"
+    },
+    {
+      "index": 17,
+      "vocabulary": "「書類」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-17.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_17.png",
+      "reading": "しょるい"
+    },
+    {
+      "index": 18,
+      "vocabulary": "「～製」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-18.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_18.png",
+      "reading": "せい"
+    },
+    {
+      "index": 19,
+      "vocabulary": "「回覧」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-19.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_19.png",
+      "reading": "かいらん"
+    },
+    {
+      "index": 20,
+      "vocabulary": "「研究室」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-20.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_20.png",
+      "reading": "けんきゅうしつ"
+    },
+    {
+      "index": 21,
+      "vocabulary": "「整理します」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-21.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_21.png",
+      "reading": "せいりする"
+    },
+    {
+      "index": 22,
+      "vocabulary": "「判子」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-22.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_22.png",
+      "reading": "はんこ"
+    },
+    {
+      "index": 23,
+      "vocabulary": "「押します［判子を］」",
+      "image_url": "https://cdn.langoal.com/images/mnn-l38-23.png",
+      "image_file": "assets/images/vocabulary/lesson_38/lesson_38_23.png",
+      "reading": "おす"
+    }
+  ]
+}

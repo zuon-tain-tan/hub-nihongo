@@ -35,6 +35,27 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## Cai Selenium Cho Tinh Nang 4
+
+Tinh nang `4. Hinh anh tu vung` dung Selenium de mo trang Langoal va tai anh tu vung. May can co Chrome hoac Edge.
+
+```powershell
+pip install -r requirements.txt
+```
+
+Neu Selenium bao khong tim thay trinh duyet, hay cai Google Chrome hoac Microsoft Edge ban moi nhat roi chay lai `python main.py`.
+
+Khi chay tinh nang 4, co the nhap mot bai hoac nhieu bai:
+
+```text
+1
+1-50
+1,3,5
+1-3,7
+```
+
+Gioi han hop le la bai 1 den bai 50. Bai nao da co `data/image_vocabulary/lesson_xx.json` thi chuong trinh se dung lai metadata san co va bo qua buoc tai lai.
+
 Neu cai editable package:
 
 ```powershell
